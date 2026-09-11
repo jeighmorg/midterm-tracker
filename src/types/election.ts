@@ -10,7 +10,7 @@ export type Rating =
 export interface StateRaceData {
   /** Two-letter USPS code, e.g. "OH" */
   stateCode: string
-  /** Number of House seats in this state (for tally weighting until district-level data lands) */
+  /** Number of House seats in this state (derived from district topology) */
   houseSeats: number
   /** Whether this state has a Senate seat up in the 2026 midterms */
   senateSeatUp: boolean
@@ -18,6 +18,27 @@ export interface StateRaceData {
   rating: Rating
   /** Partisan lean, e.g. Dave's Redistricting App "D+7" expressed as signed number, D positive */
   partisanLean: number
+}
+
+export interface DistrictRaceData {
+  /** `${stateCode}-${districtCode}`, e.g. "CA-39" or "AK-00" for at-large */
+  id: string
+  stateCode: string
+  /** Census CD119FP code, "00" for at-large single-district states */
+  districtCode: string
+  rating: Rating
+  partisanLean: number
+}
+
+export function ratingFromLean(lean: number): Rating {
+  const d = -lean // positive = D lean
+  if (d >= 10) return 'safe-d'
+  if (d >= 5) return 'likely-d'
+  if (d >= 1) return 'lean-d'
+  if (d > -1) return 'tossup'
+  if (d > -5) return 'lean-r'
+  if (d > -10) return 'likely-r'
+  return 'safe-r'
 }
 
 export const RATING_COLORS: Record<Rating, string> = {

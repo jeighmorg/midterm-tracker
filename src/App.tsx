@@ -1,10 +1,11 @@
 import { useMemo, useState } from 'react'
+import { DistrictMap } from './components/map/DistrictMap'
 import { USMap } from './components/map/USMap'
 import { SeatTally } from './components/scenario/SeatTally'
 import { IndicatorWidgets } from './components/widgets/IndicatorWidgets'
+import { DISTRICT_RACE_DATA, TOTAL_HOUSE_DISTRICTS } from './data/districtRaceData'
 import {
   STATE_RACE_DATA,
-  TOTAL_HOUSE_SEATS,
   TOTAL_SENATE_SEATS_UP,
 } from './data/stateRaceData'
 import type { Rating } from './types/election'
@@ -29,26 +30,43 @@ function nextRating(current: Rating): Rating {
 function App() {
   const [view, setView] = useState<ViewMode>('house')
   const [scenarioMode, setScenarioMode] = useState(false)
-  const [overrides, setOverrides] = useState<Record<string, Rating>>({})
+  const [districtOverrides, setDistrictOverrides] = useState<Record<string, Rating>>({})
+  const [stateOverrides, setStateOverrides] = useState<Record<string, Rating>>({})
+
+  const baseRatingByDistrict = useMemo(
+    () => Object.fromEntries(DISTRICT_RACE_DATA.map((d) => [d.id, d.rating])),
+    [],
+  )
+  const effectiveRatingByDistrict = useMemo(
+    () => ({ ...baseRatingByDistrict, ...districtOverrides }),
+    [baseRatingByDistrict, districtOverrides],
+  )
 
   const baseRatingByState = useMemo(
     () => Object.fromEntries(STATE_RACE_DATA.map((s) => [s.stateCode, s.rating])),
     [],
   )
-
   const effectiveRatingByState = useMemo(
-    () => ({ ...baseRatingByState, ...overrides }),
-    [baseRatingByState, overrides],
+    () => ({ ...baseRatingByState, ...stateOverrides }),
+    [baseRatingByState, stateOverrides],
   )
 
-  const activeStates = useMemo(() => {
-    if (view === 'house') return new Set(STATE_RACE_DATA.map((s) => s.stateCode))
-    return new Set(STATE_RACE_DATA.filter((s) => s.senateSeatUp).map((s) => s.stateCode))
-  }, [view])
+  const activeSenateStates = useMemo(
+    () => new Set(STATE_RACE_DATA.filter((s) => s.senateSeatUp).map((s) => s.stateCode)),
+    [],
+  )
+
+  const handleDistrictClick = (districtId: string) => {
+    if (!scenarioMode) return
+    setDistrictOverrides((prev) => ({
+      ...prev,
+      [districtId]: nextRating(effectiveRatingByDistrict[districtId]),
+    }))
+  }
 
   const handleStateClick = (stateCode: string) => {
     if (!scenarioMode) return
-    setOverrides((prev) => ({
+    setStateOverrides((prev) => ({
       ...prev,
       [stateCode]: nextRating(effectiveRatingByState[stateCode]),
     }))
@@ -56,12 +74,12 @@ function App() {
 
   const houseSeatsByRating = useMemo(() => {
     const tally: Partial<Record<Rating, number>> = {}
-    for (const s of STATE_RACE_DATA) {
-      const rating = effectiveRatingByState[s.stateCode]
-      tally[rating] = (tally[rating] ?? 0) + s.houseSeats
+    for (const d of DISTRICT_RACE_DATA) {
+      const rating = effectiveRatingByDistrict[d.id]
+      tally[rating] = (tally[rating] ?? 0) + 1
     }
     return tally
-  }, [effectiveRatingByState])
+  }, [effectiveRatingByDistrict])
 
   const senateSeatsByRating = useMemo(() => {
     const tally: Partial<Record<Rating, number>> = {}
@@ -72,13 +90,21 @@ function App() {
     return tally
   }, [effectiveRatingByState])
 
+  const hasScenario = Object.keys(districtOverrides).length > 0 || Object.keys(stateOverrides).length > 0
+
+  const resetScenario = () => {
+    setDistrictOverrides({})
+    setStateOverrides({})
+  }
+
   return (
     <div className="min-h-screen max-w-5xl mx-auto px-4 py-6 flex flex-col gap-6">
       <header>
         <h1 className="text-2xl font-semibold">2026 Midterms Tracker</h1>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          State-level scaffold — district-level House boundaries land in phase 1 of the build.
-          All ratings shown are placeholder data, not sourced from any rating service yet.
+          House map shows real 119th Congress district boundaries (Census cartographic boundary
+          file). All ratings/lean shown are placeholder data, not sourced from any rating service
+          yet.
         </p>
       </header>
 
@@ -88,7 +114,7 @@ function App() {
             className={`px-3 py-1 ${view === 'house' ? 'bg-gray-900 text-white dark:bg-gray-100 dark:text-gray-900' : ''}`}
             onClick={() => setView('house')}
           >
-            House (all states)
+            House (districts)
           </button>
           <button
             className={`px-3 py-1 ${view === 'senate' ? 'bg-gray-900 text-white dark:bg-gray-100 dark:text-gray-900' : ''}`}
@@ -104,30 +130,37 @@ function App() {
             checked={scenarioMode}
             onChange={(e) => setScenarioMode(e.target.checked)}
           />
-          Scenario mode (click a state to cycle its projection)
+          Scenario mode (click a {view === 'house' ? 'district' : 'state'} to cycle its projection)
         </label>
 
-        {Object.keys(overrides).length > 0 && (
+        {hasScenario && (
           <button
             className="text-sm underline text-gray-500 dark:text-gray-400"
-            onClick={() => setOverrides({})}
+            onClick={resetScenario}
           >
             Reset scenario
           </button>
         )}
       </div>
 
-      <USMap
-        ratingByState={effectiveRatingByState}
-        activeStates={activeStates}
-        onStateClick={handleStateClick}
-      />
+      {view === 'house' ? (
+        <DistrictMap
+          ratingByDistrict={effectiveRatingByDistrict}
+          onDistrictClick={scenarioMode ? handleDistrictClick : undefined}
+        />
+      ) : (
+        <USMap
+          ratingByState={effectiveRatingByState}
+          activeStates={activeSenateStates}
+          onStateClick={scenarioMode ? handleStateClick : undefined}
+        />
+      )}
 
       <div className="flex flex-col gap-4">
         <SeatTally
           label="House"
           seatsByRating={houseSeatsByRating}
-          totalSeats={TOTAL_HOUSE_SEATS}
+          totalSeats={TOTAL_HOUSE_DISTRICTS}
           majorityAt={218}
         />
         <SeatTally

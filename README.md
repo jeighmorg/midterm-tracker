@@ -4,9 +4,9 @@ An interactive map and scenario-builder for the 2026 US House and Senate races, 
 
 ## Status
 
-Early scaffold. Currently renders a **state-level** map (not congressional districts yet) colored by placeholder partisan-lean data, with a working click-to-flip scenario builder and seat-count tally. See [CLAUDE.md](./CLAUDE.md) for the full build roadmap and data-source plan.
+Early scaffold. House map renders real 119th Congress district boundaries (Census cartographic boundary file); Senate map is state-level. Both have a working click-to-flip scenario builder with a live seat-count tally. See [CLAUDE.md](./CLAUDE.md) for the full build roadmap, data-source plan, and a caveat about mid-decade redistricting currency.
 
-**All ratings/lean data in this repo right now are illustrative placeholders**, not sourced from any rating service — see `src/data/stateRaceData.ts`.
+**All ratings/lean data in this repo right now are illustrative placeholders**, not sourced from any rating service — see `src/data/stateRaceData.ts` and `src/data/districtRaceData.ts`.
 
 ## Getting started
 
