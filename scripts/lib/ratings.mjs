@@ -50,7 +50,9 @@ export function extractPvi(rowWikitext) {
   if (!m) return null
   const party = m[1].trim().toUpperCase()
   if (party === 'EVEN') return 0
-  const magnitude = Number(m[2])
+  // Usually positional ({{Shading PVI|R|7}}), but occasionally named ({{Shading PVI|R|value=7}}).
+  const rawMagnitude = m[2]?.replace(/^value\s*=\s*/i, '')
+  const magnitude = Number(rawMagnitude)
   if (Number.isNaN(magnitude)) return null
   return party === 'D' ? magnitude : party === 'R' ? -magnitude : null
 }

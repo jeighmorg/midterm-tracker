@@ -102,10 +102,11 @@ function App() {
       <header>
         <h1 className="text-2xl font-semibold">2026 Midterms Tracker</h1>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          House districts use real 119th Congress boundaries (Census). {REAL_RATING_DISTRICT_COUNT}{' '}
-          of 435 House districts and all {TOTAL_SENATE_SEATS_UP} 2026 Senate races carry real,
-          Wikipedia-aggregated race ratings (updated by running the data pipeline — see CLAUDE.md);
-          remaining House districts fall back to placeholder lean data.
+          House districts use real 119th Congress boundaries (Census). All 435 districts carry real
+          Cook PVI data; {REAL_RATING_DISTRICT_COUNT} of them — the ones at least one rater
+          considers competitive — also carry a real multi-rater consensus rating. All{' '}
+          {TOTAL_SENATE_SEATS_UP} 2026 Senate races carry real ratings too (updated weekly — see
+          CLAUDE.md).
         </p>
       </header>
 

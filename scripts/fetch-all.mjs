@@ -1,4 +1,5 @@
 import { fetchApproval } from './fetch-approval.mjs'
+import { fetchDistrictPvi } from './fetch-district-pvi.mjs'
 import { fetchEconomic } from './fetch-economic.mjs'
 import { fetchGenericBallot } from './fetch-generic-ballot.mjs'
 import { fetchHouseRatings } from './fetch-house-ratings.mjs'
@@ -10,7 +11,12 @@ const tasks = [
   ['approval', fetchApproval],
   ['house ratings', fetchHouseRatings],
   ['senate ratings', fetchSenateRatings],
+  ['district PVI', fetchDistrictPvi],
 ]
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
 
 let failures = 0
 for (const [name, task] of tasks) {
@@ -20,6 +26,7 @@ for (const [name, task] of tasks) {
     failures++
     console.error(`[${name}] FAILED:`, err.message)
   }
+  await sleep(1000) // be polite to Wikipedia/FRED between requests
 }
 
 if (failures > 0) {

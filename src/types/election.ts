@@ -28,6 +28,8 @@ export interface DistrictRaceData {
   districtCode: string
   rating: Rating
   partisanLean: number
+  /** Where `rating`/`partisanLean` came from: multi-rater consensus (competitive seats) or Cook PVI alone (all other seats) */
+  dataSource: 'rater-consensus' | 'cook-pvi'
 }
 
 export function ratingFromLean(lean: number): Rating {

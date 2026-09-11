@@ -6,7 +6,7 @@ An interactive map and scenario-builder for the 2026 US House and Senate races, 
 
 ## Status
 
-House map renders real 119th Congress district boundaries (Census cartographic boundary file); Senate map is state-level. Both have a working click-to-flip scenario builder with a live seat-count tally. Race ratings, generic ballot, presidential approval, and inflation/unemployment are pulled from real sources by the data pipeline (all 35 2026 Senate races, ~150 competitive House districts, and the two economic indicators); remaining House districts fall back to placeholder lean data until a full-district source is added. See [CLAUDE.md](./CLAUDE.md) for the full build roadmap, data-source details, and the redistricting-currency caveat.
+House map renders real 119th Congress district boundaries (Census cartographic boundary file); Senate map is state-level. Both have a working click-to-flip scenario builder with a live seat-count tally. All race/lean data is real, no placeholders: all 435 House districts carry real Cook PVI, ~150 competitive ones also carry a real multi-rater consensus rating, all 35 2026 Senate races carry real ratings, and generic ballot/presidential approval/inflation/unemployment all come from live sources. See [CLAUDE.md](./CLAUDE.md) for the full build roadmap, data-source details, and the redistricting-currency caveat.
 
 ## Getting started
 
