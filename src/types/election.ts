@@ -32,14 +32,14 @@ export interface DistrictRaceData {
   dataSource: 'rater-consensus' | 'cook-pvi'
 }
 
+/** `lean` follows the D-positive convention documented on `partisanLean` above — do not flip its sign here. */
 export function ratingFromLean(lean: number): Rating {
-  const d = -lean // positive = D lean
-  if (d >= 10) return 'safe-d'
-  if (d >= 5) return 'likely-d'
-  if (d >= 1) return 'lean-d'
-  if (d > -1) return 'tossup'
-  if (d > -5) return 'lean-r'
-  if (d > -10) return 'likely-r'
+  if (lean >= 10) return 'safe-d'
+  if (lean >= 5) return 'likely-d'
+  if (lean >= 1) return 'lean-d'
+  if (lean > -1) return 'tossup'
+  if (lean > -5) return 'lean-r'
+  if (lean > -10) return 'likely-r'
   return 'safe-r'
 }
 

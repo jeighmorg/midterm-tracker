@@ -29,13 +29,16 @@ const FALLBACK_SENATE_UP_2026 = new Set([
 const SENATE_UP_2026 =
   Object.keys(senateRatings).length > 0 ? new Set(Object.keys(senateRatings)) : FALLBACK_SENATE_UP_2026
 
+// D-positive, matching StateRaceData.partisanLean's documented convention
+// (previously stored inverted/R-positive, which only "worked" because
+// ratingFromLean used to double-negate — see git history for that bug).
 const PLACEHOLDER_STATE_PARTISAN_LEAN: Record<string, number> = {
-  AL: 15, AK: 9, AZ: 3, AR: 16, CA: -13, CO: -5, CT: -7, DE: -6, FL: 6,
-  GA: 3, HI: -18, ID: 19, IL: -7, IN: 11, IA: 6, KS: 8, KY: 16, LA: 14,
-  ME: -3, MD: -14, MA: -14, MI: -1, MN: -2, MS: 11, MO: 11, MT: 12, NE: 12,
-  NV: 0, NH: -2, NJ: -6, NM: -4, NY: -8, NC: 2, ND: 20, OH: 8, OK: 21,
-  OR: -8, PA: 0, RI: -10, SC: 9, SD: 16, TN: 15, TX: 6, UT: 15, VT: -14,
-  VA: -2, WA: -9, WV: 24, WI: 0, WY: 26,
+  AL: -15, AK: -9, AZ: -3, AR: -16, CA: 13, CO: 5, CT: 7, DE: 6, FL: -6,
+  GA: -3, HI: 18, ID: -19, IL: 7, IN: -11, IA: -6, KS: -8, KY: -16, LA: -14,
+  ME: 3, MD: 14, MA: 14, MI: 1, MN: 2, MS: -11, MO: -11, MT: -12, NE: -12,
+  NV: 0, NH: 2, NJ: 6, NM: 4, NY: 8, NC: -2, ND: -20, OH: -8, OK: -21,
+  OR: 8, PA: 0, RI: 10, SC: -9, SD: -16, TN: -15, TX: -6, UT: -15, VT: 14,
+  VA: 2, WA: 9, WV: -24, WI: 0, WY: -26,
 }
 
 const houseSeatsByState = new Map<string, number>()
