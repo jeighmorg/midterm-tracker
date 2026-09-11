@@ -1,7 +1,9 @@
 import type { GeoJsonObject } from 'geojson'
 import { ComposableMap, Geographies, Geography } from 'react-simple-maps'
 import statesTopo from 'us-atlas/states-10m.json'
+import fundraisingRaw from '../../data/generated/fundraising.json'
 import senateCandidatesRaw from '../../data/generated/senate-candidates.json'
+import stateApprovalRaw from '../../data/generated/state-approval.json'
 import { FIPS_TO_USPS } from '../../data/stateFips'
 import { USPS_TO_STATE_NAME } from '../../data/stateNames'
 import { RATING_COLORS, type Candidate, type Rating } from '../../types/election'
@@ -13,6 +15,14 @@ import { useHoverTooltip } from './useHoverTooltip'
 const STATES_TOPOLOGY = statesTopo as unknown as GeoJsonObject
 
 const SENATE_CANDIDATES = senateCandidatesRaw.states as Record<string, Candidate[]>
+const STATE_APPROVAL = stateApprovalRaw.states as Record<
+  string,
+  { approvePercent: number; disapprovePercent: number; asOf: string }
+>
+const SENATE_FUNDRAISING = fundraisingRaw.senate as Record<
+  string,
+  Record<string, { receipts: number; cashOnHand: number }>
+>
 
 interface USMapProps {
   /** stateCode -> rating to render, including any scenario overrides */
@@ -65,6 +75,8 @@ export function USMap({ ratingByState, activeStates, onStateClick }: USMapProps)
           rating={activeStates.has(hovered) ? ratingByState[hovered] : undefined}
           candidates={activeStates.has(hovered) ? SENATE_CANDIDATES[hovered] : undefined}
           note={activeStates.has(hovered) ? 'No candidate data available' : 'No Senate race in 2026'}
+          stateApproval={STATE_APPROVAL[hovered]}
+          fundraisingByCandidate={SENATE_FUNDRAISING[hovered]}
         />
       )}
     </div>

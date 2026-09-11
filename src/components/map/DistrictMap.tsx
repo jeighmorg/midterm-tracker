@@ -1,6 +1,7 @@
 import { ComposableMap, Geographies, Geography } from 'react-simple-maps'
 import { CONGRESSIONAL_DISTRICTS_TOPOLOGY } from '../../data/districtTopology'
 import { FIPS_TO_USPS } from '../../data/stateFips'
+import fundraisingRaw from '../../data/generated/fundraising.json'
 import houseCandidatesRaw from '../../data/generated/house-candidates.json'
 import { USPS_TO_STATE_NAME } from '../../data/stateNames'
 import { RATING_COLORS, type Candidate, type Rating } from '../../types/election'
@@ -8,6 +9,10 @@ import { MapTooltip } from './MapTooltip'
 import { useHoverTooltip } from './useHoverTooltip'
 
 const HOUSE_CANDIDATES = houseCandidatesRaw.districts as Record<string, Candidate[]>
+const HOUSE_FUNDRAISING = fundraisingRaw.districts as Record<
+  string,
+  Record<string, { receipts: number; cashOnHand: number }>
+>
 
 interface DistrictMapProps {
   /** districtId ("CA-39") -> rating to render, including any scenario overrides */
@@ -63,6 +68,7 @@ export function DistrictMap({ ratingByDistrict, onDistrictClick }: DistrictMapPr
           rating={ratingByDistrict[hovered]}
           candidates={HOUSE_CANDIDATES[hovered]}
           note="No candidate data available"
+          fundraisingByCandidate={HOUSE_FUNDRAISING[hovered]}
         />
       )}
     </div>

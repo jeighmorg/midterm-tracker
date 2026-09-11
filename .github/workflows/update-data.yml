@@ -20,6 +20,8 @@ jobs:
           node-version: 20
 
       - name: Fetch latest data
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
         run: node scripts/fetch-all.mjs
 
       - name: Commit changes if any

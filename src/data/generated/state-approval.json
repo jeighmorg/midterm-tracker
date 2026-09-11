@@ -1,0 +1,126 @@
+{
+  "fetchedAt": "2026-09-11T13:02:06.719Z",
+  "source": "Wikipedia: statewide presidential approval polling (one poll per state, only where a state has actually been polled)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency#Statewide_job_approval_ratings",
+  "states": {
+    "AK": {
+      "source": "Alaska Survey Research",
+      "asOf": "March 19-22, 2026",
+      "approvePercent": 38.1,
+      "disapprovePercent": 53.1,
+      "unsurePercent": 8.9
+    },
+    "AZ": {
+      "source": "Noble Predictive Insights/Arizona Public Opinion Pulse",
+      "asOf": "May 5-7, 2026",
+      "approvePercent": 40,
+      "disapprovePercent": 58,
+      "unsurePercent": 2
+    },
+    "CA": {
+      "source": "Public Policy Institute of California",
+      "asOf": "May 14-18, 2026",
+      "approvePercent": 24,
+      "disapprovePercent": 75,
+      "unsurePercent": 1
+    },
+    "CT": {
+      "source": "University of New Hampshire",
+      "asOf": "March 20-24, 2025",
+      "approvePercent": 39,
+      "disapprovePercent": 59,
+      "unsurePercent": 1
+    },
+    "FL": {
+      "source": "Emerson College Polling",
+      "asOf": "March 29-31, 2026",
+      "approvePercent": 45.6,
+      "disapprovePercent": 46.7,
+      "unsurePercent": 7.7
+    },
+    "GA": {
+      "source": "Tyson Group",
+      "asOf": "January 30–31, 2025",
+      "approvePercent": 49,
+      "disapprovePercent": 45,
+      "unsurePercent": 5
+    },
+    "IA": {
+      "source": "Beacon Research (D)/Shaw & Co. Research (R)",
+      "asOf": "June 23–27, 2026",
+      "approvePercent": 42,
+      "disapprovePercent": 55,
+      "unsurePercent": 3
+    },
+    "MA": {
+      "source": "Emerson College Polling",
+      "asOf": "May 3-4, 2026",
+      "approvePercent": 27.5,
+      "disapprovePercent": 61.9,
+      "unsurePercent": 10.6
+    },
+    "MI": {
+      "source": "EPIC MRA",
+      "asOf": "April 28–May 3, 2025",
+      "approvePercent": 43,
+      "disapprovePercent": 50,
+      "unsurePercent": 7
+    },
+    "NH": {
+      "source": "University of New Hampshire",
+      "asOf": "June 19–23, 2025",
+      "approvePercent": 45,
+      "disapprovePercent": 55,
+      "unsurePercent": 0
+    },
+    "NJ": {
+      "source": "Stockton University",
+      "asOf": "March 18–22, 2025",
+      "approvePercent": 44,
+      "disapprovePercent": 55,
+      "unsurePercent": 1
+    },
+    "NC": {
+      "source": "High Point University",
+      "asOf": "January 9-21, 2026",
+      "approvePercent": 41,
+      "disapprovePercent": 48,
+      "unsurePercent": 11
+    },
+    "OH": {
+      "source": "Bowling Green State University",
+      "asOf": "April 7-14, 2026",
+      "approvePercent": 46,
+      "disapprovePercent": 52,
+      "unsurePercent": 2
+    },
+    "SC": {
+      "source": "Winthrop University",
+      "asOf": "February 21–March 5, 2025",
+      "approvePercent": 45,
+      "disapprovePercent": 40,
+      "unsurePercent": 15
+    },
+    "TX": {
+      "source": "University of Texas/Texas Politics Project",
+      "asOf": "April 18–28, 2025",
+      "approvePercent": 47,
+      "disapprovePercent": 46,
+      "unsurePercent": 7
+    },
+    "VA": {
+      "source": "Christopher Newport University",
+      "asOf": "January 13-20, 2026",
+      "approvePercent": 34,
+      "disapprovePercent": 62,
+      "unsurePercent": 4
+    },
+    "WI": {
+      "source": "Marquette Law School",
+      "asOf": "April 8-16, 2026",
+      "approvePercent": 39,
+      "disapprovePercent": 60,
+      "unsurePercent": 1
+    }
+  }
+}
