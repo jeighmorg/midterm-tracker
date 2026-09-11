@@ -1,0 +1,10 @@
+{
+  "asOf": "September 6, 2026",
+  "fetchedAt": "2026-09-11T07:31:46.761Z",
+  "approvePercent": 37.5,
+  "disapprovePercent": 58.8,
+  "unsurePercent": 3.6,
+  "netText": "−20.8%",
+  "source": "Wikipedia presidential approval polling average (Ballotpedia, CNN, DDHQ, FiftyPlusOne, Race to the WH, RealClearPolitics, Silver Bulletin, The Economist, NYT, VoteHub)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency"
+}

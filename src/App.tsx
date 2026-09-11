@@ -3,7 +3,7 @@ import { DistrictMap } from './components/map/DistrictMap'
 import { USMap } from './components/map/USMap'
 import { SeatTally } from './components/scenario/SeatTally'
 import { IndicatorWidgets } from './components/widgets/IndicatorWidgets'
-import { DISTRICT_RACE_DATA, TOTAL_HOUSE_DISTRICTS } from './data/districtRaceData'
+import { DISTRICT_RACE_DATA, REAL_RATING_DISTRICT_COUNT, TOTAL_HOUSE_DISTRICTS } from './data/districtRaceData'
 import {
   STATE_RACE_DATA,
   TOTAL_SENATE_SEATS_UP,
@@ -102,9 +102,10 @@ function App() {
       <header>
         <h1 className="text-2xl font-semibold">2026 Midterms Tracker</h1>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          House map shows real 119th Congress district boundaries (Census cartographic boundary
-          file). All ratings/lean shown are placeholder data, not sourced from any rating service
-          yet.
+          House districts use real 119th Congress boundaries (Census). {REAL_RATING_DISTRICT_COUNT}{' '}
+          of 435 House districts and all {TOTAL_SENATE_SEATS_UP} 2026 Senate races carry real,
+          Wikipedia-aggregated race ratings (updated by running the data pipeline — see CLAUDE.md);
+          remaining House districts fall back to placeholder lean data.
         </p>
       </header>
 
@@ -120,7 +121,7 @@ function App() {
             className={`px-3 py-1 ${view === 'senate' ? 'bg-gray-900 text-white dark:bg-gray-100 dark:text-gray-900' : ''}`}
             onClick={() => setView('senate')}
           >
-            Senate (2026 Class 2)
+            Senate (2026 races)
           </button>
         </div>
 
@@ -164,7 +165,7 @@ function App() {
           majorityAt={218}
         />
         <SeatTally
-          label="Senate seats up in 2026 (Class 2, 1/3 of the chamber)"
+          label={`Senate seats up in 2026 (${TOTAL_SENATE_SEATS_UP} races, incl. special elections)`}
           seatsByRating={senateSeatsByRating}
           totalSeats={TOTAL_SENATE_SEATS_UP}
         />

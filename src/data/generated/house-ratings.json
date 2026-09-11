@@ -1,0 +1,774 @@
+{
+  "asOf": "2026-09-11",
+  "fetchedAt": "2026-09-11T07:31:50.638Z",
+  "source": "Wikipedia: latest published House race ratings (aggregates Cook, Inside Elections, Sabato, Race to the WH, The Economist, Split Ticket, DDHQ, FiftyPlusOne, Fox News, Silver Bulletin)",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
+  "note": "Only covers seats at least one rater considers competitive. Districts not listed here are not \"safe\" in this file — the app falls back to placeholder data for them until a full-district source is added.",
+  "districts": {
+    "AL-02": {
+      "rating": "likely-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "AK-00": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "AZ-01": {
+      "rating": "lean-d",
+      "partisanLean": -1,
+      "raterCount": 10
+    },
+    "AZ-02": {
+      "rating": "likely-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "AZ-05": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "AZ-06": {
+      "rating": "lean-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "AZ-08": {
+      "rating": "likely-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "AR-02": {
+      "rating": "likely-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "CA-01": {
+      "rating": "safe-d",
+      "partisanLean": 7,
+      "raterCount": 10
+    },
+    "CA-06": {
+      "rating": "likely-d",
+      "partisanLean": 5,
+      "raterCount": 10
+    },
+    "CA-13": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "CA-21": {
+      "rating": "safe-d",
+      "partisanLean": 5,
+      "raterCount": 10
+    },
+    "CA-22": {
+      "rating": "lean-d",
+      "partisanLean": 1,
+      "raterCount": 10
+    },
+    "CA-25": {
+      "rating": "safe-d",
+      "partisanLean": 4,
+      "raterCount": 10
+    },
+    "CA-45": {
+      "rating": "likely-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "CA-48": {
+      "rating": "lean-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "CO-03": {
+      "rating": "lean-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "CO-04": {
+      "rating": "likely-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "CO-05": {
+      "rating": "lean-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "CO-08": {
+      "rating": "lean-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "CT-05": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "FL-02": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "FL-04": {
+      "rating": "likely-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "FL-05": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "FL-07": {
+      "rating": "lean-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "FL-08": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "FL-09": {
+      "rating": "lean-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "FL-11": {
+      "rating": "likely-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "FL-12": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "FL-13": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "FL-14": {
+      "rating": "lean-d",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "FL-15": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "FL-16": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "FL-18": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "FL-21": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "FL-22": {
+      "rating": "lean-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "FL-25": {
+      "rating": "lean-d",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "FL-26": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "FL-27": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "FL-28": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "GA-01": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "GA-12": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "GA-14": {
+      "rating": "safe-r",
+      "partisanLean": -19,
+      "raterCount": 10
+    },
+    "IL-06": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "IL-14": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "IL-17": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "IN-01": {
+      "rating": "safe-d",
+      "partisanLean": 1,
+      "raterCount": 10
+    },
+    "IN-05": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "IA-01": {
+      "rating": "lean-d",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "IA-02": {
+      "rating": "lean-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "IA-03": {
+      "rating": "lean-d",
+      "partisanLean": -2,
+      "raterCount": 10
+    },
+    "KS-02": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "KS-03": {
+      "rating": "safe-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "KY-06": {
+      "rating": "likely-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "LA-06": {
+      "rating": "safe-r",
+      "partisanLean": -16,
+      "raterCount": 10
+    },
+    "ME-01": {
+      "rating": "safe-d",
+      "partisanLean": 11,
+      "raterCount": 10
+    },
+    "ME-02": {
+      "rating": "lean-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "MD-06": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "MI-01": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "MI-03": {
+      "rating": "safe-d",
+      "partisanLean": 4,
+      "raterCount": 10
+    },
+    "MI-04": {
+      "rating": "lean-r",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "MI-07": {
+      "rating": "lean-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "MI-08": {
+      "rating": "likely-d",
+      "partisanLean": -1,
+      "raterCount": 10
+    },
+    "MI-10": {
+      "rating": "lean-d",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "MN-01": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "MN-02": {
+      "rating": "likely-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "MN-08": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "MO-02": {
+      "rating": "likely-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "MO-03": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "MO-05": {
+      "rating": "lean-r",
+      "partisanLean": 12,
+      "raterCount": 10
+    },
+    "MT-01": {
+      "rating": "lean-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "NE-01": {
+      "rating": "safe-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "NE-02": {
+      "rating": "likely-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "NV-01": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "NV-02": {
+      "rating": "likely-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "NV-03": {
+      "rating": "likely-d",
+      "partisanLean": 1,
+      "raterCount": 10
+    },
+    "NV-04": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "NH-01": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "NH-02": {
+      "rating": "safe-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "NJ-02": {
+      "rating": "likely-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "NJ-07": {
+      "rating": "lean-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "NJ-09": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "NM-02": {
+      "rating": "likely-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "NM-03": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "NY-01": {
+      "rating": "likely-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "NY-02": {
+      "rating": "safe-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "NY-03": {
+      "rating": "likely-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "NY-04": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "NY-17": {
+      "rating": "lean-d",
+      "partisanLean": 1,
+      "raterCount": 10
+    },
+    "NY-19": {
+      "rating": "likely-d",
+      "partisanLean": 1,
+      "raterCount": 10
+    },
+    "NY-21": {
+      "rating": "likely-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "NC-01": {
+      "rating": "lean-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "NC-03": {
+      "rating": "safe-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "NC-05": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "NC-06": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "NC-07": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "NC-08": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "NC-09": {
+      "rating": "likely-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "NC-10": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "NC-11": {
+      "rating": "lean-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "NC-13": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "NC-14": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "OH-01": {
+      "rating": "lean-d",
+      "partisanLean": -1,
+      "raterCount": 10
+    },
+    "OH-07": {
+      "rating": "lean-d",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "OH-08": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "OH-09": {
+      "rating": "lean-d",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "OH-10": {
+      "rating": "likely-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "OH-13": {
+      "rating": "safe-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "OH-15": {
+      "rating": "likely-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "OK-01": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "OK-05": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "OR-05": {
+      "rating": "safe-d",
+      "partisanLean": 4,
+      "raterCount": 10
+    },
+    "PA-01": {
+      "rating": "lean-r",
+      "partisanLean": 1,
+      "raterCount": 10
+    },
+    "PA-07": {
+      "rating": "lean-d",
+      "partisanLean": -1,
+      "raterCount": 10
+    },
+    "PA-08": {
+      "rating": "lean-d",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "PA-10": {
+      "rating": "lean-d",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "PA-16": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "PA-17": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "SC-01": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "SC-02": {
+      "rating": "safe-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "SC-05": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "TN-05": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "TN-07": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "TN-09": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "TX-02": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "TX-08": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "TX-09": {
+      "rating": "safe-r",
+      "partisanLean": -9,
+      "raterCount": 10
+    },
+    "TX-10": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "TX-15": {
+      "rating": "lean-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "TX-21": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "TX-22": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "TX-23": {
+      "rating": "lean-r",
+      "partisanLean": -7,
+      "raterCount": 10
+    },
+    "TX-24": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "TX-27": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "TX-28": {
+      "rating": "lean-d",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "TX-32": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "TX-34": {
+      "rating": "lean-d",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "TX-35": {
+      "rating": "lean-r",
+      "partisanLean": -4,
+      "raterCount": 10
+    },
+    "TX-38": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "VA-01": {
+      "rating": "lean-r",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "VA-02": {
+      "rating": "lean-d",
+      "partisanLean": 0,
+      "raterCount": 10
+    },
+    "VA-05": {
+      "rating": "likely-r",
+      "partisanLean": -6,
+      "raterCount": 10
+    },
+    "VA-06": {
+      "rating": "safe-r",
+      "partisanLean": -12,
+      "raterCount": 10
+    },
+    "VA-07": {
+      "rating": "likely-d",
+      "partisanLean": 2,
+      "raterCount": 10
+    },
+    "WA-03": {
+      "rating": "lean-d",
+      "partisanLean": -2,
+      "raterCount": 10
+    },
+    "WA-04": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
+    "WA-05": {
+      "rating": "safe-r",
+      "partisanLean": -5,
+      "raterCount": 10
+    },
+    "WA-08": {
+      "rating": "safe-d",
+      "partisanLean": 3,
+      "raterCount": 10
+    },
+    "WI-01": {
+      "rating": "lean-r",
+      "partisanLean": -2,
+      "raterCount": 10
+    },
+    "WI-03": {
+      "rating": "lean-d",
+      "partisanLean": -3,
+      "raterCount": 10
+    },
+    "WI-06": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    },
+    "WI-07": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "WI-08": {
+      "rating": "safe-r",
+      "partisanLean": -8,
+      "raterCount": 10
+    }
+  }
+}

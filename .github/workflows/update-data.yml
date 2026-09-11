@@ -1,0 +1,31 @@
+name: Update election data
+
+on:
+  schedule:
+    # Every Monday at 12:00 UTC.
+    - cron: '0 12 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch latest data
+        run: node scripts/fetch-all.mjs
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/generated/
+          git diff --cached --quiet || git commit -m "Update election data ($(date -u +%Y-%m-%d))"
+          git push
