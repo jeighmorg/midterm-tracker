@@ -25,7 +25,7 @@ export function USMap({ ratingByState, activeStates, onStateClick }: USMapProps)
             const usps = FIPS_TO_USPS[geo.id as string]
             const isActive = usps ? activeStates.has(usps) : false
             const rating = usps ? ratingByState[usps] : undefined
-            const fill = rating ? RATING_COLORS[rating] : '#e5e7eb'
+            const fill = !isActive ? '#d1d5db' : rating ? RATING_COLORS[rating] : '#e5e7eb'
 
             return (
               <Geography
@@ -37,7 +37,6 @@ export function USMap({ ratingByState, activeStates, onStateClick }: USMapProps)
                 strokeWidth={0.75}
                 style={{
                   outline: 'none',
-                  opacity: isActive ? 1 : 0.35,
                   cursor: isActive && onStateClick ? 'pointer' : 'default',
                 }}
               />
