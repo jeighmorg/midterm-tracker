@@ -1,0 +1,347 @@
+{
+  "fetchedAt": "2026-09-11T09:55:02.996Z",
+  "source": "Wikipedia: each state's 2026 Senate election article infobox",
+  "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+  "states": {
+    "AL": [
+      {
+        "name": "Barry Moore",
+        "party": "R"
+      },
+      {
+        "name": "Everett Wess",
+        "party": "D"
+      }
+    ],
+    "AK": [
+      {
+        "name": "Dan S. Sullivan",
+        "party": "R"
+      },
+      {
+        "name": "Mary Peltola",
+        "party": "D"
+      }
+    ],
+    "AR": [
+      {
+        "name": "Tom Cotton",
+        "party": "R"
+      },
+      {
+        "name": "Hallie Shoffner",
+        "party": "D"
+      }
+    ],
+    "CO": [
+      {
+        "name": "John Hickenlooper",
+        "party": "D"
+      },
+      {
+        "name": "Mark Baisley",
+        "party": "R"
+      }
+    ],
+    "FL": [
+      {
+        "name": "Ashley Moody",
+        "party": "R"
+      },
+      {
+        "name": "Angie Nixon",
+        "party": "D"
+      }
+    ],
+    "GA": [
+      {
+        "name": "Jon Ossoff",
+        "party": "D"
+      },
+      {
+        "name": "Mike Collins",
+        "party": "R"
+      }
+    ],
+    "ID": [
+      {
+        "name": "Jim Risch",
+        "party": "R"
+      },
+      {
+        "name": "Todd Achilles",
+        "party": "I"
+      }
+    ],
+    "IL": [
+      {
+        "name": "Juliana Stratton",
+        "party": "D"
+      },
+      {
+        "name": "Don Tracy",
+        "party": "R"
+      }
+    ],
+    "IA": [
+      {
+        "name": "Ashley Hinson",
+        "party": "R"
+      },
+      {
+        "name": "Josh Turek",
+        "party": "D"
+      }
+    ],
+    "KS": [
+      {
+        "name": "Roger Marshall",
+        "party": "R"
+      },
+      {
+        "name": "Adam Hamilton",
+        "party": "D"
+      }
+    ],
+    "KY": [
+      {
+        "name": "Andy Barr",
+        "party": "R"
+      },
+      {
+        "name": "Charles Booker",
+        "party": "D"
+      }
+    ],
+    "LA": [
+      {
+        "name": "Julia Letlow",
+        "party": "R"
+      },
+      {
+        "name": "Jamie Davis",
+        "party": "D"
+      }
+    ],
+    "ME": [
+      {
+        "name": "Susan Collins",
+        "party": "R"
+      },
+      {
+        "name": "[[Troy Jackson]] (replacing [[Graham Platner]])",
+        "party": "D"
+      }
+    ],
+    "MA": [
+      {
+        "name": "Ed Markey",
+        "party": "D"
+      },
+      {
+        "name": "John Deaton",
+        "party": "R"
+      }
+    ],
+    "MI": [
+      {
+        "name": "Abdul El-Sayed",
+        "party": "D"
+      },
+      {
+        "name": "Mike Rogers",
+        "party": "R"
+      }
+    ],
+    "MN": [
+      {
+        "name": "Peggy Flanagan",
+        "party": "D"
+      },
+      {
+        "name": "Michele Tafoya",
+        "party": "R"
+      }
+    ],
+    "MS": [
+      {
+        "name": "Cindy Hyde-Smith",
+        "party": "R"
+      },
+      {
+        "name": "Scott Colom",
+        "party": "D"
+      }
+    ],
+    "MT": [
+      {
+        "name": "Kurt Alme",
+        "party": "R"
+      },
+      {
+        "name": "Alani Bankhead",
+        "party": "D"
+      }
+    ],
+    "NE": [
+      {
+        "name": "Pete Ricketts",
+        "party": "R"
+      },
+      {
+        "name": "Dan Osborn",
+        "party": "I"
+      }
+    ],
+    "NH": [
+      {
+        "name": "Chris Pappas",
+        "party": "D"
+      },
+      {
+        "name": "John Sununu",
+        "party": "R"
+      }
+    ],
+    "NJ": [
+      {
+        "name": "Cory Booker",
+        "party": "D"
+      },
+      {
+        "name": "Justin Murphy",
+        "party": "R"
+      }
+    ],
+    "NM": [
+      {
+        "name": "Ben Ray Luján",
+        "party": "D"
+      },
+      {
+        "name": "Larry Marker",
+        "party": "R"
+      }
+    ],
+    "NC": [
+      {
+        "name": "Michael Whatley",
+        "party": "R"
+      },
+      {
+        "name": "Roy Cooper",
+        "party": "D"
+      }
+    ],
+    "OH": [
+      {
+        "name": "Jon Husted",
+        "party": "R"
+      },
+      {
+        "name": "Sherrod Brown",
+        "party": "D"
+      }
+    ],
+    "OK": [
+      {
+        "name": "Kevin Hern",
+        "party": "R"
+      },
+      {
+        "name": "N'Kiyla Jasmine Thomas",
+        "party": "D"
+      }
+    ],
+    "OR": [
+      {
+        "name": "Jeff Merkley",
+        "party": "D"
+      },
+      {
+        "name": "David Brock Smith",
+        "party": "R"
+      }
+    ],
+    "RI": [
+      {
+        "name": "Jack Reed",
+        "party": "D"
+      },
+      {
+        "name": "Raymond McKay",
+        "party": "R"
+      }
+    ],
+    "SC": [
+      {
+        "name": "Darline Graham",
+        "party": "R"
+      },
+      {
+        "name": "Annie Andrews",
+        "party": "D"
+      }
+    ],
+    "SD": [
+      {
+        "name": "Mike Rounds",
+        "party": "R"
+      },
+      {
+        "name": "Brian Bengs",
+        "party": "I"
+      }
+    ],
+    "TN": [
+      {
+        "name": "Bill Hagerty",
+        "party": "R"
+      },
+      {
+        "name": "Marquita Bradshaw",
+        "party": "D"
+      }
+    ],
+    "TX": [
+      {
+        "name": "Ken Paxton",
+        "party": "R"
+      },
+      {
+        "name": "James Talarico",
+        "party": "D"
+      }
+    ],
+    "VA": [
+      {
+        "name": "Mark Warner",
+        "party": "D"
+      },
+      {
+        "name": "Bert Mizusawa",
+        "party": "R"
+      }
+    ],
+    "WV": [
+      {
+        "name": "Shelley Moore Capito",
+        "party": "R"
+      },
+      {
+        "name": "Rachel Fetty Anderson",
+        "party": "D"
+      }
+    ],
+    "WY": [
+      {
+        "name": "Harriet Hageman",
+        "party": "R"
+      },
+      {
+        "name": "James W. Byrd",
+        "party": "D"
+      }
+    ]
+  }
+}

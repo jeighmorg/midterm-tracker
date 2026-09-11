@@ -40,6 +40,15 @@ export async function fetchSectionWikitext(pageOrId, section) {
   return json.parse.wikitext['*']
 }
 
+/** Fetch a page's complete wikitext in one call (all sections). */
+export async function fetchFullWikitext(pageOrId) {
+  const url = `${API}?action=parse&${pageParam(pageOrId)}&prop=wikitext&format=json`
+  const res = await fetchWithRetry(url)
+  const json = await res.json()
+  if (json.error) throw new Error(`Wikipedia API error for ${pageOrId}: ${json.error.info}`)
+  return json.parse.wikitext['*']
+}
+
 /** List a page's sections as {index, line} so callers can find the section number they want by title. */
 export async function fetchSections(pageOrId) {
   const url = `${API}?action=parse&${pageParam(pageOrId)}&prop=sections&format=json`

@@ -7,6 +7,12 @@ export type Rating =
   | 'likely-r'
   | 'safe-r'
 
+export interface Candidate {
+  name: string
+  /** "D" / "R" / "I" or an occasional raw party label (e.g. "No party preference") when it doesn't normalize to one of those */
+  party?: string
+}
+
 export interface StateRaceData {
   /** Two-letter USPS code, e.g. "OH" */
   stateCode: string
