@@ -3,6 +3,7 @@ import { fetchDistrictPvi } from './fetch-district-pvi.mjs'
 import { fetchEconomic } from './fetch-economic.mjs'
 import { fetchGenericBallot } from './fetch-generic-ballot.mjs'
 import { fetchHouseRatings } from './fetch-house-ratings.mjs'
+import { fetchSenateComposition } from './fetch-senate-composition.mjs'
 import { fetchSenateRatings } from './fetch-senate-ratings.mjs'
 
 const tasks = [
@@ -12,6 +13,7 @@ const tasks = [
   ['house ratings', fetchHouseRatings],
   ['senate ratings', fetchSenateRatings],
   ['district PVI', fetchDistrictPvi],
+  ['senate composition', fetchSenateComposition],
 ]
 
 function sleep(ms) {

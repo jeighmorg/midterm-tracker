@@ -1,5 +1,6 @@
 import { ratingFromLean, type StateRaceData } from '../types/election'
 import { ALL_DISTRICTS } from './districtTopology'
+import senateCompositionRaw from './generated/senate-composition.json'
 import senateRatingsRaw from './generated/senate-ratings.json'
 
 /**
@@ -70,3 +71,12 @@ export const TOTAL_HOUSE_SEATS = STATE_RACE_DATA.reduce(
 export const TOTAL_SENATE_SEATS_UP = STATE_RACE_DATA.filter(
   (s) => s.senateSeatUp,
 ).length
+
+/**
+ * The 65 Senate seats NOT up in 2026 (real current composition, from
+ * generated/senate-composition.json — scripts/fetch-senate-composition.mjs).
+ * Independents (Sanders, King) are counted with the Democratic caucus they
+ * sit in, matching standard "who controls the Senate" reporting.
+ */
+export const SENATE_FIXED_SEATS = senateCompositionRaw.fixedSeatsByParty as { D: number; R: number }
+export const TOTAL_SENATE_SEATS = SENATE_FIXED_SEATS.D + SENATE_FIXED_SEATS.R + TOTAL_SENATE_SEATS_UP

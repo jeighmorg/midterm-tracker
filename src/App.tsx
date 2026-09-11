@@ -5,7 +5,9 @@ import { SeatTally } from './components/scenario/SeatTally'
 import { IndicatorWidgets } from './components/widgets/IndicatorWidgets'
 import { DISTRICT_RACE_DATA, REAL_RATING_DISTRICT_COUNT, TOTAL_HOUSE_DISTRICTS } from './data/districtRaceData'
 import {
+  SENATE_FIXED_SEATS,
   STATE_RACE_DATA,
+  TOTAL_SENATE_SEATS,
   TOTAL_SENATE_SEATS_UP,
 } from './data/stateRaceData'
 import type { Rating } from './types/election'
@@ -82,7 +84,12 @@ function App() {
   }, [effectiveRatingByDistrict])
 
   const senateSeatsByRating = useMemo(() => {
-    const tally: Partial<Record<Rating, number>> = {}
+    // Seed with the 65 seats not up in 2026 at their real current party — they
+    // can't flip this cycle, so "safe" is the correct bucket for them here.
+    const tally: Partial<Record<Rating, number>> = {
+      'safe-d': SENATE_FIXED_SEATS.D,
+      'safe-r': SENATE_FIXED_SEATS.R,
+    }
     for (const s of STATE_RACE_DATA.filter((s) => s.senateSeatUp)) {
       const rating = effectiveRatingByState[s.stateCode]
       tally[rating] = (tally[rating] ?? 0) + 1
@@ -166,9 +173,10 @@ function App() {
           majorityAt={218}
         />
         <SeatTally
-          label={`Senate seats up in 2026 (${TOTAL_SENATE_SEATS_UP} races, incl. special elections)`}
+          label={`Senate control (${TOTAL_SENATE_SEATS} seats — ${TOTAL_SENATE_SEATS_UP} up in 2026, ${TOTAL_SENATE_SEATS - TOTAL_SENATE_SEATS_UP} not on the ballot this cycle)`}
           seatsByRating={senateSeatsByRating}
-          totalSeats={TOTAL_SENATE_SEATS_UP}
+          totalSeats={TOTAL_SENATE_SEATS}
+          majorityAt={51}
         />
       </div>
 
