@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T13:24:42.975Z",
+  "fetchedAt": "2026-09-11T14:33:36.833Z",
   "source": "FEC (Federal Election Commission): candidate financial totals",
   "sourceUrl": "https://api.open.fec.gov/developers/",
   "cycle": 2026,
@@ -3639,18 +3639,6 @@
         "cashOnHand": 0
       }
     },
-    "OR-04": {
-      "Val Hoyle": {
-        "receipts": 1222922.31,
-        "disbursements": 791472.33,
-        "cashOnHand": 520839.58
-      },
-      "Monique DeSpain": {
-        "receipts": 677570.69,
-        "disbursements": 289876.16,
-        "cashOnHand": 387694.53
-      }
-    },
     "OR-05": {
       "Janelle Bynum": {
         "receipts": 3760211.5,
@@ -3733,18 +3721,6 @@
         "receipts": 9296.15,
         "disbursements": 3366.16,
         "cashOnHand": 5929.99
-      }
-    },
-    "PA-06": {
-      "Chrissy Houlahan": {
-        "receipts": 1763414.98,
-        "disbursements": 1131268.85,
-        "cashOnHand": 4037759.36
-      },
-      "Marty Young": {
-        "receipts": 411270.5,
-        "disbursements": 197821.6,
-        "cashOnHand": 213448.9
       }
     },
     "PA-07": {
@@ -4529,13 +4505,6 @@
         "cashOnHand": 0
       }
     },
-    "TX-37": {
-      "Greg Casar": {
-        "receipts": 1172880.52,
-        "disbursements": 946714.09,
-        "cashOnHand": 597005.39
-      }
-    },
     "TX-38": {
       "Jon Bonck": {
         "receipts": 1644127.13,
@@ -4584,18 +4553,6 @@
         "cashOnHand": 13335.27
       }
     },
-    "UT-04": {
-      "Mike Kennedy": {
-        "receipts": 971392.5,
-        "disbursements": 705037.56,
-        "cashOnHand": 391556.75
-      },
-      "Jonny Larsen": {
-        "receipts": 53578.79,
-        "disbursements": 52449.89,
-        "cashOnHand": 1128.9
-      }
-    },
     "VT-00": {
       "Becca Balint": {
         "receipts": 956338.66,
@@ -4630,18 +4587,6 @@
         "receipts": 4659795.3,
         "disbursements": 1077072.09,
         "cashOnHand": 3582723.21
-      }
-    },
-    "VA-03": {
-      "Bobby Scott": {
-        "receipts": 688200.26,
-        "disbursements": 659220.47,
-        "cashOnHand": 191843.08
-      },
-      "Edwin Rivera": {
-        "receipts": 6554.63,
-        "disbursements": 4792.75,
-        "cashOnHand": 1761.88
       }
     },
     "VA-04": {
@@ -4848,13 +4793,6 @@
         "cashOnHand": 5020.66
       }
     },
-    "WA-10": {
-      "Marilyn Strickland": {
-        "receipts": 1511303.61,
-        "disbursements": 1414393.72,
-        "cashOnHand": 677497.64
-      }
-    },
     "WV-01": {
       "Carol Miller": {
         "receipts": 1746897.71,
@@ -4908,18 +4846,6 @@
         "receipts": 8601145.96,
         "disbursements": 6784680.42,
         "cashOnHand": 1826605.06
-      }
-    },
-    "WI-04": {
-      "Gwen Moore": {
-        "receipts": 1070658.79,
-        "disbursements": 1064345.53,
-        "cashOnHand": 28560.71
-      },
-      "Tim Rogers": {
-        "receipts": 0,
-        "disbursements": 0,
-        "cashOnHand": 0
       }
     },
     "WI-05": {
@@ -5032,18 +4958,6 @@
         "cashOnHand": 50021.12
       }
     },
-    "FL": {
-      "Ashley Moody": {
-        "receipts": 11270804.54,
-        "disbursements": 2779629.11,
-        "cashOnHand": 8491175.43
-      },
-      "Angie Nixon": {
-        "receipts": 974844.71,
-        "disbursements": 709866.35,
-        "cashOnHand": 264978.36
-      }
-    },
     "GA": {
       "Jon Ossoff": {
         "receipts": 97986263.04,
@@ -5078,25 +4992,6 @@
         "receipts": 2459889.83,
         "disbursements": 947465.99,
         "cashOnHand": 1512423.84
-      }
-    },
-    "IA": {
-      "Josh Turek": {
-        "receipts": 6276526.9,
-        "disbursements": 3914213.12,
-        "cashOnHand": 2362313.78
-      }
-    },
-    "KS": {
-      "Roger Marshall": {
-        "receipts": 6205622.26,
-        "disbursements": 1027502.84,
-        "cashOnHand": 5388078.28
-      },
-      "Adam Hamilton": {
-        "receipts": 4169077.81,
-        "disbursements": 2438456.9,
-        "cashOnHand": 1730620.91
       }
     },
     "KY": {
@@ -5217,18 +5112,6 @@
         "receipts": 4180251.88,
         "disbursements": 1110715.12,
         "cashOnHand": 3070033.12
-      }
-    },
-    "NJ": {
-      "Cory Booker": {
-        "receipts": 33504255,
-        "disbursements": 16330421.17,
-        "cashOnHand": 23060940.12
-      },
-      "Justin Murphy": {
-        "receipts": 27315.52,
-        "disbursements": 26296.95,
-        "cashOnHand": 122.51
       }
     },
     "NM": {

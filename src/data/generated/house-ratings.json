@@ -1,6 +1,6 @@
 {
   "asOf": "2026-09-11",
-  "fetchedAt": "2026-09-11T09:07:28.329Z",
+  "fetchedAt": "2026-09-11T14:07:03.906Z",
   "source": "Wikipedia: latest published House race ratings (aggregates Cook, Inside Elections, Sabato, Race to the WH, The Economist, Split Ticket, DDHQ, FiftyPlusOne, Fox News, Silver Bulletin)",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
   "note": "Only covers seats at least one rater considers competitive. Districts not listed here are not \"safe\" in this file — the app falls back to placeholder data for them until a full-district source is added.",
