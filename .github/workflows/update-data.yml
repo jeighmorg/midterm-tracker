@@ -1,4 +1,4 @@
-name: Update election data
+name: Update Election Data
 
 on:
   schedule:
