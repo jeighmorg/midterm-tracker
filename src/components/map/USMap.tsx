@@ -25,7 +25,9 @@ export function USMap({ ratingByState, activeStates, onStateClick }: USMapProps)
             const usps = FIPS_TO_USPS[geo.id as string]
             const isActive = usps ? activeStates.has(usps) : false
             const rating = usps ? ratingByState[usps] : undefined
-            const fill = !isActive ? '#d1d5db' : rating ? RATING_COLORS[rating] : '#e5e7eb'
+            // Deliberately darker/more saturated than RATING_COLORS.tossup (#bdbdbd) so
+            // "no race this cycle" doesn't read as "toss-up".
+            const fill = !isActive ? '#6b7280' : rating ? RATING_COLORS[rating] : '#e5e7eb'
 
             return (
               <Geography
