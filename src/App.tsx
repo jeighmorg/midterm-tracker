@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { DistrictMap } from './components/map/DistrictMap'
 import { USMap } from './components/map/USMap'
+import { ControlNeedle } from './components/scenario/ControlNeedle'
 import { SeatTally } from './components/scenario/SeatTally'
 import { IndicatorWidgets } from './components/widgets/IndicatorWidgets'
 import { DISTRICT_RACE_DATA, REAL_RATING_DISTRICT_COUNT, TOTAL_HOUSE_DISTRICTS } from './data/districtRaceData'
@@ -178,6 +179,11 @@ function App() {
           totalSeats={TOTAL_SENATE_SEATS}
           majorityAt={51}
         />
+      </div>
+
+      <div className="flex flex-wrap justify-center gap-8">
+        <ControlNeedle label="House" seatsByRating={houseSeatsByRating} totalSeats={TOTAL_HOUSE_DISTRICTS} />
+        <ControlNeedle label="Senate" seatsByRating={senateSeatsByRating} totalSeats={TOTAL_SENATE_SEATS} />
       </div>
 
       <IndicatorWidgets />
