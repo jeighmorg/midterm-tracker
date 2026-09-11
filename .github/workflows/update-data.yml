@@ -29,5 +29,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/generated/
-          git diff --cached --quiet || git commit -m "Update election data ($(date -u +%Y-%m-%d))"
+          git diff --cached --quiet && exit 0
+          git commit -m "Update election data ($(date -u +%Y-%m-%d))"
+          # This step alone takes 15-30+ min (mostly the FEC fetch), long enough
+          # that other pushes to master routinely land first - rebase onto
+          # whatever's there now instead of a bare `git push` that fails outright
+          # on any non-fast-forward (hit this once; see git history).
+          git pull --rebase origin master
           git push
