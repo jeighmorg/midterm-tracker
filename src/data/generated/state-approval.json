@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T13:02:06.719Z",
+  "fetchedAt": "2026-09-11T13:43:07.576Z",
   "source": "Wikipedia: statewide presidential approval polling (one poll per state, only where a state has actually been polled)",
   "sourceUrl": "https://en.wikipedia.org/wiki/Opinion_polling_on_the_second_Trump_presidency#Statewide_job_approval_ratings",
   "states": {
@@ -26,9 +26,9 @@
     },
     "CT": {
       "source": "University of New Hampshire",
-      "asOf": "March 20-24, 2025",
-      "approvePercent": 39,
-      "disapprovePercent": 59,
+      "asOf": "November 13-17, 2025",
+      "approvePercent": 36,
+      "disapprovePercent": 63,
       "unsurePercent": 1
     },
     "FL": {
@@ -39,11 +39,11 @@
       "unsurePercent": 7.7
     },
     "GA": {
-      "source": "Tyson Group",
-      "asOf": "January 30–31, 2025",
-      "approvePercent": 49,
-      "disapprovePercent": 45,
-      "unsurePercent": 5
+      "source": "University of Georgia/Atlanta Journal-Constitution",
+      "asOf": "April 15–24, 2025",
+      "approvePercent": 43,
+      "disapprovePercent": 55,
+      "unsurePercent": 2
     },
     "IA": {
       "source": "Beacon Research (D)/Shaw & Co. Research (R)",
@@ -81,11 +81,11 @@
       "unsurePercent": 1
     },
     "NC": {
-      "source": "High Point University",
-      "asOf": "January 9-21, 2026",
-      "approvePercent": 41,
-      "disapprovePercent": 48,
-      "unsurePercent": 11
+      "source": "Catawba College-YouGov",
+      "asOf": "June 1-10, 2026",
+      "approvePercent": 42,
+      "disapprovePercent": 55,
+      "unsurePercent": 3
     },
     "OH": {
       "source": "Bowling Green State University",
@@ -96,17 +96,17 @@
     },
     "SC": {
       "source": "Winthrop University",
-      "asOf": "February 21–March 5, 2025",
-      "approvePercent": 45,
-      "disapprovePercent": 40,
-      "unsurePercent": 15
+      "asOf": "November 8-16, 2025",
+      "approvePercent": 46,
+      "disapprovePercent": 49,
+      "unsurePercent": 5
     },
     "TX": {
       "source": "University of Texas/Texas Politics Project",
-      "asOf": "April 18–28, 2025",
-      "approvePercent": 47,
-      "disapprovePercent": 46,
-      "unsurePercent": 7
+      "asOf": "June 6-16, 2025",
+      "approvePercent": 44,
+      "disapprovePercent": 51,
+      "unsurePercent": 5
     },
     "VA": {
       "source": "Christopher Newport University",
@@ -116,11 +116,11 @@
       "unsurePercent": 4
     },
     "WI": {
-      "source": "Marquette Law School",
-      "asOf": "April 8-16, 2026",
-      "approvePercent": 39,
-      "disapprovePercent": 60,
-      "unsurePercent": 1
+      "source": "TIPP Insights",
+      "asOf": "August 14-18, 2026",
+      "approvePercent": 37,
+      "disapprovePercent": 57,
+      "unsurePercent": 6
     }
   }
 }

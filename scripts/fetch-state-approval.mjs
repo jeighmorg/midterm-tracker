@@ -2,7 +2,7 @@ import { writeFileSync } from 'node:fs'
 import { pathToFileURL } from 'node:url'
 import { splitRows } from './lib/ratings.mjs'
 import { STATE_NAME_TO_USPS } from './lib/stateNames.mjs'
-import { splitCells } from './lib/wikitext.mjs'
+import { parseApproxDate, splitCells } from './lib/wikitext.mjs'
 import { fetchSections, fetchSectionWikitext } from './lib/wikipedia.mjs'
 
 // "Opinion polling on the second Trump presidency" - see fetch-approval.mjs for
@@ -17,16 +17,24 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
-/** Each row is [source, date, sampleSize, moe, approve, disapprove, unsure] - pick the one with the latest year. */
+/**
+ * Each row is [source, date, sampleSize, moe, approve, disapprove, unsure] -
+ * pick the one with the latest date. Comparing by year alone (an earlier
+ * version of this) picked the wrong row whenever a state had two polls in
+ * the same year - Texas has an April and a June 2025 poll, and byyear
+ * comparison kept whichever was iterated last rather than the truly newer
+ * one. See git history.
+ */
 function latestRow(rows) {
   let best = null
-  let bestYear = -1
+  let bestDate = null
   for (const row of rows) {
     const cells = splitCells(row)
     if (cells.length < 7) continue
-    const year = Number(/\d{4}/.exec(cells[1])?.[0] ?? 0)
-    if (year >= bestYear) {
-      bestYear = year
+    const date = parseApproxDate(cells[1])
+    if (!date) continue
+    if (!bestDate || date >= bestDate) {
+      bestDate = date
       best = cells
     }
   }

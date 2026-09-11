@@ -29,6 +29,34 @@ function formatMoney(n: number): string {
   return `$${Math.round(n)}`
 }
 
+const MONTH_NAMES = [
+  'January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December',
+]
+
+/** Best-effort "how many months old is this poll" from a Wikipedia date cell like "April 28–May 3, 2025". */
+function monthsOld(dateStr: string): number | null {
+  const yearMatch = /(\d{4})/.exec(dateStr)
+  if (!yearMatch) return null
+  const year = Number(yearMatch[1])
+
+  let bestIndex = -1
+  let bestMonth = 0
+  MONTH_NAMES.forEach((name, i) => {
+    const idx = dateStr.lastIndexOf(name)
+    if (idx > bestIndex) {
+      bestIndex = idx
+      bestMonth = i
+    }
+  })
+
+  const pollDate = new Date(year, bestIndex === -1 ? 0 : bestMonth, 1)
+  const now = new Date()
+  return (now.getFullYear() - pollDate.getFullYear()) * 12 + (now.getMonth() - pollDate.getMonth())
+}
+
+const STALE_MONTHS = 12
+
 export function MapTooltip({
   x,
   y,
@@ -39,6 +67,9 @@ export function MapTooltip({
   stateApproval,
   fundraisingByCandidate,
 }: MapTooltipProps) {
+  const approvalAge = stateApproval ? monthsOld(stateApproval.asOf) : null
+  const approvalIsStale = approvalAge !== null && approvalAge >= STALE_MONTHS
+
   return (
     <div
       className="fixed z-50 pointer-events-none max-w-xs rounded border border-gray-300 bg-white px-3 py-2 text-sm shadow-lg dark:border-gray-700 dark:bg-gray-900"
@@ -74,7 +105,16 @@ export function MapTooltip({
         <div className="mt-1 border-t border-gray-200 pt-1 text-gray-600 dark:border-gray-700 dark:text-gray-400">
           Presidential approval: {stateApproval.approvePercent}% approve /{' '}
           {stateApproval.disapprovePercent}% disapprove
-          <div className="text-gray-400 dark:text-gray-500">{stateApproval.asOf}</div>
+          <div
+            className={
+              approvalIsStale
+                ? 'font-medium text-amber-600 dark:text-amber-500'
+                : 'text-gray-400 dark:text-gray-500'
+            }
+          >
+            {stateApproval.asOf}
+            {approvalIsStale && ` — ${approvalAge} months old, no newer poll available`}
+          </div>
         </div>
       )}
     </div>
