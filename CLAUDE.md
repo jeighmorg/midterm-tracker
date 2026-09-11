@@ -36,7 +36,7 @@ React + TypeScript + Vite + Tailwind. Mapping via `react-simple-maps` (wraps `d3
 
 **Known gap:** no full-district (435/435) real partisan-lean source yet. Candidate for closing it: Dave's Redistricting App's district-level export (also useful for the boundary-currency check above), or accepting the competitive-only Wikipedia table as "good enough" since safe seats are the least interesting part of a scenario builder anyway.
 
-**Refreshing data:** `npm run fetch-data` runs all five fetchers and overwrites `src/data/generated/*.json`. `.github/workflows/update-data.yml` runs this weekly (Mondays 12:00 UTC) via GitHub Actions and commits any changes as `github-actions[bot]`, which triggers a Netlify redeploy. Live at https://github.com/jeighmorg/midterm-tracker, deployed at https://brilliant-cajeta-5dfc06.netlify.app/ — verified working end-to-end via a manual `workflow_dispatch` run.
+**Refreshing data:** `npm run fetch-data` runs all five fetchers and overwrites `src/data/generated/*.json`. `.github/workflows/update-data.yml` runs this weekly (Mondays 12:00 UTC) via GitHub Actions and commits any changes as `github-actions[bot]`, which triggers a Netlify redeploy. Live at https://github.com/jeighmorg/midterm-tracker, deployed at https://midterm-tracker-2026-jm.netlify.app/ — verified working end-to-end via a manual `workflow_dispatch` run.
 
 ## Build roadmap
 

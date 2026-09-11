@@ -2,7 +2,7 @@
 
 An interactive map and scenario-builder for the 2026 US House and Senate races, inspired by 270toWin. Built to run on a $0/month budget: static React app on Netlify, no backend, no paid data APIs.
 
-**Live:** https://brilliant-cajeta-5dfc06.netlify.app/
+**Live:** https://midterm-tracker-2026-jm.netlify.app/
 
 ## Status
 
