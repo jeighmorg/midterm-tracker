@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-11",
-  "fetchedAt": "2026-09-11T14:07:03.906Z",
+  "asOf": "2026-09-14",
+  "fetchedAt": "2026-09-14T18:03:05.037Z",
   "source": "Wikipedia: latest published House race ratings (aggregates Cook, Inside Elections, Sabato, Race to the WH, The Economist, Split Ticket, DDHQ, FiftyPlusOne, Fox News, Silver Bulletin)",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
   "note": "Only covers seats at least one rater considers competitive. Districts not listed here are not \"safe\" in this file — the app falls back to placeholder data for them until a full-district source is added.",
@@ -351,7 +351,7 @@
       "raterCount": 10
     },
     "MO-05": {
-      "rating": "lean-r",
+      "rating": "likely-d",
       "partisanLean": 12,
       "raterCount": 10
     },
@@ -461,7 +461,7 @@
       "raterCount": 10
     },
     "NC-01": {
-      "rating": "lean-r",
+      "rating": "lean-d",
       "partisanLean": -5,
       "raterCount": 10
     },
@@ -585,11 +585,6 @@
       "partisanLean": -3,
       "raterCount": 10
     },
-    "PA-16": {
-      "rating": "safe-r",
-      "partisanLean": -11,
-      "raterCount": 10
-    },
     "PA-17": {
       "rating": "safe-d",
       "partisanLean": 3,
@@ -620,6 +615,11 @@
       "partisanLean": -11,
       "raterCount": 10
     },
+    "TN-08": {
+      "rating": "safe-r",
+      "partisanLean": -10,
+      "raterCount": 10
+    },
     "TN-09": {
       "rating": "safe-r",
       "partisanLean": -9,
@@ -628,11 +628,6 @@
     "TX-02": {
       "rating": "safe-r",
       "partisanLean": -11,
-      "raterCount": 10
-    },
-    "TX-08": {
-      "rating": "safe-r",
-      "partisanLean": -10,
       "raterCount": 10
     },
     "TX-09": {
