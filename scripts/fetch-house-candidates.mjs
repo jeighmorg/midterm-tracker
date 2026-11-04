@@ -10,6 +10,16 @@ import { fetchFullWikitext } from './lib/wikipedia.mjs'
 // (2020 census) apportionment cycle.
 const AT_LARGE_STATES = new Set(['AK', 'DE', 'ND', 'SD', 'VT', 'WY'])
 
+// California's article was split into two sub-articles (the main page now just
+// links to them), which silently dropped all 52 CA districts from the data.
+// Per-state page lists override the default single-page title.
+const PAGE_OVERRIDES = {
+  CA: [
+    '2026 United States House of Representatives elections in California (districts 1–26)',
+    '2026 United States House of Representatives elections in California (districts 27–52)',
+  ],
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms))
 }
@@ -34,20 +44,25 @@ export async function fetchHouseCandidates() {
   let statesFailed = 0
 
   for (const [stateName, stateCode] of Object.entries(STATE_NAME_TO_USPS)) {
-    const page = AT_LARGE_STATES.has(stateCode)
-      ? `2026 United States House of Representatives election in ${stateName}`
-      : `2026 United States House of Representatives elections in ${stateName}`
+    const pages = PAGE_OVERRIDES[stateCode] ?? [
+      AT_LARGE_STATES.has(stateCode)
+        ? `2026 United States House of Representatives election in ${stateName}`
+        : `2026 United States House of Representatives elections in ${stateName}`,
+    ]
 
     try {
-      const wikitext = await fetchFullWikitext(page)
-      if (AT_LARGE_STATES.has(stateCode)) {
-        const candidates = extractCandidates(wikitext)
-        if (candidates.length > 0) districts[`${stateCode}-00`] = candidates
-      } else {
-        for (const { districtCode, body } of districtChunks(wikitext)) {
-          const candidates = extractCandidates(body)
-          if (candidates.length > 0) districts[`${stateCode}-${districtCode}`] = candidates
+      for (const page of pages) {
+        const wikitext = await fetchFullWikitext(page)
+        if (AT_LARGE_STATES.has(stateCode)) {
+          const candidates = extractCandidates(wikitext)
+          if (candidates.length > 0) districts[`${stateCode}-00`] = candidates
+        } else {
+          for (const { districtCode, body } of districtChunks(wikitext)) {
+            const candidates = extractCandidates(body)
+            if (candidates.length > 0) districts[`${stateCode}-${districtCode}`] = candidates
+          }
         }
+        if (pages.length > 1) await sleep(300)
       }
       statesOk++
     } catch (err) {
