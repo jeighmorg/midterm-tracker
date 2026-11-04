@@ -1,10 +1,10 @@
 {
-  "asOf": "September 13, 2026",
-  "fetchedAt": "2026-09-14T18:01:14.046Z",
-  "republicanPercent": 42.1,
-  "democratPercent": 49,
-  "otherPercent": 8.9,
-  "marginText": "Democrats +6.9%",
+  "asOf": "November 3, 2026",
+  "fetchedAt": "2026-11-04T14:38:05.207Z",
+  "republicanPercent": 43.4,
+  "democratPercent": 52,
+  "otherPercent": 4.6,
+  "marginText": "Democrats +8.6%",
   "source": "Wikipedia generic congressional ballot polling average (DDHQ, FiftyPlusOne, RealClearPolitics, Silver Bulletin, VoteHub, Race to the WH)",
-  "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections#Opinion_polling"
+  "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
 }

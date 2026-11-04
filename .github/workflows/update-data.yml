@@ -19,7 +19,13 @@ jobs:
         with:
           node-version: 20
 
+      # Each fetcher only overwrites its own file on success, so a failure in one
+      # source leaves the old copy in place. Don't let that block committing the
+      # sources that DID update (a single renamed Wikipedia section silently
+      # froze the whole site for 7 weeks) - commit first, then fail the job below.
       - name: Fetch latest data
+        id: fetch
+        continue-on-error: true
         env:
           FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
         run: node scripts/fetch-all.mjs
@@ -37,3 +43,9 @@ jobs:
           # on any non-fast-forward (hit this once; see git history).
           git pull --rebase origin master
           git push
+
+      - name: Fail the run if any data source failed
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "One or more data sources failed to update - see the 'Fetch latest data' step. Sources that succeeded were still committed."
+          exit 1
