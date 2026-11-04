@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-09-14T18:01:12.599Z",
+  "fetchedAt": "2026-11-04T14:38:57.089Z",
   "cpi": {
-    "asOf": "2026-08-01",
-    "yoyPercent": 3.4
+    "asOf": "2026-09-01",
+    "yoyPercent": 3.7
   },
   "unemployment": {
-    "asOf": "2026-08-01",
-    "ratePercent": 4.1
+    "asOf": "2026-09-01",
+    "ratePercent": 4.2
   },
   "source": "FRED (Federal Reserve Economic Data): CPIAUCNS, UNRATE",
   "sourceUrl": "https://fred.stlouisfed.org/"

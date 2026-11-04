@@ -1,173 +1,173 @@
 {
-  "asOf": "2026-09-14",
-  "fetchedAt": "2026-09-14T18:03:06.834Z",
+  "asOf": "2026-11-04",
+  "fetchedAt": "2026-11-04T14:41:04.023Z",
   "source": "Wikipedia: 2026 Senate election predictions (aggregates Cook, DDHQ, The Economist, FiftyPlusOne, Fox News, Inside Elections, Race to the WH, RealClearPolitics, Sabato, Silver Bulletin, Split Ticket)",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections#Predictions",
   "states": {
     "AL": {
       "rating": "safe-r",
       "partisanLean": -15,
-      "raterCount": 11
+      "raterCount": 12
     },
     "AK": {
-      "rating": "lean-r",
+      "rating": "lean-d",
       "partisanLean": -6,
-      "raterCount": 11
+      "raterCount": 12
     },
     "AR": {
       "rating": "safe-r",
       "partisanLean": -15,
-      "raterCount": 11
+      "raterCount": 12
     },
     "CO": {
       "rating": "safe-d",
       "partisanLean": 6,
-      "raterCount": 11
+      "raterCount": 12
     },
     "DE": {
       "rating": "safe-d",
       "partisanLean": 8,
-      "raterCount": 11
+      "raterCount": 12
     },
     "FL": {
       "rating": "likely-r",
       "partisanLean": -5,
-      "raterCount": 11
+      "raterCount": 12
     },
     "GA": {
       "rating": "likely-d",
       "partisanLean": -1,
-      "raterCount": 11
+      "raterCount": 12
     },
     "ID": {
       "rating": "safe-r",
       "partisanLean": -18,
-      "raterCount": 11
+      "raterCount": 12
     },
     "IL": {
       "rating": "safe-d",
       "partisanLean": 6,
-      "raterCount": 11
+      "raterCount": 12
     },
     "IA": {
       "rating": "lean-r",
       "partisanLean": -6,
-      "raterCount": 11
+      "raterCount": 12
     },
     "KS": {
-      "rating": "likely-r",
+      "rating": "lean-d",
       "partisanLean": -8,
-      "raterCount": 11
+      "raterCount": 12
     },
     "KY": {
       "rating": "safe-r",
       "partisanLean": -15,
-      "raterCount": 11
+      "raterCount": 12
     },
     "LA": {
-      "rating": "safe-r",
+      "rating": "likely-r",
       "partisanLean": -11,
-      "raterCount": 11
+      "raterCount": 12
     },
     "ME": {
       "rating": "lean-d",
       "partisanLean": 4,
-      "raterCount": 11
+      "raterCount": 12
     },
     "MA": {
       "rating": "safe-d",
       "partisanLean": 14,
-      "raterCount": 11
+      "raterCount": 12
     },
     "MI": {
       "rating": "lean-d",
       "partisanLean": 0,
-      "raterCount": 11
+      "raterCount": 12
     },
     "MN": {
       "rating": "likely-d",
       "partisanLean": 3,
-      "raterCount": 11
+      "raterCount": 12
     },
     "MS": {
-      "rating": "safe-r",
+      "rating": "likely-r",
       "partisanLean": -11,
-      "raterCount": 11
+      "raterCount": 12
     },
     "MT": {
       "rating": "safe-r",
       "partisanLean": -10,
-      "raterCount": 11
+      "raterCount": 12
     },
     "NE": {
-      "rating": "likely-r",
+      "rating": "lean-r",
       "partisanLean": -10,
-      "raterCount": 11
+      "raterCount": 12
     },
     "NH": {
-      "rating": "lean-d",
+      "rating": "likely-d",
       "partisanLean": 2,
-      "raterCount": 11
+      "raterCount": 12
     },
     "NJ": {
       "rating": "safe-d",
       "partisanLean": 4,
-      "raterCount": 11
+      "raterCount": 12
     },
     "NM": {
       "rating": "safe-d",
       "partisanLean": 4,
-      "raterCount": 11
+      "raterCount": 12
     },
     "NC": {
       "rating": "likely-d",
       "partisanLean": -1,
-      "raterCount": 11
+      "raterCount": 12
     },
     "OH": {
       "rating": "lean-d",
       "partisanLean": -5,
-      "raterCount": 11
+      "raterCount": 12
     },
     "OK": {
       "rating": "safe-r",
       "partisanLean": -17,
-      "raterCount": 11
+      "raterCount": 12
     },
     "OR": {
       "rating": "safe-d",
       "partisanLean": 8,
-      "raterCount": 11
+      "raterCount": 12
     },
     "RI": {
       "rating": "safe-d",
       "partisanLean": 8,
-      "raterCount": 11
+      "raterCount": 12
     },
     "SC": {
-      "rating": "likely-r",
+      "rating": "lean-r",
       "partisanLean": -8,
-      "raterCount": 11
+      "raterCount": 12
     },
     "SD": {
       "rating": "safe-r",
       "partisanLean": -15,
-      "raterCount": 11
+      "raterCount": 12
     },
     "TN": {
       "rating": "safe-r",
       "partisanLean": -14,
-      "raterCount": 11
+      "raterCount": 12
     },
     "TX": {
       "rating": "lean-d",
       "partisanLean": -6,
-      "raterCount": 11
+      "raterCount": 12
     },
     "VA": {
       "rating": "safe-d",
       "partisanLean": 3,
-      "raterCount": 11
+      "raterCount": 12
     },
     "WV": {
       "rating": "safe-r",
@@ -177,7 +177,7 @@
     "WY": {
       "rating": "safe-r",
       "partisanLean": -23,
-      "raterCount": 11
+      "raterCount": 12
     }
   }
 }

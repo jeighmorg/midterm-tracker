@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-14T18:12:02.378Z",
+  "fetchedAt": "2026-11-04T14:50:01.294Z",
   "source": "Wikipedia: each state's 2026 Senate election article infobox",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
   "states": {
     "AL": [
       {
-        "name": "Barry Moore",
+        "name": "'''[[Barry Moore (American politician)|Barry Moore]]'''",
         "party": "R"
       },
       {
@@ -15,17 +15,17 @@
     ],
     "AK": [
       {
-        "name": "Dan S. Sullivan",
-        "party": "R"
-      },
-      {
         "name": "Mary Peltola",
         "party": "D"
+      },
+      {
+        "name": "Dan S. Sullivan",
+        "party": "R"
       }
     ],
     "AR": [
       {
-        "name": "Tom Cotton",
+        "name": "'''[[Tom Cotton]]'''",
         "party": "R"
       },
       {
@@ -35,7 +35,7 @@
     ],
     "CO": [
       {
-        "name": "John Hickenlooper",
+        "name": "'''[[John Hickenlooper]]'''",
         "party": "D"
       },
       {
@@ -43,9 +43,19 @@
         "party": "R"
       }
     ],
+    "DE": [
+      {
+        "name": "'''[[Chris Coons]]'''",
+        "party": "D"
+      },
+      {
+        "name": "Michael Katz",
+        "party": "R"
+      }
+    ],
     "FL": [
       {
-        "name": "Ashley Moody",
+        "name": "'''[[Ashley Moody]]'''",
         "party": "R"
       },
       {
@@ -55,7 +65,7 @@
     ],
     "GA": [
       {
-        "name": "Jon Ossoff",
+        "name": "'''[[Jon Ossoff]]'''",
         "party": "D"
       },
       {
@@ -65,7 +75,7 @@
     ],
     "ID": [
       {
-        "name": "Jim Risch",
+        "name": "'''[[Jim Risch]]'''",
         "party": "R"
       },
       {
@@ -75,7 +85,7 @@
     ],
     "IL": [
       {
-        "name": "Juliana Stratton",
+        "name": "'''[[Juliana Stratton]]'''",
         "party": "D"
       },
       {
@@ -85,27 +95,27 @@
     ],
     "IA": [
       {
-        "name": "Ashley Hinson",
-        "party": "R"
+        "name": "'''[[Josh Turek]]'''",
+        "party": "D"
       },
       {
-        "name": "Josh Turek",
-        "party": "D"
+        "name": "Ashley Hinson",
+        "party": "R"
       }
     ],
     "KS": [
       {
-        "name": "Roger Marshall",
-        "party": "R"
+        "name": "'''[[Adam Hamilton (American politician)|Adam Hamilton]]'''",
+        "party": "D"
       },
       {
-        "name": "Adam Hamilton",
-        "party": "D"
+        "name": "Roger Marshall",
+        "party": "R"
       }
     ],
     "KY": [
       {
-        "name": "Andy Barr",
+        "name": "'''[[Andy Barr]]'''",
         "party": "R"
       },
       {
@@ -115,7 +125,7 @@
     ],
     "LA": [
       {
-        "name": "Julia Letlow",
+        "name": "'''[[Julia Letlow]]'''",
         "party": "R"
       },
       {
@@ -125,17 +135,17 @@
     ],
     "ME": [
       {
-        "name": "Susan Collins",
-        "party": "R"
+        "name": "'''[[Troy Jackson]]''' {{small|(replacing [[Graham Platner]])}}",
+        "party": "D"
       },
       {
-        "name": "[[Troy Jackson]] (replacing [[Graham Platner]])",
-        "party": "D"
+        "name": "Susan Collins",
+        "party": "R"
       }
     ],
     "MA": [
       {
-        "name": "Ed Markey",
+        "name": "'''[[Ed Markey]]'''",
         "party": "D"
       },
       {
@@ -145,7 +155,7 @@
     ],
     "MI": [
       {
-        "name": "Abdul El-Sayed",
+        "name": "'''[[Abdul El-Sayed]]'''",
         "party": "D"
       },
       {
@@ -155,7 +165,7 @@
     ],
     "MN": [
       {
-        "name": "Peggy Flanagan",
+        "name": "'''[[Peggy Flanagan]]'''",
         "party": "D"
       },
       {
@@ -165,27 +175,27 @@
     ],
     "MS": [
       {
-        "name": "Cindy Hyde-Smith",
-        "party": "R"
-      },
-      {
         "name": "Scott Colom",
         "party": "D"
+      },
+      {
+        "name": "Cindy Hyde-Smith",
+        "party": "R"
       }
     ],
     "MT": [
       {
-        "name": "Kurt Alme",
+        "name": "'''Sawyer Adams'''",
         "party": "R"
       },
       {
-        "name": "Alani Bankhead",
-        "party": "D"
+        "name": "Seth Bodnar",
+        "party": "I"
       }
     ],
     "NE": [
       {
-        "name": "Pete Ricketts",
+        "name": "'''[[Pete Ricketts]]'''",
         "party": "R"
       },
       {
@@ -195,17 +205,17 @@
     ],
     "NH": [
       {
-        "name": "Chris Pappas",
+        "name": "'''[[Chris Pappas (American politician)|Chris Pappas]]'''",
         "party": "D"
       },
       {
-        "name": "John Sununu",
+        "name": "John E. Sununu",
         "party": "R"
       }
     ],
     "NJ": [
       {
-        "name": "Cory Booker",
+        "name": "'''[[Cory Booker]]'''",
         "party": "D"
       },
       {
@@ -215,7 +225,7 @@
     ],
     "NM": [
       {
-        "name": "Ben Ray Luján",
+        "name": "'''[[Ben Ray Luján]]'''",
         "party": "D"
       },
       {
@@ -225,37 +235,37 @@
     ],
     "NC": [
       {
-        "name": "Michael Whatley",
-        "party": "R"
+        "name": "'''[[Roy Cooper]]'''",
+        "party": "D"
       },
       {
-        "name": "Roy Cooper",
-        "party": "D"
+        "name": "Michael Whatley",
+        "party": "R"
       }
     ],
     "OH": [
       {
-        "name": "Jon Husted",
-        "party": "R"
+        "name": "'''[[Sherrod Brown]]'''",
+        "party": "D"
       },
       {
-        "name": "Sherrod Brown",
-        "party": "D"
+        "name": "Jon Husted",
+        "party": "R"
       }
     ],
     "OK": [
       {
-        "name": "Kevin Hern",
+        "name": "'''[[Kevin Hern]]'''",
         "party": "R"
       },
       {
-        "name": "N'Kiyla Jasmine Thomas",
+        "name": "N'Kiyla \"Jasmine\" Thomas",
         "party": "D"
       }
     ],
     "OR": [
       {
-        "name": "Jeff Merkley",
+        "name": "'''[[Jeff Merkley]]'''",
         "party": "D"
       },
       {
@@ -265,7 +275,7 @@
     ],
     "RI": [
       {
-        "name": "Jack Reed",
+        "name": "'''[[Jack Reed (Rhode Island politician)|Jack Reed]]'''",
         "party": "D"
       },
       {
@@ -275,17 +285,17 @@
     ],
     "SC": [
       {
-        "name": "Darline Graham",
-        "party": "R"
+        "name": "'''[[Annie Andrews]]'''",
+        "party": "D"
       },
       {
-        "name": "Annie Andrews",
-        "party": "D"
+        "name": "Darline Graham",
+        "party": "R"
       }
     ],
     "SD": [
       {
-        "name": "Mike Rounds",
+        "name": "'''[[Mike Rounds]]'''",
         "party": "R"
       },
       {
@@ -295,7 +305,7 @@
     ],
     "TN": [
       {
-        "name": "Bill Hagerty",
+        "name": "'''[[Bill Hagerty]]'''",
         "party": "R"
       },
       {
@@ -305,17 +315,17 @@
     ],
     "TX": [
       {
-        "name": "Ken Paxton",
-        "party": "R"
+        "name": "'''[[James Talarico]]'''",
+        "party": "D"
       },
       {
-        "name": "James Talarico",
-        "party": "D"
+        "name": "Ken Paxton",
+        "party": "R"
       }
     ],
     "VA": [
       {
-        "name": "Mark Warner",
+        "name": "'''[[Mark Warner]]'''",
         "party": "D"
       },
       {
@@ -325,7 +335,7 @@
     ],
     "WV": [
       {
-        "name": "Shelley Moore Capito",
+        "name": "'''[[Shelley Moore Capito]]'''",
         "party": "R"
       },
       {
@@ -335,7 +345,7 @@
     ],
     "WY": [
       {
-        "name": "Harriet Hageman",
+        "name": "'''[[Harriet Hageman]]'''",
         "party": "R"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T18:08:04.279Z",
+  "fetchedAt": "2026-11-04T14:46:03.666Z",
   "source": "Wikipedia: each state's 2026 House election article infoboxes",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
   "districts": {
@@ -80,7 +80,7 @@
       },
       {
         "name": "Bill Hill",
-        "party": "I"
+        "party": "[[Nonpartisan politician|Nonpartisan]]{{efn|name=nonpartisan|Alaska labels candidates not affiliated with a political party as \"Nonpartisan\"}}"
       }
     ],
     "AZ-01": [
@@ -107,6 +107,10 @@
       {
         "name": "Yassamin Ansari",
         "party": "D"
+      },
+      {
+        "name": "Jacob Parkman",
+        "party": "R"
       }
     ],
     "AZ-04": [
@@ -207,526 +211,6 @@
       {
         "name": "James Russell",
         "party": "D"
-      }
-    ],
-    "CA-01": [
-      {
-        "name": "James Gallagher",
-        "party": "R"
-      },
-      {
-        "name": "Mike McGuire",
-        "party": "D"
-      }
-    ],
-    "CA-02": [
-      {
-        "name": "Jared Huffman",
-        "party": "D"
-      },
-      {
-        "name": "Robin Littau",
-        "party": "R"
-      }
-    ],
-    "CA-03": [
-      {
-        "name": "Ami Bera",
-        "party": "D"
-      },
-      {
-        "name": "Robb Tucker",
-        "party": "R"
-      }
-    ],
-    "CA-04": [
-      {
-        "name": "Mike Thompson",
-        "party": "D"
-      },
-      {
-        "name": "Eric Jones",
-        "party": "D"
-      }
-    ],
-    "CA-05": [
-      {
-        "name": "Tom McClintock",
-        "party": "R"
-      },
-      {
-        "name": "Michael Masuda",
-        "party": "D"
-      }
-    ],
-    "CA-06": [
-      {
-        "name": "Kevin Kiley",
-        "party": "No party preference"
-      },
-      {
-        "name": "Richard Pan",
-        "party": "D"
-      }
-    ],
-    "CA-07": [
-      {
-        "name": "Doris Matsui",
-        "party": "D"
-      },
-      {
-        "name": "Mai Vang",
-        "party": "D"
-      }
-    ],
-    "CA-08": [
-      {
-        "name": "John Garamendi",
-        "party": "D"
-      },
-      {
-        "name": "Rudy Recile",
-        "party": "R"
-      }
-    ],
-    "CA-09": [
-      {
-        "name": "Josh Harder",
-        "party": "D"
-      },
-      {
-        "name": "John McBride",
-        "party": "R"
-      }
-    ],
-    "CA-10": [
-      {
-        "name": "Mark DeSaulnier",
-        "party": "D"
-      },
-      {
-        "name": "Jeff Frese",
-        "party": "R"
-      }
-    ],
-    "CA-11": [
-      {
-        "name": "Connie Chan",
-        "party": "D"
-      },
-      {
-        "name": "Scott Wiener",
-        "party": "D"
-      }
-    ],
-    "CA-12": [
-      {
-        "name": "Lateefah Simon",
-        "party": "D"
-      },
-      {
-        "name": "Jamie Joyce",
-        "party": "D"
-      }
-    ],
-    "CA-13": [
-      {
-        "name": "Adam Gray",
-        "party": "D"
-      },
-      {
-        "name": "Kevin Lincoln",
-        "party": "R"
-      }
-    ],
-    "CA-14": [
-      {
-        "name": "Aisha Wahab",
-        "party": "D"
-      },
-      {
-        "name": "Melissa Hernandez",
-        "party": "D"
-      }
-    ],
-    "CA-15": [
-      {
-        "name": "Kevin Mullin",
-        "party": "D"
-      },
-      {
-        "name": "Charles Hoelter",
-        "party": "R"
-      }
-    ],
-    "CA-16": [
-      {
-        "name": "Sam Liccardo",
-        "party": "D"
-      },
-      {
-        "name": "Peter Sundin Soulé",
-        "party": "R"
-      }
-    ],
-    "CA-17": [
-      {
-        "name": "Ro Khanna",
-        "party": "D"
-      },
-      {
-        "name": "Ritesh Tandon",
-        "party": "R"
-      }
-    ],
-    "CA-18": [
-      {
-        "name": "Zoe Lofgren",
-        "party": "D"
-      },
-      {
-        "name": "Shane Lewis",
-        "party": "R"
-      }
-    ],
-    "CA-19": [
-      {
-        "name": "Jimmy Panetta",
-        "party": "D"
-      },
-      {
-        "name": "Peter Verbica",
-        "party": "R"
-      }
-    ],
-    "CA-20": [
-      {
-        "name": "Vince Fong",
-        "party": "R"
-      },
-      {
-        "name": "Sandra Van Scotter",
-        "party": "D"
-      }
-    ],
-    "CA-21": [
-      {
-        "name": "Jim Costa",
-        "party": "D"
-      },
-      {
-        "name": "Kyle Kirkland",
-        "party": "R"
-      }
-    ],
-    "CA-22": [
-      {
-        "name": "David Valadao",
-        "party": "R"
-      },
-      {
-        "name": "Randy Villegas",
-        "party": "D"
-      }
-    ],
-    "CA-23": [
-      {
-        "name": "Jay Obernolte",
-        "party": "R"
-      },
-      {
-        "name": "Tessa Lynn Hodge",
-        "party": "D"
-      }
-    ],
-    "CA-24": [
-      {
-        "name": "Salud Carbajal",
-        "party": "D"
-      },
-      {
-        "name": "Bob Smith",
-        "party": "R"
-      }
-    ],
-    "CA-25": [
-      {
-        "name": "Raul Ruiz",
-        "party": "D"
-      },
-      {
-        "name": "Joe Males",
-        "party": "R"
-      }
-    ],
-    "CA-26": [
-      {
-        "name": "Jacqui Irwin",
-        "party": "D"
-      },
-      {
-        "name": "Sam Gallucci",
-        "party": "R"
-      }
-    ],
-    "CA-27": [
-      {
-        "name": "George Whitesides",
-        "party": "D"
-      },
-      {
-        "name": "Jason Gibbs",
-        "party": "R"
-      }
-    ],
-    "CA-28": [
-      {
-        "name": "Judy Chu",
-        "party": "D"
-      },
-      {
-        "name": "April Verlato",
-        "party": "R"
-      }
-    ],
-    "CA-29": [
-      {
-        "name": "Luz Rivas",
-        "party": "D"
-      },
-      {
-        "name": "Angélica María Dueñas",
-        "party": "D"
-      }
-    ],
-    "CA-30": [
-      {
-        "name": "Laura Friedman",
-        "party": "D"
-      },
-      {
-        "name": "Scott Meyers",
-        "party": "R"
-      }
-    ],
-    "CA-31": [
-      {
-        "name": "Gil Cisneros",
-        "party": "D"
-      },
-      {
-        "name": "Eric Ching",
-        "party": "R"
-      }
-    ],
-    "CA-32": [
-      {
-        "name": "Brad Sherman",
-        "party": "D"
-      },
-      {
-        "name": "Larry Thompson",
-        "party": "R"
-      }
-    ],
-    "CA-33": [
-      {
-        "name": "Pete Aguilar",
-        "party": "D"
-      },
-      {
-        "name": "Stephanie Vargas",
-        "party": "R"
-      }
-    ],
-    "CA-34": [
-      {
-        "name": "Jimmy Gomez",
-        "party": "D"
-      },
-      {
-        "name": "Angela Gonzales-Torres",
-        "party": "D"
-      }
-    ],
-    "CA-35": [
-      {
-        "name": "Norma Torres",
-        "party": "D"
-      },
-      {
-        "name": "Mike Cargile",
-        "party": "R"
-      }
-    ],
-    "CA-36": [
-      {
-        "name": "Ted Lieu",
-        "party": "D"
-      },
-      {
-        "name": "Houston Brignano",
-        "party": "R"
-      }
-    ],
-    "CA-37": [
-      {
-        "name": "Sydney Kamlager-Dove",
-        "party": "D"
-      },
-      {
-        "name": "Samantha Mota",
-        "party": "D"
-      }
-    ],
-    "CA-38": [
-      {
-        "name": "Hilda Solis",
-        "party": "D"
-      },
-      {
-        "name": "Pedro Antonio Casas",
-        "party": "R"
-      }
-    ],
-    "CA-39": [
-      {
-        "name": "Mark Takano",
-        "party": "D"
-      },
-      {
-        "name": "Steve Manos",
-        "party": "R"
-      }
-    ],
-    "CA-40": [
-      {
-        "name": "Ken Calvert",
-        "party": "R"
-      },
-      {
-        "name": "Young Kim",
-        "party": "R"
-      }
-    ],
-    "CA-41": [
-      {
-        "name": "Linda Sánchez",
-        "party": "D"
-      },
-      {
-        "name": "Mitch Clemmons",
-        "party": "R"
-      }
-    ],
-    "CA-42": [
-      {
-        "name": "Robert Garcia",
-        "party": "D"
-      },
-      {
-        "name": "Brian Burley",
-        "party": "R"
-      }
-    ],
-    "CA-43": [
-      {
-        "name": "Maxine Waters",
-        "party": "D"
-      },
-      {
-        "name": "Cristian Morales",
-        "party": "R"
-      }
-    ],
-    "CA-44": [
-      {
-        "name": "Nanette Barragán",
-        "party": "D"
-      },
-      {
-        "name": "Genevieve Angel",
-        "party": "R"
-      }
-    ],
-    "CA-45": [
-      {
-        "name": "Derek Tran",
-        "party": "D"
-      },
-      {
-        "name": "Chuong Vo",
-        "party": "R"
-      }
-    ],
-    "CA-46": [
-      {
-        "name": "Lou Correa",
-        "party": "D"
-      },
-      {
-        "name": "David Pan",
-        "party": "R"
-      }
-    ],
-    "CA-47": [
-      {
-        "name": "Dave Min",
-        "party": "D"
-      },
-      {
-        "name": "Jenny Le Roux",
-        "party": "R"
-      }
-    ],
-    "CA-48": [
-      {
-        "name": "Jim Desmond",
-        "party": "R"
-      },
-      {
-        "name": "Marni von Wilpert",
-        "party": "D"
-      }
-    ],
-    "CA-49": [
-      {
-        "name": "Mike Levin",
-        "party": "D"
-      },
-      {
-        "name": "Armen Kurdian",
-        "party": "R"
-      }
-    ],
-    "CA-50": [
-      {
-        "name": "Scott Peters",
-        "party": "D"
-      },
-      {
-        "name": "Steve Cohen",
-        "party": "R"
-      }
-    ],
-    "CA-51": [
-      {
-        "name": "Sara Jacobs",
-        "party": "D"
-      },
-      {
-        "name": "Richardo Cabrera",
-        "party": "R"
-      }
-    ],
-    "CA-52": [
-      {
-        "name": "Juan Vargas",
-        "party": "D"
-      },
-      {
-        "name": "Jeff Belle",
-        "party": "R"
       }
     ],
     "CO-01": [
@@ -861,17 +345,17 @@
     ],
     "DE-00": [
       {
-        "name": "[[Sarah McBride]] ''(presumptive)''",
+        "name": "Sarah McBride",
         "party": "D"
       },
       {
-        "name": "TBD",
+        "name": "Joseph Arminio",
         "party": "R"
       }
     ],
     "FL-01": [
       {
-        "name": "Jimmy Patronis",
+        "name": "'''[[Jimmy Patronis]]'''",
         "party": "R"
       },
       {
@@ -881,7 +365,7 @@
     ],
     "FL-02": [
       {
-        "name": "Austin Rogers",
+        "name": "'''Austin Rogers'''",
         "party": "R"
       },
       {
@@ -891,7 +375,7 @@
     ],
     "FL-03": [
       {
-        "name": "Kat Cammack",
+        "name": "'''[[Kat Cammack]]'''",
         "party": "R"
       },
       {
@@ -901,7 +385,7 @@
     ],
     "FL-04": [
       {
-        "name": "Aaron Bean",
+        "name": "'''[[Aaron Bean]]'''",
         "party": "R"
       },
       {
@@ -911,7 +395,7 @@
     ],
     "FL-05": [
       {
-        "name": "John Rutherford",
+        "name": "'''[[John Rutherford (Florida politician)|John Rutherford]]'''",
         "party": "R"
       },
       {
@@ -1061,7 +545,7 @@
     ],
     "FL-20": [
       {
-        "name": "Debbie Wasserman Schultz",
+        "name": "'''[[Debbie Wasserman Schultz]]'''",
         "party": "D"
       },
       {
@@ -1225,7 +709,7 @@
         "party": "R"
       },
       {
-        "name": "Kelly Etsi",
+        "name": "Kelly Esti",
         "party": "D"
       }
     ],
@@ -1501,7 +985,7 @@
     ],
     "IN-01": [
       {
-        "name": "Frank Mrvan",
+        "name": "'''[[Frank Mrvan]]'''",
         "party": "D"
       },
       {
@@ -1511,7 +995,7 @@
     ],
     "IN-02": [
       {
-        "name": "Rudy Yakym",
+        "name": "'''[[Rudy Yakym]]'''",
         "party": "R"
       },
       {
@@ -1545,7 +1029,7 @@
         "party": "R"
       },
       {
-        "name": "J. D. Ford",
+        "name": "'''[[J. D. Ford]] '''",
         "party": "D"
       }
     ],
@@ -1671,7 +1155,7 @@
     ],
     "KY-01": [
       {
-        "name": "James Comer",
+        "name": "'''[[James Comer]]'''",
         "party": "R"
       },
       {
@@ -1681,7 +1165,7 @@
     ],
     "KY-02": [
       {
-        "name": "Brett Guthrie",
+        "name": "'''[[Brett Guthrie]]'''",
         "party": "R"
       },
       {
@@ -1691,7 +1175,7 @@
     ],
     "KY-03": [
       {
-        "name": "Morgan McGarvey",
+        "name": "'''[[Morgan McGarvey]]'''",
         "party": "D"
       },
       {
@@ -1701,7 +1185,7 @@
     ],
     "KY-04": [
       {
-        "name": "Ed Gallrein",
+        "name": "'''[[Ed Gallrein]]'''",
         "party": "R"
       },
       {
@@ -1711,7 +1195,7 @@
     ],
     "KY-05": [
       {
-        "name": "Hal Rogers",
+        "name": "'''[[Hal Rogers]]'''",
         "party": "R"
       },
       {
@@ -1721,12 +1205,12 @@
     ],
     "KY-06": [
       {
-        "name": "Ralph Alvarado",
-        "party": "R"
+        "name": "'''[[Zach Dembo]]'''",
+        "party": "D"
       },
       {
-        "name": "Zach Dembo",
-        "party": "D"
+        "name": "Ralph Alvarado",
+        "party": "R"
       }
     ],
     "LA-01": [
@@ -1931,7 +1415,7 @@
     ],
     "MA-05": [
       {
-        "name": "Katherine Clark",
+        "name": "'''[[Katherine Clark]]'''",
         "party": "D"
       }
     ],
@@ -2367,7 +1851,7 @@
     ],
     "NV-02": [
       {
-        "name": "Dave Flippo",
+        "name": "David Flippo",
         "party": "R"
       },
       {
@@ -2477,12 +1961,12 @@
     ],
     "NJ-07": [
       {
-        "name": "Thomas Kean Jr.",
-        "party": "R"
-      },
-      {
         "name": "Rebecca Bennett",
         "party": "D"
+      },
+      {
+        "name": "Thomas Kean Jr.",
+        "party": "R"
       }
     ],
     "NJ-08": [
@@ -2927,7 +2411,7 @@
     ],
     "NC-11": [
       {
-        "name": "[[Jennifer Balkcom]] <br/>(replacing [[Chuck Edwards]])",
+        "name": "[[Jennifer Balkcom]]<br/>(replacing [[Chuck Edwards]])",
         "party": "R"
       },
       {
@@ -2961,7 +2445,7 @@
         "party": "R"
       },
       {
-        "name": "LaKesha Womack",
+        "name": "Lakesha Womack",
         "party": "D"
       }
     ],
@@ -3127,7 +2611,7 @@
     ],
     "OK-01": [
       {
-        "name": "Mark Tedford",
+        "name": "'''[[Mark Tedford]]'''",
         "party": "R"
       },
       {
@@ -3137,7 +2621,7 @@
     ],
     "OK-02": [
       {
-        "name": "Josh Brecheen",
+        "name": "'''[[Josh Brecheen]]'''",
         "party": "R"
       },
       {
@@ -3147,7 +2631,7 @@
     ],
     "OK-03": [
       {
-        "name": "Frank Lucas",
+        "name": "'''[[Frank Lucas (Oklahoma politician)|Frank Lucas]]'''",
         "party": "R"
       },
       {
@@ -3167,7 +2651,7 @@
     ],
     "OK-05": [
       {
-        "name": "Stephanie Bice",
+        "name": "'''[[Stephanie Bice]]'''",
         "party": "R"
       },
       {
@@ -3817,12 +3301,12 @@
     ],
     "TX-23": [
       {
-        "name": "Brandon Herrera",
-        "party": "R"
+        "name": "'''[[Katy Padilla Stout]]'''",
+        "party": "D"
       },
       {
-        "name": "Katy Padilla Stout",
-        "party": "D"
+        "name": "Brandon Herrera",
+        "party": "R"
       }
     ],
     "TX-24": [
@@ -3937,7 +3421,7 @@
     ],
     "TX-35": [
       {
-        "name": "Johnny Garcia",
+        "name": "Johnny C. Garcia",
         "party": "D"
       },
       {
@@ -3977,12 +3461,12 @@
     ],
     "UT-01": [
       {
-        "name": "Riley Owen",
-        "party": "R"
+        "name": "'''[[Ben McAdams]]'''",
+        "party": "D"
       },
       {
-        "name": "Ben McAdams",
-        "party": "D"
+        "name": "Riley Owens",
+        "party": "R"
       }
     ],
     "UT-02": [
@@ -4313,7 +3797,7 @@
     ],
     "WI-07": [
       {
-        "name": "Michael Alfonso",
+        "name": "'''[[Michael Alfonso (Wisconsin politician)|Michael Alfonso]]'''",
         "party": "R"
       },
       {
@@ -4337,7 +3821,7 @@
         "party": "R"
       },
       {
-        "name": "Lisa F. Kinney",
+        "name": "Lisa Kinney",
         "party": "D"
       }
     ]
