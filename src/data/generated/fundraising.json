@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T14:58:50.099Z",
+  "fetchedAt": "2026-11-04T15:22:54.785Z",
   "source": "FEC (Federal Election Commission): candidate financial totals",
   "sourceUrl": "https://api.open.fec.gov/developers/",
   "cycle": 2026,
@@ -249,6 +249,610 @@
         "receipts": 21553.8,
         "disbursements": 17690.21,
         "cashOnHand": 4545.6
+      }
+    },
+    "CA-01": {
+      "James Gallagher": {
+        "receipts": 1995260.11,
+        "disbursements": 1667530.88,
+        "cashOnHand": 327729.23
+      },
+      "Mike McGuire": {
+        "receipts": 2266830.12,
+        "disbursements": 2113183.62,
+        "cashOnHand": 153646.5
+      }
+    },
+    "CA-02": {
+      "Jared Huffman": {
+        "receipts": 1205633.57,
+        "disbursements": 1041581.47,
+        "cashOnHand": 1151201.29
+      },
+      "Robin Littau": {
+        "receipts": 0,
+        "disbursements": 0,
+        "cashOnHand": 0
+      }
+    },
+    "CA-03": {
+      "Ami Bera": {
+        "receipts": 1492834.21,
+        "disbursements": 1714917.14,
+        "cashOnHand": 1651288.78
+      },
+      "Robb Tucker": {
+        "receipts": 304654.01,
+        "disbursements": 288202.55,
+        "cashOnHand": 16451.46
+      }
+    },
+    "CA-04": {
+      "Mike Thompson": {
+        "receipts": 5482944.34,
+        "disbursements": 5290993.22,
+        "cashOnHand": 1401439.52
+      },
+      "Eric Jones": {
+        "receipts": 18058057.13,
+        "disbursements": 16516978.44,
+        "cashOnHand": 1541078.69
+      }
+    },
+    "CA-05": {
+      "Tom McClintock": {
+        "receipts": 1254441.78,
+        "disbursements": 1088546.39,
+        "cashOnHand": 314100.38
+      },
+      "Michael Masuda": {
+        "receipts": 581621.44,
+        "disbursements": 521955.65,
+        "cashOnHand": 59665.79
+      }
+    },
+    "CA-06": {
+      "Kevin Kiley": {
+        "receipts": 3723214.51,
+        "disbursements": 4069544.58,
+        "cashOnHand": 34648
+      },
+      "Richard Pan": {
+        "receipts": 2548242.27,
+        "disbursements": 2340306.07,
+        "cashOnHand": 207936.2
+      }
+    },
+    "CA-07": {
+      "Doris Matsui": {
+        "receipts": 7837818.8,
+        "disbursements": 6148707.31,
+        "cashOnHand": 1995780.29
+      },
+      "Mai Vang": {
+        "receipts": 1828417.71,
+        "disbursements": 1439654.43,
+        "cashOnHand": 388763.28
+      }
+    },
+    "CA-08": {
+      "John Garamendi": {
+        "receipts": 582745.6,
+        "disbursements": 615820.67,
+        "cashOnHand": 1231642.66
+      },
+      "Rudy Recile": {
+        "receipts": 20073,
+        "disbursements": 20875.45,
+        "cashOnHand": 235.29
+      }
+    },
+    "CA-09": {
+      "Josh Harder": {
+        "receipts": 4490401.33,
+        "disbursements": 1396540.99,
+        "cashOnHand": 4782692.06
+      },
+      "John McBride": {
+        "receipts": 77472.65,
+        "disbursements": 73035.61,
+        "cashOnHand": 4547.04
+      }
+    },
+    "CA-10": {
+      "Mark DeSaulnier": {
+        "receipts": 721776.27,
+        "disbursements": 883543.97,
+        "cashOnHand": 467219.62
+      },
+      "Jeff Frese": {
+        "receipts": 0,
+        "disbursements": 0,
+        "cashOnHand": 0
+      }
+    },
+    "CA-11": {
+      "Connie Chan": {
+        "receipts": 2404664.18,
+        "disbursements": 1822859.27,
+        "cashOnHand": 581804.91
+      },
+      "Scott Wiener": {
+        "receipts": 5808855.03,
+        "disbursements": 5194515.79,
+        "cashOnHand": 614339.24
+      }
+    },
+    "CA-12": {
+      "Lateefah Simon": {
+        "receipts": 1703905.82,
+        "disbursements": 1263803.98,
+        "cashOnHand": 725756.55
+      },
+      "Jamie Joyce": {
+        "receipts": 69669.05,
+        "disbursements": 64410.77,
+        "cashOnHand": 5258.28
+      }
+    },
+    "CA-13": {
+      "Adam Gray": {
+        "receipts": 5241028.11,
+        "disbursements": 4584353.2,
+        "cashOnHand": 848632.63
+      },
+      "Kevin Lincoln": {
+        "receipts": 2971922.26,
+        "disbursements": 2547657.95,
+        "cashOnHand": 448388.44
+      }
+    },
+    "CA-14": {
+      "Aisha Wahab": {
+        "receipts": 1214546.85,
+        "disbursements": 752224.52,
+        "cashOnHand": 462322.33
+      },
+      "Melissa Hernandez": {
+        "receipts": 2112673.52,
+        "disbursements": 2004315.43,
+        "cashOnHand": 108358.09
+      }
+    },
+    "CA-15": {
+      "Kevin Mullin": {
+        "receipts": 986645.13,
+        "disbursements": 846815.26,
+        "cashOnHand": 191601.11
+      },
+      "Charles Hoelter": {
+        "receipts": 0,
+        "disbursements": 0,
+        "cashOnHand": 0
+      }
+    },
+    "CA-16": {
+      "Sam Liccardo": {
+        "receipts": 3873149.95,
+        "disbursements": 1703882.75,
+        "cashOnHand": 2259659.3
+      }
+    },
+    "CA-17": {
+      "Ro Khanna": {
+        "receipts": 15320812.81,
+        "disbursements": 9451501.9,
+        "cashOnHand": 16578402.31
+      },
+      "Ritesh Tandon": {
+        "receipts": 57011.48,
+        "disbursements": 51784.26,
+        "cashOnHand": 5227.22
+      }
+    },
+    "CA-18": {
+      "Zoe Lofgren": {
+        "receipts": 1983394.32,
+        "disbursements": 1620786.13,
+        "cashOnHand": 602360.54
+      },
+      "Shane Lewis": {
+        "receipts": 115468.87,
+        "disbursements": 111052.14,
+        "cashOnHand": 4416.73
+      }
+    },
+    "CA-19": {
+      "Jimmy Panetta": {
+        "receipts": 3622736.66,
+        "disbursements": 1870172.79,
+        "cashOnHand": 5467202.48
+      },
+      "Peter Verbica": {
+        "receipts": 85541.19,
+        "disbursements": 78720.05,
+        "cashOnHand": 6821.14
+      }
+    },
+    "CA-20": {
+      "Vince Fong": {
+        "receipts": 2407333.59,
+        "disbursements": 1779225.59,
+        "cashOnHand": 667339.4
+      },
+      "Sandra Van Scotter": {
+        "receipts": 47739.09,
+        "disbursements": 42428.82,
+        "cashOnHand": -1680.31
+      }
+    },
+    "CA-21": {
+      "Jim Costa": {
+        "receipts": 1685248.73,
+        "disbursements": 1393363.7,
+        "cashOnHand": 500767.13
+      },
+      "Kyle Kirkland": {
+        "receipts": 464700.09,
+        "disbursements": 451599.35,
+        "cashOnHand": 13100.74
+      }
+    },
+    "CA-22": {
+      "David Valadao": {
+        "receipts": 6325324.07,
+        "disbursements": 4659208.33,
+        "cashOnHand": 1711651.27
+      },
+      "Randy Villegas": {
+        "receipts": 5942030.17,
+        "disbursements": 4979678.4,
+        "cashOnHand": 962351.77
+      }
+    },
+    "CA-23": {
+      "Jay Obernolte": {
+        "receipts": 1854658.18,
+        "disbursements": 1473929.6,
+        "cashOnHand": 1378568.34
+      },
+      "Tessa Lynn Hodge": {
+        "receipts": 126771.66,
+        "disbursements": 114337.33,
+        "cashOnHand": 12434.33
+      }
+    },
+    "CA-24": {
+      "Salud Carbajal": {
+        "receipts": 1917271.26,
+        "disbursements": 1217678.02,
+        "cashOnHand": 3343462.75
+      },
+      "Bob Smith": {
+        "receipts": 346742.15,
+        "disbursements": 289534.26,
+        "cashOnHand": 57207.89
+      }
+    },
+    "CA-25": {
+      "Raul Ruiz": {
+        "receipts": 2455630.94,
+        "disbursements": 1691465.74,
+        "cashOnHand": 2466904.6
+      },
+      "Joe Males": {
+        "receipts": 1114056.44,
+        "disbursements": 1056061.74,
+        "cashOnHand": 57994.7
+      }
+    },
+    "CA-26": {
+      "Jacqui Irwin": {
+        "receipts": 1170990.11,
+        "disbursements": 713178.78,
+        "cashOnHand": 457811.33
+      },
+      "Sam Gallucci": {
+        "receipts": 537530.39,
+        "disbursements": 518649.18,
+        "cashOnHand": 18881.21
+      }
+    },
+    "CA-27": {
+      "George Whitesides": {
+        "receipts": 4512697.32,
+        "disbursements": 2665772.6,
+        "cashOnHand": 2173658.08
+      },
+      "Jason Gibbs": {
+        "receipts": 413837.88,
+        "disbursements": 353339.34,
+        "cashOnHand": 60498.54
+      }
+    },
+    "CA-28": {
+      "Judy Chu": {
+        "receipts": 1375778.13,
+        "disbursements": 1297130.26,
+        "cashOnHand": 3680652.82
+      },
+      "April Verlato": {
+        "receipts": 700,
+        "disbursements": 7882.46,
+        "cashOnHand": 655.19
+      }
+    },
+    "CA-29": {
+      "Luz Rivas": {
+        "receipts": 1032475.21,
+        "disbursements": 1000588.24,
+        "cashOnHand": 296150.2
+      }
+    },
+    "CA-30": {
+      "Laura Friedman": {
+        "receipts": 994570.57,
+        "disbursements": 770770.75,
+        "cashOnHand": 520548.06
+      },
+      "Scott Meyers": {
+        "receipts": 122819.35,
+        "disbursements": 117577.75,
+        "cashOnHand": 5241.6
+      }
+    },
+    "CA-31": {
+      "Gil Cisneros": {
+        "receipts": 853124.16,
+        "disbursements": 680381.79,
+        "cashOnHand": 212818.2
+      },
+      "Eric Ching": {
+        "receipts": 97169.8,
+        "disbursements": 127035.35,
+        "cashOnHand": 10375.02
+      }
+    },
+    "CA-32": {
+      "Brad Sherman": {
+        "receipts": 2899860.15,
+        "disbursements": 4148561.7,
+        "cashOnHand": 2673243.15
+      },
+      "Larry Thompson": {
+        "receipts": 66331.34,
+        "disbursements": 59185.45,
+        "cashOnHand": 7145.89
+      }
+    },
+    "CA-33": {
+      "Pete Aguilar": {
+        "receipts": 5676010.87,
+        "disbursements": 5651367.62,
+        "cashOnHand": 2673714.42
+      },
+      "Stephanie Vargas": {
+        "receipts": 720.51,
+        "disbursements": 200,
+        "cashOnHand": 520.51
+      }
+    },
+    "CA-34": {
+      "Jimmy Gomez": {
+        "receipts": 1336235.14,
+        "disbursements": 796599.28,
+        "cashOnHand": 628394.77
+      },
+      "Angela Gonzales-Torres": {
+        "receipts": 509751.75,
+        "disbursements": 404933.43,
+        "cashOnHand": 104818.32
+      }
+    },
+    "CA-35": {
+      "Norma Torres": {
+        "receipts": 922924.14,
+        "disbursements": 981342.53,
+        "cashOnHand": 244896.64
+      },
+      "Mike Cargile": {
+        "receipts": 9799,
+        "disbursements": 9821.96,
+        "cashOnHand": 447.81
+      }
+    },
+    "CA-36": {
+      "Ted Lieu": {
+        "receipts": 2218447.53,
+        "disbursements": 1712030.27,
+        "cashOnHand": 1181424.01
+      },
+      "Houston Brignano": {
+        "receipts": 7020.37,
+        "disbursements": 5801.28,
+        "cashOnHand": 1219.09
+      }
+    },
+    "CA-37": {
+      "Sydney Kamlager-Dove": {
+        "receipts": 1644249.01,
+        "disbursements": 1521487.07,
+        "cashOnHand": 184759.92
+      },
+      "Samantha Mota": {
+        "receipts": 12578.93,
+        "disbursements": 12250.64,
+        "cashOnHand": 328.29
+      }
+    },
+    "CA-38": {
+      "Hilda Solis": {
+        "receipts": 1482148.13,
+        "disbursements": 1197641.24,
+        "cashOnHand": 284506.89
+      },
+      "Pedro Antonio Casas": {
+        "receipts": 0,
+        "disbursements": 0,
+        "cashOnHand": 0
+      }
+    },
+    "CA-39": {
+      "Mark Takano": {
+        "receipts": 1133983.78,
+        "disbursements": 1171938.27,
+        "cashOnHand": 231215.39
+      },
+      "Steve Manos": {
+        "receipts": 11929,
+        "disbursements": 8030.7,
+        "cashOnHand": 3987.5
+      }
+    },
+    "CA-40": {
+      "Ken Calvert": {
+        "receipts": 7050383.48,
+        "disbursements": 6332128.58,
+        "cashOnHand": 980390.51
+      },
+      "Young Kim": {
+        "receipts": 10148196.21,
+        "disbursements": 10973616.52,
+        "cashOnHand": 910972.96
+      }
+    },
+    "CA-41": {
+      "Mitch Clemmons": {
+        "receipts": 6154,
+        "disbursements": 3080.52,
+        "cashOnHand": 3073.48
+      }
+    },
+    "CA-42": {
+      "Robert Garcia": {
+        "receipts": 3394174.67,
+        "disbursements": 2233622.95,
+        "cashOnHand": 1572979.62
+      },
+      "Brian Burley": {
+        "receipts": 251136.54,
+        "disbursements": 254974.12,
+        "cashOnHand": 1939.28
+      }
+    },
+    "CA-43": {
+      "Maxine Waters": {
+        "receipts": 1107267.34,
+        "disbursements": 1119052.46,
+        "cashOnHand": 104671.36
+      },
+      "Cristian Morales": {
+        "receipts": 14995,
+        "disbursements": 14456.26,
+        "cashOnHand": 538.74
+      }
+    },
+    "CA-44": {
+      "Genevieve Angel": {
+        "receipts": 21826.25,
+        "disbursements": 10882.23,
+        "cashOnHand": 10944.02
+      }
+    },
+    "CA-45": {
+      "Derek Tran": {
+        "receipts": 5988192.12,
+        "disbursements": 3633122.65,
+        "cashOnHand": 2682392.26
+      },
+      "Chuong Vo": {
+        "receipts": 937468.52,
+        "disbursements": 762012.87,
+        "cashOnHand": 175455.65
+      }
+    },
+    "CA-46": {
+      "Lou Correa": {
+        "receipts": 1493328.69,
+        "disbursements": 1037296.17,
+        "cashOnHand": 2323395.15
+      },
+      "David Pan": {
+        "receipts": 104144.51,
+        "disbursements": 105168.47,
+        "cashOnHand": 1856.37
+      }
+    },
+    "CA-47": {
+      "Dave Min": {
+        "receipts": 3872174.88,
+        "disbursements": 2562594.76,
+        "cashOnHand": 1482645.9
+      },
+      "Jenny Le Roux": {
+        "receipts": 592041.22,
+        "disbursements": 456266.74,
+        "cashOnHand": 135774.48
+      }
+    },
+    "CA-48": {
+      "Jim Desmond": {
+        "receipts": 3177972.16,
+        "disbursements": 2460453.71,
+        "cashOnHand": 717518.45
+      },
+      "Marni von Wilpert": {
+        "receipts": 4966576.06,
+        "disbursements": 4307440.02,
+        "cashOnHand": 659136.04
+      }
+    },
+    "CA-49": {
+      "Mike Levin": {
+        "receipts": 3564690.1,
+        "disbursements": 2473648.85,
+        "cashOnHand": 1360778.23
+      },
+      "Armen Kurdian": {
+        "receipts": 189195.87,
+        "disbursements": 158769,
+        "cashOnHand": 30426.87
+      }
+    },
+    "CA-50": {
+      "Scott Peters": {
+        "receipts": 2191968.34,
+        "disbursements": 1774833.62,
+        "cashOnHand": 2567655.53
+      },
+      "Steve Cohen": {
+        "receipts": 4092,
+        "disbursements": 2060.39,
+        "cashOnHand": 2031.61
+      }
+    },
+    "CA-51": {
+      "Sara Jacobs": {
+        "receipts": 1864955.14,
+        "disbursements": 1624896.9,
+        "cashOnHand": 317430.4
+      },
+      "Ricardo Cabrera": {
+        "receipts": 0,
+        "disbursements": 0,
+        "cashOnHand": 0
+      }
+    },
+    "CA-52": {
+      "Juan Vargas": {
+        "receipts": 836097.06,
+        "disbursements": 609275.89,
+        "cashOnHand": 317661.81
+      },
+      "Jeff Belle": {
+        "receipts": 26538.06,
+        "disbursements": 26456.35,
+        "cashOnHand": 81.71
       }
     },
     "CO-01": {
@@ -4667,6 +5271,11 @@
       }
     },
     "MT": {
+      "'''Kurt Alme'''": {
+        "receipts": 3013680.86,
+        "disbursements": 2410943.1,
+        "cashOnHand": 602737.76
+      },
       "Seth Bodnar": {
         "receipts": 4918341.25,
         "disbursements": 4337420.34,
