@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-04",
-  "fetchedAt": "2026-11-04T15:04:06.599Z",
+  "asOf": "2026-11-09",
+  "fetchedAt": "2026-11-09T22:15:06.176Z",
   "source": "Wikipedia: latest published House race ratings (aggregates Cook, Inside Elections, Sabato, Race to the WH, The Economist, Split Ticket, DDHQ, FiftyPlusOne, Fox News, Silver Bulletin)",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
   "note": "Only covers seats at least one rater considers competitive. Districts not listed here are not \"safe\" in this file — the app falls back to placeholder data for them until a full-district source is added.",
@@ -561,6 +561,11 @@
       "raterCount": 10
     },
     "SC-05": {
+      "rating": "safe-r",
+      "partisanLean": -11,
+      "raterCount": 10
+    },
+    "TN-04": {
       "rating": "safe-r",
       "partisanLean": -11,
       "raterCount": 10

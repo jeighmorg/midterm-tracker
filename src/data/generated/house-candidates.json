@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-04T15:10:01.579Z",
+  "fetchedAt": "2026-11-09T22:21:01.571Z",
   "source": "Wikipedia: each state's 2026 House election article infoboxes",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
   "districts": {
     "AL-01": [
       {
-        "name": "Jerry Carl",
+        "name": "'''[[Jerry Carl]]'''",
         "party": "R"
       },
       {
@@ -15,7 +15,7 @@
     ],
     "AL-02": [
       {
-        "name": "Shomari Figures",
+        "name": "'''[[Shomari Figures]]'''",
         "party": "D"
       },
       {
@@ -25,7 +25,7 @@
     ],
     "AL-03": [
       {
-        "name": "Mike Rogers",
+        "name": "'''[[Mike Rogers (Alabama politician)|Mike Rogers]]'''",
         "party": "R"
       },
       {
@@ -35,7 +35,7 @@
     ],
     "AL-04": [
       {
-        "name": "Robert Aderholt",
+        "name": "'''[[Robert Aderholt]]'''",
         "party": "R"
       },
       {
@@ -45,7 +45,7 @@
     ],
     "AL-05": [
       {
-        "name": "Dale Strong",
+        "name": "'''[[Dale Strong]]'''",
         "party": "R"
       },
       {
@@ -55,7 +55,7 @@
     ],
     "AL-06": [
       {
-        "name": "Gary Palmer",
+        "name": "'''[[Gary Palmer]]'''",
         "party": "R"
       },
       {
@@ -65,7 +65,7 @@
     ],
     "AL-07": [
       {
-        "name": "Terri Sewell",
+        "name": "'''[[Terri Sewell]]'''",
         "party": "D"
       },
       {
@@ -85,17 +85,17 @@
     ],
     "AZ-01": [
       {
-        "name": "Jay Feely",
-        "party": "R"
+        "name": "'''[[Amish Shah]]'''",
+        "party": "D"
       },
       {
-        "name": "Amish Shah",
-        "party": "D"
+        "name": "Jay Feely",
+        "party": "R"
       }
     ],
     "AZ-02": [
       {
-        "name": "Eli Crane",
+        "name": "'''[[Eli Crane]]'''",
         "party": "R"
       },
       {
@@ -105,17 +105,17 @@
     ],
     "AZ-03": [
       {
-        "name": "Yassamin Ansari",
+        "name": "'''[[Yassamin Ansari]]'''",
         "party": "D"
       },
       {
-        "name": "Jacob Parkman",
-        "party": "R"
+        "name": "Alan Aversa",
+        "party": "No Labels Party"
       }
     ],
     "AZ-04": [
       {
-        "name": "Greg Stanton",
+        "name": "'''[[Greg Stanton]]'''",
         "party": "D"
       },
       {
@@ -125,7 +125,7 @@
     ],
     "AZ-05": [
       {
-        "name": "Mark Lamb",
+        "name": "'''[[Mark Lamb (sheriff)|Mark Lamb]]'''",
         "party": "R"
       },
       {
@@ -135,17 +135,17 @@
     ],
     "AZ-06": [
       {
-        "name": "Juan Ciscomani",
-        "party": "R"
+        "name": "'''[[JoAnna Mendoza]]'''",
+        "party": "D"
       },
       {
-        "name": "JoAnna Mendoza",
-        "party": "D"
+        "name": "Juan Ciscomani",
+        "party": "R"
       }
     ],
     "AZ-07": [
       {
-        "name": "Adelita Grijalva",
+        "name": "'''[[Adelita Grijalva]]'''",
         "party": "D"
       },
       {
@@ -155,7 +155,7 @@
     ],
     "AZ-08": [
       {
-        "name": "Abraham Hamadeh",
+        "name": "'''[[Abraham Hamadeh]]'''",
         "party": "R"
       },
       {
@@ -165,7 +165,7 @@
     ],
     "AZ-09": [
       {
-        "name": "Paul Gosar",
+        "name": "'''[[Paul Gosar]]'''",
         "party": "R"
       },
       {
@@ -215,17 +215,17 @@
     ],
     "CA-01": [
       {
-        "name": "James Gallagher",
-        "party": "R"
+        "name": "'''[[Mike McGuire (politician)|Mike McGuire]]'''",
+        "party": "D"
       },
       {
-        "name": "Mike McGuire",
-        "party": "D"
+        "name": "James Gallagher",
+        "party": "R"
       }
     ],
     "CA-02": [
       {
-        "name": "Jared Huffman",
+        "name": "'''[[Jared Huffman]]'''",
         "party": "D"
       },
       {
@@ -235,7 +235,7 @@
     ],
     "CA-03": [
       {
-        "name": "Ami Bera",
+        "name": "'''[[Ami Bera]]'''",
         "party": "D"
       },
       {
@@ -245,17 +245,17 @@
     ],
     "CA-04": [
       {
-        "name": "Mike Thompson",
+        "name": "Eric Jones",
         "party": "D"
       },
       {
-        "name": "Eric Jones",
+        "name": "Mike Thompson",
         "party": "D"
       }
     ],
     "CA-05": [
       {
-        "name": "Tom McClintock",
+        "name": "'''[[Tom McClintock]]'''",
         "party": "R"
       },
       {
@@ -265,12 +265,12 @@
     ],
     "CA-06": [
       {
-        "name": "Kevin Kiley",
-        "party": "No party preference"
+        "name": "'''[[Richard Pan]]'''",
+        "party": "D"
       },
       {
-        "name": "Richard Pan",
-        "party": "D"
+        "name": "Kevin Kiley",
+        "party": "No party preference"
       }
     ],
     "CA-07": [
@@ -285,7 +285,7 @@
     ],
     "CA-08": [
       {
-        "name": "John Garamendi",
+        "name": "'''[[John Garamendi]]'''",
         "party": "D"
       },
       {
@@ -295,7 +295,7 @@
     ],
     "CA-09": [
       {
-        "name": "Josh Harder",
+        "name": "'''[[Josh Harder]]'''",
         "party": "D"
       },
       {
@@ -305,7 +305,7 @@
     ],
     "CA-10": [
       {
-        "name": "Mark DeSaulnier",
+        "name": "'''[[Mark DeSaulnier]]'''",
         "party": "D"
       },
       {
@@ -315,17 +315,17 @@
     ],
     "CA-11": [
       {
-        "name": "Connie Chan",
+        "name": "'''[[Scott Wiener]]'''",
         "party": "D"
       },
       {
-        "name": "Scott Wiener",
+        "name": "Connie Chan",
         "party": "D"
       }
     ],
     "CA-12": [
       {
-        "name": "Lateefah Simon",
+        "name": "'''[[Lateefah Simon]]'''",
         "party": "D"
       },
       {
@@ -335,7 +335,7 @@
     ],
     "CA-13": [
       {
-        "name": "Adam Gray",
+        "name": "'''[[Adam Gray]]'''",
         "party": "D"
       },
       {
@@ -355,7 +355,7 @@
     ],
     "CA-15": [
       {
-        "name": "Kevin Mullin",
+        "name": "'''[[Kevin Mullin]]'''",
         "party": "D"
       },
       {
@@ -365,7 +365,7 @@
     ],
     "CA-16": [
       {
-        "name": "Sam Liccardo",
+        "name": "'''[[Sam Liccardo]]'''",
         "party": "D"
       },
       {
@@ -375,7 +375,7 @@
     ],
     "CA-17": [
       {
-        "name": "Ro Khanna",
+        "name": "'''[[Ro Khanna]]'''",
         "party": "D"
       },
       {
@@ -385,7 +385,7 @@
     ],
     "CA-18": [
       {
-        "name": "Zoe Lofgren",
+        "name": "'''[[Zoe Lofgren]]'''",
         "party": "D"
       },
       {
@@ -395,7 +395,7 @@
     ],
     "CA-19": [
       {
-        "name": "Jimmy Panetta",
+        "name": "'''[[Jimmy Panetta]]'''",
         "party": "D"
       },
       {
@@ -405,7 +405,7 @@
     ],
     "CA-20": [
       {
-        "name": "Vince Fong",
+        "name": "'''[[Vince Fong]]'''",
         "party": "R"
       },
       {
@@ -415,7 +415,7 @@
     ],
     "CA-21": [
       {
-        "name": "Jim Costa",
+        "name": "'''[[Jim Costa]]'''",
         "party": "D"
       },
       {
@@ -425,12 +425,12 @@
     ],
     "CA-22": [
       {
-        "name": "David Valadao",
-        "party": "R"
+        "name": "'''[[Randy Villegas]]'''",
+        "party": "D"
       },
       {
-        "name": "Randy Villegas",
-        "party": "D"
+        "name": "David Valadao",
+        "party": "R"
       }
     ],
     "CA-23": [
@@ -445,7 +445,7 @@
     ],
     "CA-24": [
       {
-        "name": "Salud Carbajal",
+        "name": "'''[[Salud Carbajal]]'''",
         "party": "D"
       },
       {
@@ -455,7 +455,7 @@
     ],
     "CA-25": [
       {
-        "name": "Raul Ruiz",
+        "name": "'''[[Raul Ruiz (politician)|Raul Ruiz]]'''",
         "party": "D"
       },
       {
@@ -465,7 +465,7 @@
     ],
     "CA-26": [
       {
-        "name": "Jacqui Irwin",
+        "name": "'''[[Jacqui Irwin]]'''",
         "party": "D"
       },
       {
@@ -495,7 +495,7 @@
     ],
     "CA-29": [
       {
-        "name": "Luz Rivas",
+        "name": "'''[[Luz Rivas]]'''",
         "party": "D"
       },
       {
@@ -545,11 +545,11 @@
     ],
     "CA-34": [
       {
-        "name": "Jimmy Gomez",
+        "name": "'''[[Angela Gonzales-Torres]]'''",
         "party": "D"
       },
       {
-        "name": "Angela Gonzales-Torres",
+        "name": "Jimmy Gomez",
         "party": "D"
       }
     ],
@@ -735,7 +735,7 @@
     ],
     "CO-01": [
       {
-        "name": "Melat Kiros",
+        "name": "'''[[Melat Kiros]]'''",
         "party": "D"
       },
       {
@@ -745,7 +745,7 @@
     ],
     "CO-02": [
       {
-        "name": "Joe Neguse",
+        "name": "'''[[Joe Neguse]]'''",
         "party": "D"
       },
       {
@@ -755,7 +755,7 @@
     ],
     "CO-03": [
       {
-        "name": "Jeff Hurd",
+        "name": "'''[[Jeff Hurd]]'''",
         "party": "R"
       },
       {
@@ -765,27 +765,27 @@
     ],
     "CO-04": [
       {
-        "name": "Lauren Boebert",
-        "party": "R"
-      },
-      {
         "name": "Eileen Laubacher",
         "party": "D"
+      },
+      {
+        "name": "Lauren Boebert",
+        "party": "R"
       }
     ],
     "CO-05": [
       {
-        "name": "Jeff Crank",
-        "party": "R"
+        "name": "'''[[Jessica Killin]]'''",
+        "party": "D"
       },
       {
-        "name": "Jessica Killin",
-        "party": "D"
+        "name": "Jeff Crank",
+        "party": "R"
       }
     ],
     "CO-06": [
       {
-        "name": "Jason Crow",
+        "name": "'''[[Jason Crow]]'''",
         "party": "D"
       },
       {
@@ -795,7 +795,7 @@
     ],
     "CO-07": [
       {
-        "name": "Brittany Pettersen",
+        "name": "'''[[Brittany Pettersen]]'''",
         "party": "D"
       },
       {
@@ -805,12 +805,12 @@
     ],
     "CO-08": [
       {
-        "name": "Gabe Evans",
-        "party": "R"
+        "name": "'''[[Manny Rutinel]]'''",
+        "party": "D"
       },
       {
-        "name": "Manny Rutinel",
-        "party": "D"
+        "name": "Gabe Evans",
+        "party": "R"
       }
     ],
     "CT-01": [
@@ -865,7 +865,7 @@
     ],
     "DE-00": [
       {
-        "name": "Sarah McBride",
+        "name": "'''[[Sarah McBride]]'''",
         "party": "D"
       },
       {
@@ -885,7 +885,7 @@
     ],
     "FL-02": [
       {
-        "name": "'''Austin Rogers'''",
+        "name": "'''[[Austin Rogers (politician)|Austin Rogers]]'''",
         "party": "R"
       },
       {
@@ -925,7 +925,7 @@
     ],
     "FL-06": [
       {
-        "name": "Randy Fine",
+        "name": "'''[[Randy Fine]]'''",
         "party": "R"
       },
       {
@@ -945,7 +945,7 @@
     ],
     "FL-08": [
       {
-        "name": "Mike Haridopolos",
+        "name": "'''[[Mike Haridopolos]]'''",
         "party": "R"
       },
       {
@@ -975,7 +975,7 @@
     ],
     "FL-11": [
       {
-        "name": "Joe Strada",
+        "name": "'''[[Joe Strada]]'''",
         "party": "R"
       },
       {
@@ -985,7 +985,7 @@
     ],
     "FL-12": [
       {
-        "name": "Gus Bilirakis",
+        "name": "'''[[Gus Bilirakis]]'''",
         "party": "R"
       },
       {
@@ -995,7 +995,7 @@
     ],
     "FL-13": [
       {
-        "name": "Anna Paulina Luna",
+        "name": "'''[[Anna Paulina Luna]]'''",
         "party": "R"
       },
       {
@@ -1005,7 +1005,7 @@
     ],
     "FL-14": [
       {
-        "name": "Kathy Castor",
+        "name": "'''[[Kathy Castor]]'''",
         "party": "D"
       },
       {
@@ -1015,7 +1015,7 @@
     ],
     "FL-15": [
       {
-        "name": "Laurel Lee",
+        "name": "'''[[Laurel Lee]]'''",
         "party": "R"
       },
       {
@@ -1025,7 +1025,7 @@
     ],
     "FL-16": [
       {
-        "name": "Sydney Gruters",
+        "name": "'''[[Sydney Gruters]]'''",
         "party": "R"
       },
       {
@@ -1035,7 +1035,7 @@
     ],
     "FL-17": [
       {
-        "name": "Greg Steube",
+        "name": "'''[[Greg Steube]]'''",
         "party": "R"
       },
       {
@@ -1045,7 +1045,7 @@
     ],
     "FL-18": [
       {
-        "name": "Scott Franklin",
+        "name": "'''[[Scott Franklin (politician)|Scott Franklin]]'''",
         "party": "R"
       },
       {
@@ -1055,7 +1055,7 @@
     ],
     "FL-19": [
       {
-        "name": "Jim Schwartzel",
+        "name": "'''[[Jim Schwartzel]]'''",
         "party": "R"
       },
       {
@@ -1075,7 +1075,7 @@
     ],
     "FL-21": [
       {
-        "name": "Brian Mast",
+        "name": "'''[[Brian Mast]]'''",
         "party": "R"
       },
       {
@@ -1085,7 +1085,7 @@
     ],
     "FL-22": [
       {
-        "name": "Pia Dandiya",
+        "name": "'''[[Pia Dandiya]]'''",
         "party": "D"
       },
       {
@@ -1095,7 +1095,7 @@
     ],
     "FL-23": [
       {
-        "name": "Lois Frankel",
+        "name": "'''[[Lois Frankel]]'''",
         "party": "D"
       },
       {
@@ -1105,7 +1105,7 @@
     ],
     "FL-24": [
       {
-        "name": "Oliver Gilbert",
+        "name": "'''[[Oliver Gilbert]]'''",
         "party": "D"
       },
       {
@@ -1115,7 +1115,7 @@
     ],
     "FL-25": [
       {
-        "name": "Jared Moskowitz",
+        "name": "'''[[Jared Moskowitz]]'''",
         "party": "D"
       },
       {
@@ -1145,7 +1145,7 @@
     ],
     "FL-28": [
       {
-        "name": "Carlos Giménez",
+        "name": "'''[[Carlos A. Giménez|Carlos Giménez]]'''",
         "party": "R"
       },
       {
@@ -1155,7 +1155,7 @@
     ],
     "GA-01": [
       {
-        "name": "Jim Kingston",
+        "name": "'''[[Jim Kingston (politician)|Jim Kingston]]'''",
         "party": "R"
       },
       {
@@ -1165,7 +1165,7 @@
     ],
     "GA-02": [
       {
-        "name": "Sanford Bishop",
+        "name": "'''[[Sanford Bishop]]'''",
         "party": "D"
       },
       {
@@ -1175,7 +1175,7 @@
     ],
     "GA-03": [
       {
-        "name": "Brian Jack",
+        "name": "'''[[Brian Jack]]'''",
         "party": "R"
       },
       {
@@ -1185,7 +1185,7 @@
     ],
     "GA-04": [
       {
-        "name": "Hank Johnson",
+        "name": "'''[[Hank Johnson]]'''",
         "party": "D"
       },
       {
@@ -1195,7 +1195,7 @@
     ],
     "GA-05": [
       {
-        "name": "Nikema Williams",
+        "name": "'''[[Nikema Williams]]'''",
         "party": "D"
       },
       {
@@ -1205,7 +1205,7 @@
     ],
     "GA-06": [
       {
-        "name": "Lucy McBath",
+        "name": "'''[[Lucy McBath]]'''",
         "party": "D"
       },
       {
@@ -1215,7 +1215,7 @@
     ],
     "GA-07": [
       {
-        "name": "Rich McCormick",
+        "name": "'''[[Rich McCormick]]'''",
         "party": "R"
       },
       {
@@ -1225,7 +1225,7 @@
     ],
     "GA-08": [
       {
-        "name": "Austin Scott",
+        "name": "'''[[Austin Scott (politician)|Austin Scott]]'''",
         "party": "R"
       },
       {
@@ -1235,7 +1235,7 @@
     ],
     "GA-09": [
       {
-        "name": "Andrew Clyde",
+        "name": "'''[[Andrew Clyde]]'''",
         "party": "R"
       },
       {
@@ -1245,7 +1245,7 @@
     ],
     "GA-10": [
       {
-        "name": "Houston Gaines",
+        "name": "'''[[Houston Gaines]]'''",
         "party": "R"
       },
       {
@@ -1255,7 +1255,7 @@
     ],
     "GA-11": [
       {
-        "name": "John Cowan",
+        "name": "'''[[John Cowan (Georgia politician)|John Cowan]]'''",
         "party": "R"
       },
       {
@@ -1265,7 +1265,7 @@
     ],
     "GA-12": [
       {
-        "name": "Rick Allen",
+        "name": "'''[[Rick Allen (politician)|Rick Allen]]'''",
         "party": "R"
       },
       {
@@ -1275,7 +1275,7 @@
     ],
     "GA-13": [
       {
-        "name": "Jasmine Clark",
+        "name": "'''[[Jasmine Clark]]'''",
         "party": "D"
       },
       {
@@ -1285,7 +1285,7 @@
     ],
     "GA-14": [
       {
-        "name": "Clay Fuller",
+        "name": "'''[[Clay Fuller]]'''",
         "party": "R"
       },
       {
@@ -1525,7 +1525,7 @@
     ],
     "IN-03": [
       {
-        "name": "Marlin Stutzman",
+        "name": "'''[[Marlin Stutzman]]  '''",
         "party": "R"
       },
       {
@@ -1535,7 +1535,7 @@
     ],
     "IN-04": [
       {
-        "name": "Jim Baird",
+        "name": "'''[[Jim Baird   (politician)|Jim Baird]]  '''",
         "party": "R"
       },
       {
@@ -1545,17 +1545,17 @@
     ],
     "IN-05": [
       {
-        "name": "Victoria Spartz",
-        "party": "R"
+        "name": "'''[[J. D. Ford]]'''",
+        "party": "D"
       },
       {
-        "name": "'''[[J. D. Ford]] '''",
-        "party": "D"
+        "name": "Victoria Spartz",
+        "party": "R"
       }
     ],
     "IN-06": [
       {
-        "name": "Jefferson Shreve",
+        "name": "'''[[Jefferson Shreve]] '''",
         "party": "R"
       },
       {
@@ -1565,7 +1565,7 @@
     ],
     "IN-07": [
       {
-        "name": "André Carson",
+        "name": "'''[[André Carson]] '''",
         "party": "D"
       },
       {
@@ -1575,7 +1575,7 @@
     ],
     "IN-08": [
       {
-        "name": "Mark Messmer",
+        "name": "'''[[Mark Messmer]]  '''",
         "party": "R"
       },
       {
@@ -1585,7 +1585,7 @@
     ],
     "IN-09": [
       {
-        "name": "Erin Houchin",
+        "name": "'''[[Erin Houchin]]  '''",
         "party": "R"
       },
       {
@@ -1595,37 +1595,37 @@
     ],
     "IA-01": [
       {
-        "name": "Mariannette Miller-Meeks",
-        "party": "R"
+        "name": "'''[[Christina Bohannan]]'''",
+        "party": "D"
       },
       {
-        "name": "Christina Bohannan",
-        "party": "D"
+        "name": "Mariannette Miller-Meeks",
+        "party": "R"
       }
     ],
     "IA-02": [
       {
-        "name": "Joe Mitchell",
-        "party": "R"
+        "name": "'''[[Lindsay James (politician)|Lindsay James]]'''",
+        "party": "D"
       },
       {
-        "name": "Lindsay James",
-        "party": "D"
+        "name": "Joe Mitchell",
+        "party": "R"
       }
     ],
     "IA-03": [
       {
-        "name": "Zach Nunn",
-        "party": "R"
+        "name": "'''[[Sarah Trone Garriott]]'''",
+        "party": "D"
       },
       {
-        "name": "Sarah Trone Garriott",
-        "party": "D"
+        "name": "Zach Nunn",
+        "party": "R"
       }
     ],
     "IA-04": [
       {
-        "name": "Chris McGowan",
+        "name": "'''[[Chris McGowan]]'''",
         "party": "R"
       },
       {
@@ -1735,67 +1735,67 @@
     ],
     "LA-01": [
       {
-        "name": "| party1 =",
-        "party": "| popular_vote1 ="
+        "name": "'''[[Steve Scalise]]'''",
+        "party": "R"
       },
       {
-        "name": "| party2 =",
-        "party": "| popular_vote2 ="
+        "name": "Lauren Jewett",
+        "party": "D"
       }
     ],
     "LA-02": [
       {
-        "name": "| party1 =",
-        "party": "| popular_vote1 ="
+        "name": "'''[[Troy Carter (politician)|Troy Carter]]'''",
+        "party": "D"
       },
       {
-        "name": "| party2 =",
-        "party": "| popular_vote2 ="
+        "name": "Peter Williams",
+        "party": "R"
       }
     ],
     "LA-03": [
       {
-        "name": "| party1 =",
-        "party": "| popular_vote1 ="
+        "name": "'''[[Clay Higgins]]'''",
+        "party": "R"
       },
       {
-        "name": "| party2 =",
-        "party": "| popular_vote2 ="
+        "name": "John Day",
+        "party": "D"
       }
     ],
     "LA-04": [
       {
-        "name": "| party1 =",
-        "party": "| popular_vote1 ="
+        "name": "'''[[Mike Johnson]]'''",
+        "party": "R"
       },
       {
-        "name": "| party2 =",
-        "party": "| popular_vote2 ="
+        "name": "Conrad Cable",
+        "party": "D"
       }
     ],
     "LA-05": [
       {
-        "name": "| party1 =",
-        "party": "| popular_vote1 ="
+        "name": "Pat Moore",
+        "party": "D"
       },
       {
-        "name": "| party2 =",
-        "party": "| popular_vote2 ="
+        "name": "Gabe Firment",
+        "party": "R"
       }
     ],
     "LA-06": [
       {
-        "name": "| party1 =",
-        "party": "| popular_vote1 ="
+        "name": "Chauna Banks",
+        "party": "D"
       },
       {
-        "name": "| party2 =",
-        "party": "| popular_vote2 ="
+        "name": "Blake Miguez",
+        "party": "R"
       }
     ],
     "ME-01": [
       {
-        "name": "Chellie Pingree",
+        "name": "'''[[Chellie Pingree]]'''",
         "party": "D"
       },
       {
@@ -1805,17 +1805,17 @@
     ],
     "ME-02": [
       {
-        "name": "Matthew Dunlap",
-        "party": "D"
-      },
-      {
         "name": "Paul LePage",
         "party": "R"
+      },
+      {
+        "name": "Matthew Dunlap",
+        "party": "D"
       }
     ],
     "MD-01": [
       {
-        "name": "Andy Harris",
+        "name": "'''[[Andy Harris (politician)|Andy Harris]]'''",
         "party": "R"
       },
       {
@@ -1825,7 +1825,7 @@
     ],
     "MD-02": [
       {
-        "name": "Johnny Olszewski",
+        "name": "'''[[Johnny Olszewski]]'''",
         "party": "D"
       },
       {
@@ -1835,7 +1835,7 @@
     ],
     "MD-03": [
       {
-        "name": "Sarah Elfreth",
+        "name": "'''[[Sarah Elfreth]]'''",
         "party": "D"
       },
       {
@@ -1845,7 +1845,7 @@
     ],
     "MD-04": [
       {
-        "name": "Glenn Ivey",
+        "name": "'''[[Glenn Ivey]]'''",
         "party": "D"
       },
       {
@@ -1855,7 +1855,7 @@
     ],
     "MD-05": [
       {
-        "name": "Adrian Boafo",
+        "name": "'''[[Adrian Boafo]]'''",
         "party": "D"
       },
       {
@@ -1865,7 +1865,7 @@
     ],
     "MD-06": [
       {
-        "name": "April McClain Delaney",
+        "name": "'''[[April McClain Delaney]]'''",
         "party": "D"
       },
       {
@@ -1875,7 +1875,7 @@
     ],
     "MD-07": [
       {
-        "name": "Kweisi Mfume",
+        "name": "'''[[Kweisi Mfume]]'''",
         "party": "D"
       },
       {
@@ -1885,7 +1885,7 @@
     ],
     "MD-08": [
       {
-        "name": "Jamie Raskin",
+        "name": "'''[[Jamie Raskin]]'''",
         "party": "D"
       },
       {
@@ -1981,7 +1981,7 @@
     ],
     "MI-01": [
       {
-        "name": "Jack Bergman",
+        "name": "'''[[Jack Bergman]]'''",
         "party": "R"
       },
       {
@@ -1991,7 +1991,7 @@
     ],
     "MI-02": [
       {
-        "name": "John Moolenaar",
+        "name": "'''[[John Moolenaar]]'''",
         "party": "R"
       },
       {
@@ -2001,7 +2001,7 @@
     ],
     "MI-03": [
       {
-        "name": "Hillary Scholten",
+        "name": "'''[[Hillary Scholten]]'''",
         "party": "D"
       },
       {
@@ -2011,17 +2011,17 @@
     ],
     "MI-04": [
       {
-        "name": "Bill Huizenga",
-        "party": "R"
+        "name": "'''[[Sean McCann (politician)|Sean McCann]]'''",
+        "party": "D"
       },
       {
-        "name": "Sean McCann",
-        "party": "D"
+        "name": "Bill Huizenga",
+        "party": "R"
       }
     ],
     "MI-05": [
       {
-        "name": "Tim Walberg",
+        "name": "'''[[Tim Walberg]]'''",
         "party": "R"
       },
       {
@@ -2031,7 +2031,7 @@
     ],
     "MI-06": [
       {
-        "name": "Debbie Dingell",
+        "name": "'''[[Debbie Dingell]]'''",
         "party": "D"
       },
       {
@@ -2041,27 +2041,27 @@
     ],
     "MI-07": [
       {
-        "name": "Tom Barrett",
-        "party": "R"
+        "name": "'''[[William Lawrence (Michigan politician)|William Lawrence]]'''",
+        "party": "D"
       },
       {
-        "name": "William Lawrence",
-        "party": "D"
+        "name": "Tom Barrett",
+        "party": "R"
       }
     ],
     "MI-08": [
       {
-        "name": "Kristen McDonald Rivet",
+        "name": "'''[[Kristen McDonald Rivet]]'''",
         "party": "D"
       },
       {
-        "name": "Tom Smith",
+        "name": "Thomas Smith",
         "party": "R"
       }
     ],
     "MI-09": [
       {
-        "name": "Lisa McClain",
+        "name": "'''[[Lisa McClain]]'''",
         "party": "R"
       },
       {
@@ -2071,17 +2071,17 @@
     ],
     "MI-10": [
       {
-        "name": "Mike Bouchard Jr.",
-        "party": "R"
+        "name": "'''[[Christina Hines]]'''",
+        "party": "D"
       },
       {
-        "name": "Christina Hines",
-        "party": "D"
+        "name": "Michael Bouchard Jr.",
+        "party": "R"
       }
     ],
     "MI-11": [
       {
-        "name": "Jeremy Moss",
+        "name": "'''[[Jeremy Moss]]'''",
         "party": "D"
       },
       {
@@ -2091,7 +2091,7 @@
     ],
     "MI-12": [
       {
-        "name": "Rashida Tlaib",
+        "name": "'''[[Rashida Tlaib]]'''",
         "party": "D"
       },
       {
@@ -2101,7 +2101,7 @@
     ],
     "MI-13": [
       {
-        "name": "Donavan McKinney",
+        "name": "'''[[Donavan McKinney]]'''",
         "party": "D"
       },
       {
@@ -2111,17 +2111,17 @@
     ],
     "MN-01": [
       {
-        "name": "Brad Finstad",
-        "party": "R"
+        "name": "'''[[Jake Johnson (Minnesota politician)|Jake Johnson]]'''",
+        "party": "D"
       },
       {
-        "name": "Jake Johnson",
-        "party": "D"
+        "name": "Brad Finstad",
+        "party": "R"
       }
     ],
     "MN-02": [
       {
-        "name": "Matt Little",
+        "name": "'''[[Matt Little]]'''",
         "party": "D"
       },
       {
@@ -2131,7 +2131,7 @@
     ],
     "MN-03": [
       {
-        "name": "Kelly Morrison",
+        "name": "'''[[Kelly Morrison]]'''",
         "party": "D"
       },
       {
@@ -2141,7 +2141,7 @@
     ],
     "MN-04": [
       {
-        "name": "Betty McCollum",
+        "name": "'''[[Betty McCollum]]'''",
         "party": "D"
       },
       {
@@ -2151,7 +2151,7 @@
     ],
     "MN-05": [
       {
-        "name": "Ilhan Omar",
+        "name": "'''[[Ilhan Omar]]'''",
         "party": "D"
       },
       {
@@ -2161,7 +2161,7 @@
     ],
     "MN-06": [
       {
-        "name": "Tom Emmer",
+        "name": "'''[[Tom Emmer]]'''",
         "party": "R"
       },
       {
@@ -2171,7 +2171,7 @@
     ],
     "MN-07": [
       {
-        "name": "Michelle Fischbach",
+        "name": "'''[[Michelle Fischbach]]'''",
         "party": "R"
       },
       {
@@ -2181,7 +2181,7 @@
     ],
     "MN-08": [
       {
-        "name": "Pete Stauber",
+        "name": "'''[[Pete Stauber]]'''",
         "party": "R"
       },
       {
@@ -2231,7 +2231,7 @@
     ],
     "MO-01": [
       {
-        "name": "Wesley Bell",
+        "name": "'''[[Wesley Bell]]'''",
         "party": "D"
       },
       {
@@ -2241,17 +2241,17 @@
     ],
     "MO-02": [
       {
-        "name": "Ann Wagner",
-        "party": "R"
+        "name": "'''[[Fred Wellman]]'''",
+        "party": "D"
       },
       {
-        "name": "Fred Wellman",
-        "party": "D"
+        "name": "Ann Wagner",
+        "party": "R"
       }
     ],
     "MO-03": [
       {
-        "name": "Bob Onder",
+        "name": "'''[[Bob Onder]]'''",
         "party": "R"
       },
       {
@@ -2261,7 +2261,7 @@
     ],
     "MO-04": [
       {
-        "name": "Mark Alford",
+        "name": "'''[[Mark Alford]]'''",
         "party": "R"
       },
       {
@@ -2271,7 +2271,7 @@
     ],
     "MO-05": [
       {
-        "name": "Emanuel Cleaver",
+        "name": "'''[[Emanuel Cleaver]]'''",
         "party": "D"
       },
       {
@@ -2281,7 +2281,7 @@
     ],
     "MO-06": [
       {
-        "name": "Chris Stigall",
+        "name": "'''[[Chris Stigall]]'''",
         "party": "R"
       },
       {
@@ -2291,7 +2291,7 @@
     ],
     "MO-07": [
       {
-        "name": "Eric Burlison",
+        "name": "'''[[Eric Burlison]]'''",
         "party": "R"
       },
       {
@@ -2301,7 +2301,7 @@
     ],
     "MO-08": [
       {
-        "name": "Jason Smith",
+        "name": "'''[[Jason Smith (American politician)|Jason Smith]]'''",
         "party": "R"
       },
       {
@@ -2311,12 +2311,12 @@
     ],
     "MT-01": [
       {
-        "name": "Aaron Flint",
-        "party": "R"
+        "name": "'''[[Sam Forstag]]'''",
+        "party": "D"
       },
       {
-        "name": "Sam Forstag",
-        "party": "D"
+        "name": "Aaron Flint",
+        "party": "R"
       }
     ],
     "MT-02": [
@@ -2331,7 +2331,7 @@
     ],
     "NE-01": [
       {
-        "name": "Mike Flood",
+        "name": "'''[[Mike Flood (politician)|Mike Flood]]'''",
         "party": "R"
       },
       {
@@ -2341,17 +2341,17 @@
     ],
     "NE-02": [
       {
-        "name": "Brinker Harding",
-        "party": "R"
+        "name": "'''[[Denise Powell]]'''",
+        "party": "D"
       },
       {
-        "name": "Denise Powell",
-        "party": "D"
+        "name": "Brinker Harding",
+        "party": "R"
       }
     ],
     "NE-03": [
       {
-        "name": "Adrian Smith",
+        "name": "'''[[Adrian Smith (politician)|Adrian Smith]]'''",
         "party": "R"
       },
       {
@@ -2361,7 +2361,7 @@
     ],
     "NV-01": [
       {
-        "name": "Dina Titus",
+        "name": "'''[[Dina Titus]]'''",
         "party": "D"
       },
       {
@@ -2371,17 +2371,17 @@
     ],
     "NV-02": [
       {
-        "name": "David Flippo",
-        "party": "R"
+        "name": "'''[[Teresa Benitez-Thompson]]'''",
+        "party": "D"
       },
       {
-        "name": "Teresa Benitez-Thompson",
-        "party": "D"
+        "name": "David Flippo",
+        "party": "R"
       }
     ],
     "NV-03": [
       {
-        "name": "Susie Lee",
+        "name": "'''[[Susie Lee]]'''",
         "party": "D"
       },
       {
@@ -2391,7 +2391,7 @@
     ],
     "NV-04": [
       {
-        "name": "Steven Horsford",
+        "name": "'''[[Steven Horsford]] '''",
         "party": "D"
       },
       {
@@ -2431,12 +2431,12 @@
     ],
     "NJ-02": [
       {
-        "name": "Jeff Van Drew",
-        "party": "R"
+        "name": "'''[[Zack Mullock]]'''",
+        "party": "D"
       },
       {
-        "name": "Zack Mullock",
-        "party": "D"
+        "name": "Jeff Van Drew",
+        "party": "R"
       }
     ],
     "NJ-03": [
@@ -2571,7 +2571,7 @@
     ],
     "NY-01": [
       {
-        "name": "Nick LaLota",
+        "name": "'''[[Nick LaLota]]'''",
         "party": "R"
       },
       {
@@ -2581,7 +2581,7 @@
     ],
     "NY-02": [
       {
-        "name": "Andrew Garbarino",
+        "name": "'''[[Andrew Garbarino]]'''",
         "party": "R"
       },
       {
@@ -2591,7 +2591,7 @@
     ],
     "NY-03": [
       {
-        "name": "Tom Suozzi",
+        "name": "'''[[Tom Suozzi]]'''",
         "party": "D"
       },
       {
@@ -2601,7 +2601,7 @@
     ],
     "NY-04": [
       {
-        "name": "Laura Gillen",
+        "name": "'''[[Laura Gillen]]'''",
         "party": "D"
       },
       {
@@ -2611,7 +2611,7 @@
     ],
     "NY-05": [
       {
-        "name": "Gregory Meeks",
+        "name": "'''[[Gregory Meeks]]'''",
         "party": "D"
       },
       {
@@ -2621,7 +2621,7 @@
     ],
     "NY-06": [
       {
-        "name": "Grace Meng",
+        "name": "'''[[Grace Meng]]'''",
         "party": "D"
       },
       {
@@ -2631,7 +2631,7 @@
     ],
     "NY-07": [
       {
-        "name": "Claire Valdez",
+        "name": "'''[[Claire Valdez]]'''",
         "party": "D"
       },
       {
@@ -2641,7 +2641,7 @@
     ],
     "NY-08": [
       {
-        "name": "Hakeem Jeffries",
+        "name": "'''[[Hakeem Jeffries]]'''",
         "party": "D"
       },
       {
@@ -2651,7 +2651,7 @@
     ],
     "NY-09": [
       {
-        "name": "Yvette Clarke",
+        "name": "'''[[Yvette Clarke]]'''",
         "party": "D"
       },
       {
@@ -2661,7 +2661,7 @@
     ],
     "NY-10": [
       {
-        "name": "Brad Lander",
+        "name": "'''[[Brad Lander]]'''",
         "party": "D"
       },
       {
@@ -2671,7 +2671,7 @@
     ],
     "NY-11": [
       {
-        "name": "Nicole Malliotakis",
+        "name": "'''[[Nicole Malliotakis]]'''",
         "party": "R"
       },
       {
@@ -2681,7 +2681,7 @@
     ],
     "NY-12": [
       {
-        "name": "Micah Lasher",
+        "name": "'''[[Micah Lasher]]'''",
         "party": "D"
       },
       {
@@ -2691,7 +2691,7 @@
     ],
     "NY-13": [
       {
-        "name": "Darializa Avila Chevalier",
+        "name": "'''[[Darializa Avila Chevalier]]'''",
         "party": "D"
       },
       {
@@ -2701,7 +2701,7 @@
     ],
     "NY-14": [
       {
-        "name": "Alexandria Ocasio-Cortez",
+        "name": "'''[[Alexandria Ocasio-Cortez]]'''",
         "party": "D"
       },
       {
@@ -2711,7 +2711,7 @@
     ],
     "NY-15": [
       {
-        "name": "Ritchie Torres",
+        "name": "'''[[Ritchie Torres]]'''",
         "party": "D"
       },
       {
@@ -2721,7 +2721,7 @@
     ],
     "NY-16": [
       {
-        "name": "George Latimer",
+        "name": "'''[[George Latimer (New York politician)|George Latimer]]'''",
         "party": "D"
       },
       {
@@ -2731,17 +2731,17 @@
     ],
     "NY-17": [
       {
-        "name": "Mike Lawler",
-        "party": "R"
+        "name": "'''[[Cait Conley]]'''",
+        "party": "D"
       },
       {
-        "name": "Cait Conley",
-        "party": "D"
+        "name": "Mike Lawler",
+        "party": "R"
       }
     ],
     "NY-18": [
       {
-        "name": "Pat Ryan",
+        "name": "'''[[Pat Ryan (politician)|Pat Ryan]]'''",
         "party": "D"
       },
       {
@@ -2751,7 +2751,7 @@
     ],
     "NY-19": [
       {
-        "name": "Josh Riley",
+        "name": "'''[[Josh Riley]]'''",
         "party": "D"
       },
       {
@@ -2761,7 +2761,7 @@
     ],
     "NY-20": [
       {
-        "name": "Paul Tonko",
+        "name": "'''[[Paul Tonko]]'''",
         "party": "D"
       },
       {
@@ -2771,7 +2771,7 @@
     ],
     "NY-21": [
       {
-        "name": "Anthony Constantino",
+        "name": "'''[[Anthony Constantino (politician)|Anthony Constantino]]'''",
         "party": "R"
       },
       {
@@ -2781,7 +2781,7 @@
     ],
     "NY-22": [
       {
-        "name": "John Mannion",
+        "name": "'''[[John Mannion (American politician)|John Mannion]]'''",
         "party": "D"
       },
       {
@@ -2791,7 +2791,7 @@
     ],
     "NY-23": [
       {
-        "name": "Nick Langworthy",
+        "name": "'''[[Nick Langworthy]]'''",
         "party": "R"
       },
       {
@@ -2801,7 +2801,7 @@
     ],
     "NY-24": [
       {
-        "name": "Claudia Tenney",
+        "name": "'''[[Claudia Tenney]]'''",
         "party": "R"
       },
       {
@@ -2811,7 +2811,7 @@
     ],
     "NY-25": [
       {
-        "name": "Joseph Morelle",
+        "name": "'''[[Joseph Morelle]]'''",
         "party": "D"
       },
       {
@@ -2821,7 +2821,7 @@
     ],
     "NY-26": [
       {
-        "name": "Tim Kennedy",
+        "name": "'''[[Tim Kennedy (politician)|Tim Kennedy]]'''",
         "party": "D"
       },
       {
@@ -2831,7 +2831,7 @@
     ],
     "NC-01": [
       {
-        "name": "Don Davis",
+        "name": "'''[[Don Davis (North Carolina politician)|Don Davis]]'''",
         "party": "D"
       },
       {
@@ -2841,7 +2841,7 @@
     ],
     "NC-02": [
       {
-        "name": "Deborah Ross",
+        "name": "'''[[Deborah Ross (politician)|Deborah Ross]]'''",
         "party": "D"
       },
       {
@@ -2861,7 +2861,7 @@
     ],
     "NC-04": [
       {
-        "name": "Valerie Foushee",
+        "name": "'''[[Valerie Foushee]]'''",
         "party": "D"
       },
       {
@@ -2871,27 +2871,27 @@
     ],
     "NC-05": [
       {
-        "name": "Virginia Foxx",
-        "party": "R"
-      },
-      {
         "name": "Chuck Hubbard",
         "party": "D"
+      },
+      {
+        "name": "Virginia Foxx",
+        "party": "R"
       }
     ],
     "NC-06": [
       {
-        "name": "Addison McDowell",
-        "party": "R"
+        "name": "'''[[Cyril Jefferson]]'''",
+        "party": "D"
       },
       {
-        "name": "Cyril Jefferson",
-        "party": "D"
+        "name": "Addison McDowell",
+        "party": "R"
       }
     ],
     "NC-07": [
       {
-        "name": "David Rouzer",
+        "name": "'''[[David Rouzer]]'''",
         "party": "R"
       },
       {
@@ -2901,7 +2901,7 @@
     ],
     "NC-08": [
       {
-        "name": "Mark Harris",
+        "name": "'''[[Mark Harris (North Carolina politician)|Mark Harris]]'''",
         "party": "R"
       },
       {
@@ -2911,12 +2911,12 @@
     ],
     "NC-09": [
       {
-        "name": "Richard Hudson",
-        "party": "R"
+        "name": "'''[[Richard Ojeda]]'''",
+        "party": "D"
       },
       {
-        "name": "Richard Ojeda",
-        "party": "D"
+        "name": "Richard Hudson",
+        "party": "R"
       }
     ],
     "NC-10": [
@@ -2931,17 +2931,17 @@
     ],
     "NC-11": [
       {
-        "name": "[[Jennifer Balkcom]]<br/>(replacing [[Chuck Edwards]])",
-        "party": "R"
+        "name": "'''[[Jamie Ager]]'''",
+        "party": "D"
       },
       {
-        "name": "Jamie Ager",
-        "party": "D"
+        "name": "[[Jennifer Balkcom]]<br/>(replacing [[Chuck Edwards]])",
+        "party": "R"
       }
     ],
     "NC-12": [
       {
-        "name": "Alma Adams",
+        "name": "'''[[Alma Adams]]'''",
         "party": "D"
       },
       {
@@ -2951,27 +2951,27 @@
     ],
     "NC-13": [
       {
-        "name": "Brad Knott",
-        "party": "R"
+        "name": "'''[[Paul Barringer (attorney)|Paul Barringer]]'''",
+        "party": "D"
       },
       {
-        "name": "Paul Barringer",
-        "party": "D"
+        "name": "Brad Knott",
+        "party": "R"
       }
     ],
     "NC-14": [
       {
-        "name": "Tim Moore",
-        "party": "R"
+        "name": "'''[[Lakesha Womack]]'''",
+        "party": "D"
       },
       {
-        "name": "Lakesha Womack",
-        "party": "D"
+        "name": "Tim Moore",
+        "party": "R"
       }
     ],
     "ND-00": [
       {
-        "name": "Julie Fedorchak",
+        "name": "'''[[Julie Fedorchak]]'''",
         "party": "R"
       },
       {
@@ -2981,7 +2981,7 @@
     ],
     "OH-01": [
       {
-        "name": "Greg Landsman",
+        "name": "'''[[Greg Landsman]]'''",
         "party": "D"
       },
       {
@@ -2991,7 +2991,7 @@
     ],
     "OH-02": [
       {
-        "name": "David Taylor",
+        "name": "'''[[David Taylor (Ohio politician)|David Taylor]]'''",
         "party": "R"
       },
       {
@@ -3001,7 +3001,7 @@
     ],
     "OH-03": [
       {
-        "name": "Joyce Beatty",
+        "name": "'''[[Joyce Beatty]]'''",
         "party": "D"
       },
       {
@@ -3011,7 +3011,7 @@
     ],
     "OH-04": [
       {
-        "name": "Jim Jordan",
+        "name": "'''[[Jim Jordan]]'''",
         "party": "R"
       },
       {
@@ -3021,7 +3021,7 @@
     ],
     "OH-05": [
       {
-        "name": "Bob Latta",
+        "name": "'''[[Bob Latta]]'''",
         "party": "R"
       },
       {
@@ -3031,7 +3031,7 @@
     ],
     "OH-06": [
       {
-        "name": "Michael Rulli",
+        "name": "'''[[Michael Rulli]]'''",
         "party": "R"
       },
       {
@@ -3041,17 +3041,17 @@
     ],
     "OH-07": [
       {
-        "name": "Max Miller",
-        "party": "R"
+        "name": "'''[[Brian Poindexter]]'''",
+        "party": "D"
       },
       {
-        "name": "Brian Poindexter",
-        "party": "D"
+        "name": "Max Miller",
+        "party": "R"
       }
     ],
     "OH-08": [
       {
-        "name": "Warren Davidson",
+        "name": "'''[[Warren Davidson]]'''",
         "party": "R"
       },
       {
@@ -3061,7 +3061,7 @@
     ],
     "OH-09": [
       {
-        "name": "Marcy Kaptur",
+        "name": "'''[[Marcy Kaptur]]'''",
         "party": "D"
       },
       {
@@ -3071,17 +3071,17 @@
     ],
     "OH-10": [
       {
-        "name": "Mike Turner",
-        "party": "R"
+        "name": "'''[[Kristina Knickerbocker]]'''",
+        "party": "D"
       },
       {
-        "name": "Kristina Knickerbocker",
-        "party": "D"
+        "name": "Mike Turner",
+        "party": "R"
       }
     ],
     "OH-11": [
       {
-        "name": "Shontel Brown",
+        "name": "'''[[Shontel Brown]]'''",
         "party": "D"
       },
       {
@@ -3091,7 +3091,7 @@
     ],
     "OH-12": [
       {
-        "name": "Troy Balderson",
+        "name": "'''[[Troy Balderson]]'''",
         "party": "R"
       },
       {
@@ -3101,7 +3101,7 @@
     ],
     "OH-13": [
       {
-        "name": "Emilia Sykes",
+        "name": "'''[[Emilia Sykes]]'''",
         "party": "D"
       },
       {
@@ -3111,7 +3111,7 @@
     ],
     "OH-14": [
       {
-        "name": "David Joyce",
+        "name": "'''[[David Joyce (politician)|David Joyce]]'''",
         "party": "R"
       },
       {
@@ -3121,12 +3121,12 @@
     ],
     "OH-15": [
       {
-        "name": "Mike Carey",
-        "party": "R"
+        "name": "'''[[Don Leonard (politician)|Don Leonard]]'''",
+        "party": "D"
       },
       {
-        "name": "Don Leonard",
-        "party": "D"
+        "name": "Mike Carey",
+        "party": "R"
       }
     ],
     "OK-01": [
@@ -3241,12 +3241,12 @@
     ],
     "PA-01": [
       {
-        "name": "Brian Fitzpatrick",
-        "party": "R"
+        "name": "'''[[Bob Harvie (politician)|Bob Harvie]]'''",
+        "party": "D"
       },
       {
-        "name": "Bob Harvie",
-        "party": "D"
+        "name": "Brian Fitzpatrick",
+        "party": "R"
       }
     ],
     "PA-02": [
@@ -3301,22 +3301,22 @@
     ],
     "PA-07": [
       {
-        "name": "Ryan Mackenzie",
-        "party": "R"
+        "name": "'''[[Bob Brooks (Pennsylvania politician)|Bob Brooks]]'''",
+        "party": "D"
       },
       {
-        "name": "Bob Brooks",
-        "party": "D"
+        "name": "Ryan Mackenzie",
+        "party": "R"
       }
     ],
     "PA-08": [
       {
-        "name": "Rob Bresnahan",
-        "party": "R"
+        "name": "'''[[Paige Cognetti]]'''",
+        "party": "D"
       },
       {
-        "name": "Paige Cognetti",
-        "party": "D"
+        "name": "Rob Bresnahan",
+        "party": "R"
       }
     ],
     "PA-09": [
@@ -3331,12 +3331,12 @@
     ],
     "PA-10": [
       {
-        "name": "Scott Perry",
-        "party": "R"
+        "name": "'''[[Janelle Stelson]]'''",
+        "party": "D"
       },
       {
-        "name": "Janelle Stelson",
-        "party": "D"
+        "name": "Scott Perry",
+        "party": "R"
       }
     ],
     "PA-11": [
@@ -3431,12 +3431,12 @@
     ],
     "SC-01": [
       {
-        "name": "Jenny Costa Honeycutt",
-        "party": "R"
+        "name": "'''[[Nancy Lacore]]'''",
+        "party": "D"
       },
       {
-        "name": "Nancy Lacore",
-        "party": "D"
+        "name": "Jenny Costa Honeycutt",
+        "party": "R"
       }
     ],
     "SC-02": [
@@ -3501,7 +3501,7 @@
     ],
     "SD-00": [
       {
-        "name": "Marty Jackley",
+        "name": "'''[[Marty Jackley]]'''",
         "party": "R"
       },
       {
@@ -3541,12 +3541,12 @@
     ],
     "TN-04": [
       {
-        "name": "Scott DesJarlais",
-        "party": "R"
+        "name": "'''[[Victoria Broderick]]'''",
+        "party": "D"
       },
       {
-        "name": "Victoria Broderick",
-        "party": "D"
+        "name": "Scott DesJarlais",
+        "party": "R"
       }
     ],
     "TN-05": [
@@ -3601,7 +3601,7 @@
     ],
     "TX-01": [
       {
-        "name": "Nathaniel Moran",
+        "name": "'''[[Nathaniel Moran]]'''",
         "party": "R"
       },
       {
@@ -3611,7 +3611,7 @@
     ],
     "TX-02": [
       {
-        "name": "Steve Toth",
+        "name": "'''[[Steve Toth]]'''",
         "party": "R"
       },
       {
@@ -3621,7 +3621,7 @@
     ],
     "TX-03": [
       {
-        "name": "Keith Self",
+        "name": "'''[[Keith Self]]'''",
         "party": "R"
       },
       {
@@ -3631,7 +3631,7 @@
     ],
     "TX-04": [
       {
-        "name": "Pat Fallon",
+        "name": "'''[[Pat Fallon]]'''",
         "party": "R"
       },
       {
@@ -3641,7 +3641,7 @@
     ],
     "TX-05": [
       {
-        "name": "Lance Gooden",
+        "name": "'''[[Lance Gooden]]'''",
         "party": "R"
       },
       {
@@ -3651,7 +3651,7 @@
     ],
     "TX-06": [
       {
-        "name": "Jake Ellzey",
+        "name": "'''[[Jake Ellzey]]'''",
         "party": "R"
       },
       {
@@ -3661,7 +3661,7 @@
     ],
     "TX-07": [
       {
-        "name": "Lizzie Fletcher",
+        "name": "'''[[Lizzie Fletcher]]'''",
         "party": "D"
       },
       {
@@ -3671,7 +3671,7 @@
     ],
     "TX-08": [
       {
-        "name": "Jessica Steinmann",
+        "name": "'''[[Jessica Steinmann]]'''",
         "party": "R"
       },
       {
@@ -3681,7 +3681,7 @@
     ],
     "TX-09": [
       {
-        "name": "Leticia Gutierrez",
+        "name": "'''[[Leticia Gutierrez]]'''",
         "party": "D"
       },
       {
@@ -3691,7 +3691,7 @@
     ],
     "TX-10": [
       {
-        "name": "Chris Gober",
+        "name": "'''[[Chris Gober]]'''",
         "party": "R"
       },
       {
@@ -3701,7 +3701,7 @@
     ],
     "TX-11": [
       {
-        "name": "August Pfluger",
+        "name": "'''[[August Pfluger]]'''",
         "party": "R"
       },
       {
@@ -3711,7 +3711,7 @@
     ],
     "TX-12": [
       {
-        "name": "Craig Goldman",
+        "name": "'''[[Craig Goldman]]'''",
         "party": "R"
       },
       {
@@ -3721,7 +3721,7 @@
     ],
     "TX-13": [
       {
-        "name": "Ronny Jackson",
+        "name": "'''[[Ronny Jackson]]'''",
         "party": "R"
       },
       {
@@ -3731,7 +3731,7 @@
     ],
     "TX-14": [
       {
-        "name": "Randy Weber",
+        "name": "'''[[Randy Weber]]'''",
         "party": "R"
       },
       {
@@ -3741,12 +3741,12 @@
     ],
     "TX-15": [
       {
-        "name": "Monica De La Cruz",
-        "party": "R"
+        "name": "'''[[Bobby Pulido]]'''",
+        "party": "D"
       },
       {
-        "name": "Bobby Pulido",
-        "party": "D"
+        "name": "Monica De La Cruz",
+        "party": "R"
       }
     ],
     "TX-16": [
@@ -3801,7 +3801,7 @@
     ],
     "TX-21": [
       {
-        "name": "Mark Teixeira",
+        "name": "'''[[Mark Teixeira]]'''",
         "party": "R"
       },
       {
@@ -3811,7 +3811,7 @@
     ],
     "TX-22": [
       {
-        "name": "Trever Nehls",
+        "name": "'''[[Trever Nehls]]'''",
         "party": "R"
       },
       {
@@ -3985,13 +3985,13 @@
         "party": "D"
       },
       {
-        "name": "Riley Owens",
+        "name": "Riley Owen",
         "party": "R"
       }
     ],
     "UT-02": [
       {
-        "name": "Blake Moore",
+        "name": "'''[[Blake Moore]]'''",
         "party": "R"
       },
       {
@@ -4001,7 +4001,7 @@
     ],
     "UT-03": [
       {
-        "name": "Celeste Maloy",
+        "name": "'''[[Celeste Maloy]]'''",
         "party": "R"
       },
       {
@@ -4011,7 +4011,7 @@
     ],
     "UT-04": [
       {
-        "name": "Mike Kennedy",
+        "name": "'''[[Mike Kennedy]]'''",
         "party": "R"
       },
       {
@@ -4021,7 +4021,7 @@
     ],
     "VT-00": [
       {
-        "name": "Becca Balint",
+        "name": "'''[[Becca Balint]]'''",
         "party": "D"
       },
       {
@@ -4031,27 +4031,27 @@
     ],
     "VA-01": [
       {
-        "name": "Rob Wittman",
-        "party": "R"
+        "name": "'''[[Shannon Taylor (politician)|Shannon Taylor]]'''",
+        "party": "D"
       },
       {
-        "name": "Shannon Taylor",
-        "party": "D"
+        "name": "Rob Wittman",
+        "party": "R"
       }
     ],
     "VA-02": [
       {
-        "name": "Jen Kiggans",
-        "party": "R"
+        "name": "'''[[Elaine Luria]]'''",
+        "party": "D"
       },
       {
-        "name": "Elaine Luria",
-        "party": "D"
+        "name": "Jen Kiggans",
+        "party": "R"
       }
     ],
     "VA-03": [
       {
-        "name": "Bobby Scott",
+        "name": "'''[[Bobby Scott (politician)|Bobby Scott]]'''",
         "party": "D"
       },
       {
@@ -4061,7 +4061,7 @@
     ],
     "VA-04": [
       {
-        "name": "Jennifer McClellan",
+        "name": "'''[[Jennifer McClellan]]'''",
         "party": "D"
       },
       {
@@ -4071,7 +4071,7 @@
     ],
     "VA-05": [
       {
-        "name": "John McGuire",
+        "name": "'''[[John McGuire (Virginia politician)|John McGuire]]'''",
         "party": "R"
       },
       {
@@ -4081,7 +4081,7 @@
     ],
     "VA-06": [
       {
-        "name": "Ben Cline",
+        "name": "'''[[Ben Cline]]'''",
         "party": "R"
       },
       {
@@ -4091,7 +4091,7 @@
     ],
     "VA-07": [
       {
-        "name": "Eugene Vindman",
+        "name": "'''[[Eugene Vindman]]'''",
         "party": "D"
       },
       {
@@ -4101,7 +4101,7 @@
     ],
     "VA-08": [
       {
-        "name": "Don Beyer",
+        "name": "'''[[Don Beyer]]'''",
         "party": "D"
       },
       {
@@ -4111,7 +4111,7 @@
     ],
     "VA-09": [
       {
-        "name": "Morgan Griffith",
+        "name": "'''[[Morgan Griffith]]'''",
         "party": "R"
       },
       {
@@ -4121,7 +4121,7 @@
     ],
     "VA-10": [
       {
-        "name": "Suhas Subramanyam",
+        "name": "'''[[Suhas Subramanyam]]'''",
         "party": "D"
       },
       {
@@ -4131,7 +4131,7 @@
     ],
     "VA-11": [
       {
-        "name": "James Walkinshaw",
+        "name": "'''[[James Walkinshaw]]'''",
         "party": "D"
       },
       {
@@ -4241,7 +4241,7 @@
     ],
     "WV-01": [
       {
-        "name": "Carol Miller",
+        "name": "'''[[Carol Miller (politician)|Carol Miller]]'''",
         "party": "R"
       },
       {
@@ -4251,7 +4251,7 @@
     ],
     "WV-02": [
       {
-        "name": "Riley Moore",
+        "name": "'''[[Riley Moore]]'''",
         "party": "R"
       },
       {
@@ -4261,12 +4261,12 @@
     ],
     "WI-01": [
       {
-        "name": "Bryan Steil",
-        "party": "R"
-      },
-      {
         "name": "Mitchell Berman",
         "party": "D"
+      },
+      {
+        "name": "Bryan Steil",
+        "party": "R"
       }
     ],
     "WI-02": [
@@ -4277,12 +4277,12 @@
     ],
     "WI-03": [
       {
-        "name": "Derrick Van Orden",
-        "party": "R"
+        "name": "'''[[Rebecca Cooke (politician)|Rebecca Cooke]]'''",
+        "party": "D"
       },
       {
-        "name": "Rebecca Cooke",
-        "party": "D"
+        "name": "Derrick Van Orden",
+        "party": "R"
       }
     ],
     "WI-04": [
@@ -4317,7 +4317,7 @@
     ],
     "WI-07": [
       {
-        "name": "'''[[Michael Alfonso (Wisconsin politician)|Michael Alfonso]]'''",
+        "name": "'''[[Michael Alfonso (politician)|Michael Alfonso]]'''",
         "party": "R"
       },
       {
@@ -4337,7 +4337,7 @@
     ],
     "WY-00": [
       {
-        "name": "Chuck Gray",
+        "name": "'''[[Chuck Gray (Wyoming politician)|Chuck Gray]]'''",
         "party": "R"
       },
       {

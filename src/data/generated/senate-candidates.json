@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T15:13:04.261Z",
+  "fetchedAt": "2026-11-09T22:24:04.712Z",
   "source": "Wikipedia: each state's 2026 Senate election article infobox",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
   "states": {
@@ -105,7 +105,7 @@
     ],
     "KS": [
       {
-        "name": "'''[[Adam Hamilton (American politician)|Adam Hamilton]]'''",
+        "name": "'''[[Adam Hamilton (pastor)|Adam Hamilton]]'''",
         "party": "D"
       },
       {
@@ -135,7 +135,7 @@
     ],
     "ME": [
       {
-        "name": "'''[[Troy Jackson]]''' {{small|(replacing [[Graham Platner]])}}",
+        "name": "'''[[Troy Jackson]]''' (replacing [[Graham Platner]])",
         "party": "D"
       },
       {
@@ -185,7 +185,7 @@
     ],
     "MT": [
       {
-        "name": "'''Kurt Alme'''",
+        "name": "'''[[Kurt Alme]]'''",
         "party": "R"
       },
       {
@@ -259,7 +259,7 @@
         "party": "R"
       },
       {
-        "name": "N'Kiyla \"Jasmine\" Thomas",
+        "name": "N'Kiyla Jasmine Thomas",
         "party": "D"
       }
     ],
@@ -289,7 +289,7 @@
         "party": "D"
       },
       {
-        "name": "Darline Graham",
+        "name": "[[Darline Graham]] (replacing [[Lindsey Graham]])",
         "party": "R"
       }
     ],
