@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T22:34:19.639Z",
+  "fetchedAt": "2026-11-16T22:15:23.982Z",
   "source": "FEC (Federal Election Commission): candidate financial totals",
   "sourceUrl": "https://api.open.fec.gov/developers/",
   "cycle": 2026,
@@ -209,7 +209,7 @@
       }
     },
     "AR-01": {
-      "Rick Crawford": {
+      "'''[[Rick Crawford (politician)|Rick Crawford]]'''": {
         "receipts": 1135655.28,
         "disbursements": 1113481.56,
         "cashOnHand": 853000.58
@@ -233,7 +233,7 @@
       }
     },
     "AR-03": {
-      "Steve Womack": {
+      "'''[[Steve Womack]]'''": {
         "receipts": 2363074.02,
         "disbursements": 1668235.49,
         "cashOnHand": 2410732.19
@@ -245,7 +245,7 @@
       }
     },
     "AR-04": {
-      "Bruce Westerman": {
+      "'''[[Bruce Westerman]]'''": {
         "receipts": 2975232.54,
         "disbursements": 1506970.43,
         "cashOnHand": 4501822.51
@@ -413,7 +413,7 @@
       }
     },
     "CA-14": {
-      "Aisha Wahab": {
+      "'''[[Aisha Wahab]]'''": {
         "receipts": 1214546.85,
         "disbursements": 752224.52,
         "cashOnHand": 462322.33
@@ -564,7 +564,7 @@
       }
     },
     "CA-27": {
-      "George Whitesides": {
+      "'''[[George T. Whitesides|George Whitesides]]'''": {
         "receipts": 4512697.32,
         "disbursements": 2665772.6,
         "cashOnHand": 2173658.08
@@ -576,7 +576,7 @@
       }
     },
     "CA-28": {
-      "Judy Chu": {
+      "'''[[Judy Chu]]'''": {
         "receipts": 1375778.13,
         "disbursements": 1297130.26,
         "cashOnHand": 3680652.82
@@ -595,7 +595,7 @@
       }
     },
     "CA-30": {
-      "Laura Friedman": {
+      "'''[[Laura Friedman]]'''": {
         "receipts": 994570.57,
         "disbursements": 770770.75,
         "cashOnHand": 520548.06
@@ -607,7 +607,7 @@
       }
     },
     "CA-31": {
-      "Gil Cisneros": {
+      "'''[[Gil Cisneros]]'''": {
         "receipts": 853124.16,
         "disbursements": 680381.79,
         "cashOnHand": 212818.2
@@ -619,7 +619,7 @@
       }
     },
     "CA-32": {
-      "Brad Sherman": {
+      "'''[[Brad Sherman]]'''": {
         "receipts": 2899860.15,
         "disbursements": 4148561.7,
         "cashOnHand": 2673243.15
@@ -631,7 +631,7 @@
       }
     },
     "CA-33": {
-      "Pete Aguilar": {
+      "'''[[Pete Aguilar]]'''": {
         "receipts": 5676010.87,
         "disbursements": 5651367.62,
         "cashOnHand": 2673714.42
@@ -655,7 +655,7 @@
       }
     },
     "CA-35": {
-      "Norma Torres": {
+      "'''[[Norma Torres]]'''": {
         "receipts": 922924.14,
         "disbursements": 981342.53,
         "cashOnHand": 244896.64
@@ -667,7 +667,7 @@
       }
     },
     "CA-36": {
-      "Ted Lieu": {
+      "'''[[Ted Lieu]]'''": {
         "receipts": 2218447.53,
         "disbursements": 1712030.27,
         "cashOnHand": 1181424.01
@@ -679,7 +679,7 @@
       }
     },
     "CA-37": {
-      "Sydney Kamlager-Dove": {
+      "'''[[Sydney Kamlager-Dove]]'''": {
         "receipts": 1644249.01,
         "disbursements": 1521487.07,
         "cashOnHand": 184759.92
@@ -691,7 +691,7 @@
       }
     },
     "CA-38": {
-      "Hilda Solis": {
+      "'''[[Hilda Solis]]'''": {
         "receipts": 1482148.13,
         "disbursements": 1197641.24,
         "cashOnHand": 284506.89
@@ -703,7 +703,7 @@
       }
     },
     "CA-39": {
-      "Mark Takano": {
+      "'''[[Mark Takano]]'''": {
         "receipts": 1133983.78,
         "disbursements": 1171938.27,
         "cashOnHand": 231215.39
@@ -715,7 +715,7 @@
       }
     },
     "CA-40": {
-      "Ken Calvert": {
+      "'''[[Ken Calvert]]'''": {
         "receipts": 7050383.48,
         "disbursements": 6332128.58,
         "cashOnHand": 980390.51
@@ -734,7 +734,7 @@
       }
     },
     "CA-42": {
-      "Robert Garcia": {
+      "'''[[Robert Garcia (California congressman)|Robert Garcia]]'''": {
         "receipts": 3394174.67,
         "disbursements": 2233622.95,
         "cashOnHand": 1572979.62
@@ -746,7 +746,7 @@
       }
     },
     "CA-43": {
-      "Maxine Waters": {
+      "'''[[Maxine Waters]]'''": {
         "receipts": 1107267.34,
         "disbursements": 1119052.46,
         "cashOnHand": 104671.36
@@ -765,7 +765,7 @@
       }
     },
     "CA-45": {
-      "Derek Tran": {
+      "'''[[Derek Tran]]'''": {
         "receipts": 5988192.12,
         "disbursements": 3633122.65,
         "cashOnHand": 2682392.26
@@ -777,7 +777,7 @@
       }
     },
     "CA-46": {
-      "Lou Correa": {
+      "'''[[Lou Correa]]'''": {
         "receipts": 1493328.69,
         "disbursements": 1037296.17,
         "cashOnHand": 2323395.15
@@ -789,7 +789,7 @@
       }
     },
     "CA-47": {
-      "Dave Min": {
+      "'''[[Dave Min]]'''": {
         "receipts": 3872174.88,
         "disbursements": 2562594.76,
         "cashOnHand": 1482645.9
@@ -801,19 +801,19 @@
       }
     },
     "CA-48": {
+      "'''[[Marni von Wilpert]]'''": {
+        "receipts": 4966576.06,
+        "disbursements": 4307440.02,
+        "cashOnHand": 659136.04
+      },
       "Jim Desmond": {
         "receipts": 3177972.16,
         "disbursements": 2460453.71,
         "cashOnHand": 717518.45
-      },
-      "Marni von Wilpert": {
-        "receipts": 4966576.06,
-        "disbursements": 4307440.02,
-        "cashOnHand": 659136.04
       }
     },
     "CA-49": {
-      "Mike Levin": {
+      "'''[[Mike Levin]]'''": {
         "receipts": 3568006.76,
         "disbursements": 2476965.51,
         "cashOnHand": 1360778.23
@@ -825,7 +825,7 @@
       }
     },
     "CA-50": {
-      "Scott Peters": {
+      "'''[[Scott Peters (politician)|Scott Peters]]'''": {
         "receipts": 2191968.34,
         "disbursements": 1774833.62,
         "cashOnHand": 2567655.53
@@ -837,7 +837,7 @@
       }
     },
     "CA-51": {
-      "Sara Jacobs": {
+      "'''[[Sara Jacobs]]'''": {
         "receipts": 1864955.14,
         "disbursements": 1624896.9,
         "cashOnHand": 317430.4
@@ -849,7 +849,7 @@
       }
     },
     "CA-52": {
-      "Juan Vargas": {
+      "'''[[Juan Vargas]]'''": {
         "receipts": 836097.06,
         "disbursements": 609275.89,
         "cashOnHand": 317661.81
@@ -897,7 +897,7 @@
       }
     },
     "CO-04": {
-      "Eileen Laubacher": {
+      "'''[[Eileen Laubacher]]'''": {
         "receipts": 13700426.19,
         "disbursements": 11854137.8,
         "cashOnHand": 1846288.39
@@ -957,7 +957,7 @@
       }
     },
     "CT-01": {
-      "Luke Bronin": {
+      "'''[[Luke Bronin]]'''": {
         "receipts": 3865511.27,
         "disbursements": 3474692.98,
         "cashOnHand": 390818.29
@@ -969,7 +969,7 @@
       }
     },
     "CT-02": {
-      "Joe Courtney": {
+      "'''[[Joe Courtney (politician)|Joe Courtney]]'''": {
         "receipts": 966513.57,
         "disbursements": 932047.23,
         "cashOnHand": 385577.84
@@ -981,7 +981,7 @@
       }
     },
     "CT-03": {
-      "Rosa DeLauro": {
+      "'''[[Rosa DeLauro]]'''": {
         "receipts": 1622998.67,
         "disbursements": 1765031.64,
         "cashOnHand": 83415.12
@@ -993,7 +993,7 @@
       }
     },
     "CT-04": {
-      "Jim Himes": {
+      "'''[[Jim Himes]]'''": {
         "receipts": 1704622.29,
         "disbursements": 1392027.06,
         "cashOnHand": 2419413.69
@@ -1005,7 +1005,7 @@
       }
     },
     "CT-05": {
-      "Jahana Hayes": {
+      "'''[[Jahana Hayes]]'''": {
         "receipts": 1716462.12,
         "disbursements": 1102716.07,
         "cashOnHand": 1136297.07
@@ -1083,8 +1083,8 @@
         "cashOnHand": 240063.46
       },
       "Rachel Grage": {
-        "receipts": 448142.58,
-        "disbursements": 375233.44,
+        "receipts": 448223.9,
+        "disbursements": 382289.51,
         "cashOnHand": 65881.07
       }
     },
@@ -1537,7 +1537,7 @@
       }
     },
     "ID-01": {
-      "Russ Fulcher": {
+      "'''[[Russ Fulcher]]'''": {
         "receipts": 848383.86,
         "disbursements": 818448.57,
         "cashOnHand": 209944.01
@@ -1549,7 +1549,7 @@
       }
     },
     "ID-02": {
-      "Mike Simpson": {
+      "'''[[Mike Simpson]]'''": {
         "receipts": 1409211.99,
         "disbursements": 1213826.5,
         "cashOnHand": 300591.21
@@ -1597,7 +1597,7 @@
       }
     },
     "IL-04": {
-      "Patty Garcia": {
+      "'''[[Patty Garcia]]'''": {
         "receipts": 526691.49,
         "disbursements": 369980.32,
         "cashOnHand": 156711.17
@@ -2125,7 +2125,7 @@
       }
     },
     "ME-02": {
-      "Paul LePage": {
+      "'''[[Paul LePage]]'''": {
         "receipts": 3299130.03,
         "disbursements": 2450906.39,
         "cashOnHand": 848223.64
@@ -2298,9 +2298,9 @@
     },
     "MA-08": {
       "Stephen Lynch": {
-        "receipts": 1052702.73,
-        "disbursements": 1647457.8,
-        "cashOnHand": 493968.79
+        "receipts": 1060202.73,
+        "disbursements": 1647754.55,
+        "cashOnHand": 501172.04
       },
       "Robert Burke": {
         "receipts": 1525,
@@ -2719,7 +2719,7 @@
       }
     },
     "MT-02": {
-      "Troy Downing": {
+      "'''[[Troy Downing]]'''": {
         "receipts": 2733160.34,
         "disbursements": 2098042.93,
         "cashOnHand": 746647.91
@@ -2839,7 +2839,7 @@
       }
     },
     "NJ-01": {
-      "Donald Norcross": {
+      "'''[[Donald Norcross]]'''": {
         "receipts": 1950972.75,
         "disbursements": 1293702.06,
         "cashOnHand": 2364759.02
@@ -2863,7 +2863,7 @@
       }
     },
     "NJ-03": {
-      "Herb Conaway": {
+      "'''[[Herb Conaway]]'''": {
         "receipts": 1152632.36,
         "disbursements": 753730.39,
         "cashOnHand": 436316.31
@@ -2875,7 +2875,7 @@
       }
     },
     "NJ-04": {
-      "Chris Smith": {
+      "'''[[Chris Smith (New Jersey politician)|Chris Smith]]'''": {
         "receipts": 797217.22,
         "disbursements": 608265.1,
         "cashOnHand": 553017.29
@@ -2887,7 +2887,7 @@
       }
     },
     "NJ-05": {
-      "Josh Gottheimer": {
+      "'''[[Josh Gottheimer]]'''": {
         "receipts": 5788812.15,
         "disbursements": 12970258.43,
         "cashOnHand": 13531046.78
@@ -2899,7 +2899,7 @@
       }
     },
     "NJ-06": {
-      "Frank Pallone": {
+      "'''[[Frank Pallone]]'''": {
         "receipts": 2844906.21,
         "disbursements": 2847299.8,
         "cashOnHand": 3069516.73
@@ -2911,26 +2911,26 @@
       }
     },
     "NJ-07": {
-      "Rebecca Bennett": {
+      "'''[[Rebecca Bennett (politician)|Rebecca Bennett]]'''": {
         "receipts": 8757003.38,
         "disbursements": 7703548.93,
         "cashOnHand": 1053454.45
       },
       "Thomas Kean Jr.": {
-        "receipts": 6128373.01,
+        "receipts": 6131673.01,
         "disbursements": 4811253.77,
         "cashOnHand": 1365405.91
       }
     },
     "NJ-08": {
-      "Rob Menendez": {
+      "'''[[Rob Menendez]]'''": {
         "receipts": 2236501.68,
         "disbursements": 1790787.41,
         "cashOnHand": 722399.83
       }
     },
     "NJ-09": {
-      "Nellie Pou": {
+      "'''[[Nellie Pou]]'''": {
         "receipts": 3131321.73,
         "disbursements": 2203295.3,
         "cashOnHand": 1080499.99
@@ -2942,7 +2942,7 @@
       }
     },
     "NJ-10": {
-      "LaMonica McIver": {
+      "'''[[LaMonica McIver]]'''": {
         "receipts": 2516563.31,
         "disbursements": 1782580.46,
         "cashOnHand": 897195.32
@@ -2954,7 +2954,7 @@
       }
     },
     "NJ-11": {
-      "Analilia Mejia": {
+      "'''[[Analilia Mejia]]'''": {
         "receipts": 2229339.31,
         "disbursements": 2113872.13,
         "cashOnHand": 115467.18
@@ -2966,7 +2966,7 @@
       }
     },
     "NJ-12": {
-      "Adam Hamawy": {
+      "'''[[Adam Hamawy]]'''": {
         "receipts": 1993156.58,
         "disbursements": 1753311.27,
         "cashOnHand": 239845.31
@@ -3345,15 +3345,15 @@
       }
     },
     "NC-03": {
+      "'''[[Raymond Smith Jr.]]'''": {
+        "receipts": 366580.83,
+        "disbursements": 321978.57,
+        "cashOnHand": 44282.09
+      },
       "Greg Murphy": {
         "receipts": 2897749.02,
         "disbursements": 2225520.31,
         "cashOnHand": 2255691
-      },
-      "Raymond Smith Jr.": {
-        "receipts": 366580.83,
-        "disbursements": 321978.57,
-        "cashOnHand": 44282.09
       }
     },
     "NC-04": {
@@ -3393,7 +3393,7 @@
       }
     },
     "NC-07": {
-      "'''[[David Rouzer]]'''": {
+      "David Rouzer": {
         "receipts": 2534038.14,
         "disbursements": 2269811.29,
         "cashOnHand": 1699752.56
@@ -3477,7 +3477,7 @@
       }
     },
     "NC-14": {
-      "'''[[Lakesha Womack]]'''": {
+      "'''[[LaKesha Womack]]'''": {
         "receipts": 59183.28,
         "disbursements": 55625.81,
         "cashOnHand": 4792.77
@@ -3574,8 +3574,8 @@
     },
     "OH-07": {
       "'''[[Brian Poindexter]]'''": {
-        "receipts": 3720341.61,
-        "disbursements": 2926666.41,
+        "receipts": 3720150.35,
+        "disbursements": 2926975.15,
         "cashOnHand": 793675.2
       },
       "Max Miller": {
@@ -3777,7 +3777,7 @@
       }
     },
     "OR-04": {
-      "Val Hoyle": {
+      "'''[[Val Hoyle]]'''": {
         "receipts": 1652428.49,
         "disbursements": 1555162.54,
         "cashOnHand": 186655.55
@@ -3789,7 +3789,7 @@
       }
     },
     "OR-05": {
-      "Janelle Bynum": {
+      "'''[[Janelle Bynum]]'''": {
         "receipts": 4737331.62,
         "disbursements": 2606483.07,
         "cashOnHand": 2175981.11
@@ -3837,7 +3837,7 @@
       }
     },
     "PA-03": {
-      "Chris Rabb": {
+      "'''[[Chris Rabb]]'''": {
         "receipts": 1457911.98,
         "disbursements": 1367032,
         "cashOnHand": 90879.98
@@ -3957,7 +3957,7 @@
       }
     },
     "PA-13": {
-      "John Joyce": {
+      "'''[[John Joyce (American politician)|John Joyce]]'''": {
         "receipts": 2755439.79,
         "disbursements": 1767999.82,
         "cashOnHand": 3587578.06
@@ -3969,7 +3969,7 @@
       }
     },
     "PA-14": {
-      "Guy Reschenthaler": {
+      "'''[[Guy Reschenthaler]]'''": {
         "receipts": 5037694.9,
         "disbursements": 4873669.77,
         "cashOnHand": 713105.29
@@ -3981,7 +3981,7 @@
       }
     },
     "PA-15": {
-      "Glenn Thompson": {
+      "'''[[Glenn Thompson (politician)|Glenn Thompson]]'''": {
         "receipts": 2152943.64,
         "disbursements": 2240791.05,
         "cashOnHand": 703946.49
@@ -4053,7 +4053,7 @@
       }
     },
     "SC-02": {
-      "Joe Wilson": {
+      "'''[[Joe Wilson]]'''": {
         "receipts": 1017185.81,
         "disbursements": 924450.1,
         "cashOnHand": 137248.89
@@ -4065,19 +4065,19 @@
       }
     },
     "SC-03": {
-      "Sheri Biggs": {
+      "'''[[Sheri Biggs]]'''": {
         "receipts": 706778.72,
         "disbursements": 609645.98,
         "cashOnHand": 201218
       },
       "Eunice Lehmacher": {
-        "receipts": 98662.38,
-        "disbursements": 76686.62,
-        "cashOnHand": 21975.76
+        "receipts": 99512.38,
+        "disbursements": 76720.24,
+        "cashOnHand": 22792.14
       }
     },
     "SC-04": {
-      "William Timmons": {
+      "'''[[William Timmons]]'''": {
         "receipts": 1774179.99,
         "disbursements": 1708691.64,
         "cashOnHand": 85603.37
@@ -4089,7 +4089,7 @@
       }
     },
     "SC-05": {
-      "Wes Climer": {
+      "'''[[Wes Climer]]'''": {
         "receipts": 1132483.52,
         "disbursements": 863314.06,
         "cashOnHand": 269169.46
@@ -4101,7 +4101,7 @@
       }
     },
     "SC-06": {
-      "Jim Clyburn": {
+      "'''[[Jim Clyburn]]'''": {
         "receipts": 1687457.55,
         "disbursements": 1698873.67,
         "cashOnHand": 1827711.11
@@ -4113,7 +4113,7 @@
       }
     },
     "SC-07": {
-      "Russell Fry": {
+      "'''[[Russell Fry]]'''": {
         "receipts": 1985244.19,
         "disbursements": 2387239.4,
         "cashOnHand": 159187.48
@@ -4149,7 +4149,7 @@
       }
     },
     "TN-02": {
-      "Tim Burchett": {
+      "'''[[Tim Burchett]]'''": {
         "receipts": 3131314.7,
         "disbursements": 2945393.8,
         "cashOnHand": 914110.98
@@ -4161,7 +4161,7 @@
       }
     },
     "TN-03": {
-      "Chuck Fleischmann": {
+      "'''[[Chuck Fleischmann]]'''": {
         "receipts": 2728033.85,
         "disbursements": 1089640.82,
         "cashOnHand": 4895445.11
@@ -4185,7 +4185,7 @@
       }
     },
     "TN-05": {
-      "Charlie Hatcher": {
+      "'''[[Charlie Hatcher]]'''": {
         "receipts": 1803850.94,
         "disbursements": 1329308.19,
         "cashOnHand": 474542.75
@@ -4197,7 +4197,7 @@
       }
     },
     "TN-06": {
-      "Johnny Garrett": {
+      "'''[[Johnny Garrett (politician)|Johnny Garrett]]'''": {
         "receipts": 3000586.11,
         "disbursements": 2657168.12,
         "cashOnHand": 343417.99
@@ -4209,7 +4209,7 @@
       }
     },
     "TN-07": {
-      "Matt Van Epps": {
+      "'''[[Matt Van Epps]]'''": {
         "receipts": 2646914.76,
         "disbursements": 2288459.51,
         "cashOnHand": 358455.25
@@ -4221,7 +4221,7 @@
       }
     },
     "TN-08": {
-      "David Kustoff": {
+      "'''[[David Kustoff]]'''": {
         "receipts": 2585196.73,
         "disbursements": 1925386.47,
         "cashOnHand": 2719271.07
@@ -4233,15 +4233,15 @@
       }
     },
     "TN-09": {
+      "'''[[Brent Taylor (Tennessee politician)|Brent Taylor]]'''": {
+        "receipts": 2832273.18,
+        "disbursements": 2308021.89,
+        "cashOnHand": 524251.29
+      },
       "Justin J. Pearson": {
         "receipts": 4009058.26,
         "disbursements": 3262930.01,
         "cashOnHand": 746128.25
-      },
-      "Brent Taylor": {
-        "receipts": 2832273.18,
-        "disbursements": 2308021.89,
-        "cashOnHand": 524251.29
       }
     },
     "TX-01": {
@@ -4425,7 +4425,7 @@
       }
     },
     "TX-16": {
-      "Veronica Escobar": {
+      "'''[[Veronica Escobar]]'''": {
         "receipts": 1068096.19,
         "disbursements": 967172.79,
         "cashOnHand": 216768.02
@@ -4437,7 +4437,7 @@
       }
     },
     "TX-17": {
-      "Pete Sessions": {
+      "'''[[Pete Sessions]]'''": {
         "receipts": 1323419.64,
         "disbursements": 730787.86,
         "cashOnHand": 1033567.44
@@ -4449,7 +4449,7 @@
       }
     },
     "TX-18": {
-      "Christian Menefee": {
+      "'''[[Christian Menefee]]'''": {
         "receipts": 3761777.28,
         "disbursements": 3684091.86,
         "cashOnHand": 77685.42
@@ -4461,7 +4461,7 @@
       }
     },
     "TX-19": {
-      "Tom Sell": {
+      "'''[[Tom Sell]]'''": {
         "receipts": 2502266.26,
         "disbursements": 2234259.45,
         "cashOnHand": 268006.81
@@ -4473,7 +4473,7 @@
       }
     },
     "TX-20": {
-      "Joaquin Castro": {
+      "'''[[Joaquin Castro]]'''": {
         "receipts": 592415.74,
         "disbursements": 601756.67,
         "cashOnHand": 129316.59
@@ -4521,7 +4521,7 @@
       }
     },
     "TX-24": {
-      "Beth Van Duyne": {
+      "'''[[Beth Van Duyne]]'''": {
         "receipts": 3049506.14,
         "disbursements": 3327165.93,
         "cashOnHand": 1683212.32
@@ -4533,7 +4533,7 @@
       }
     },
     "TX-25": {
-      "Roger Williams": {
+      "'''[[Roger Williams (Texas politician)|Roger Williams]]'''": {
         "receipts": 1654633.09,
         "disbursements": 1020983.22,
         "cashOnHand": 1205150.83
@@ -4545,7 +4545,7 @@
       }
     },
     "TX-26": {
-      "Brandon Gill": {
+      "'''[[Brandon Gill]]'''": {
         "receipts": 7939470.36,
         "disbursements": 5974958.45,
         "cashOnHand": 2092335.31
@@ -4557,7 +4557,7 @@
       }
     },
     "TX-27": {
-      "Michael Cloud": {
+      "'''[[Michael Cloud]]'''": {
         "receipts": 1219653.23,
         "disbursements": 1080726.05,
         "cashOnHand": 275804.47
@@ -4569,7 +4569,7 @@
       }
     },
     "TX-28": {
-      "Henry Cuellar": {
+      "'''[[Henry Cuellar]]'''": {
         "receipts": 3043039.01,
         "disbursements": 2433767.42,
         "cashOnHand": 657230.5
@@ -4581,7 +4581,7 @@
       }
     },
     "TX-29": {
-      "Sylvia Garcia": {
+      "'''[[Sylvia Garcia]]'''": {
         "receipts": 1201321.76,
         "disbursements": 1337311.57,
         "cashOnHand": 235764
@@ -4593,7 +4593,7 @@
       }
     },
     "TX-30": {
-      "Frederick Haynes III": {
+      "'''[[Frederick Haynes III]]'''": {
         "receipts": 694864.53,
         "disbursements": 535828.88,
         "cashOnHand": 159035.65
@@ -4829,8 +4829,8 @@
     },
     "VA-07": {
       "'''[[Eugene Vindman]]'''": {
-        "receipts": 16339249.68,
-        "disbursements": 11248587.96,
+        "receipts": 16339333.68,
+        "disbursements": 11248671.96,
         "cashOnHand": 5225595.46
       },
       "Doug Ollivant": {
@@ -4882,9 +4882,9 @@
         "cashOnHand": 1143115.48
       },
       "Arthur Purves": {
-        "receipts": 38664.61,
-        "disbursements": 18929.53,
-        "cashOnHand": 19735.08
+        "receipts": 5142.86,
+        "disbursements": 5142.86,
+        "cashOnHand": 0
       }
     },
     "WA-01": {
@@ -4912,7 +4912,7 @@
       }
     },
     "WA-03": {
-      "Marie Gluesenkamp Perez": {
+      "'''[[Marie Gluesenkamp Perez]]'''": {
         "receipts": 9472266.66,
         "disbursements": 9264207.1,
         "cashOnHand": 234519.93
@@ -4924,7 +4924,7 @@
       }
     },
     "WA-04": {
-      "Amanda McKinney": {
+      "'''[[Amanda McKinney]]'''": {
         "receipts": 1448473.62,
         "disbursements": 1231097.77,
         "cashOnHand": 217375.85
@@ -4936,7 +4936,7 @@
       }
     },
     "WA-05": {
-      "Michael Baumgartner": {
+      "'''[[Michael Baumgartner]]'''": {
         "receipts": 2208414.59,
         "disbursements": 1710064.61,
         "cashOnHand": 689914.65
@@ -5032,7 +5032,7 @@
       }
     },
     "WI-01": {
-      "Mitchell Berman": {
+      "'''[[Mitchell Berman (politician)|Mitchell Berman]]'''": {
         "receipts": 1977699.66,
         "disbursements": 1626141.88,
         "cashOnHand": 351557.78
@@ -5111,7 +5111,7 @@
       }
     },
     "WI-08": {
-      "Tony Wied": {
+      "'''[[Tony Wied]]'''": {
         "receipts": 1354324.32,
         "disbursements": 1157189.07,
         "cashOnHand": 242365.75
@@ -5288,7 +5288,7 @@
       }
     },
     "ME": {
-      "'''[[Troy Jackson]]''' (replacing [[Graham Platner]])": {
+      "'''[[Troy Jackson]]''' (replaced [[Graham Platner]])": {
         "receipts": 26872873.96,
         "disbursements": 25276003.4,
         "cashOnHand": 1596870.56
@@ -5330,13 +5330,13 @@
         "cashOnHand": 993214.07
       },
       "Michele Tafoya": {
-        "receipts": 12501785.59,
-        "disbursements": 9682729.8,
-        "cashOnHand": 2819386.89
+        "receipts": 46625.58,
+        "disbursements": 44745.68,
+        "cashOnHand": 2211
       }
     },
     "MS": {
-      "Scott Colom": {
+      "'''[[Scott Colom]]'''": {
         "receipts": 4400889.53,
         "disbursements": 3382172.58,
         "cashOnHand": 1018716.95
@@ -5473,7 +5473,7 @@
         "disbursements": 22507375.14,
         "cashOnHand": 1709465.53
       },
-      "[[Darline Graham]] (replacing [[Lindsey Graham]])": {
+      "[[Darline Graham]] (replaced [[Lindsey Graham]])": {
         "receipts": 1917646.09,
         "disbursements": 1283216.19,
         "cashOnHand": 634429.9

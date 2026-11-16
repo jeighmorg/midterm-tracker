@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T22:24:04.712Z",
+  "fetchedAt": "2026-11-16T22:05:04.085Z",
   "source": "Wikipedia: each state's 2026 Senate election article infobox",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
   "states": {
@@ -135,7 +135,7 @@
     ],
     "ME": [
       {
-        "name": "'''[[Troy Jackson]]''' (replacing [[Graham Platner]])",
+        "name": "'''[[Troy Jackson]]''' (replaced [[Graham Platner]])",
         "party": "D"
       },
       {
@@ -175,7 +175,7 @@
     ],
     "MS": [
       {
-        "name": "Scott Colom",
+        "name": "'''[[Scott Colom]]'''",
         "party": "D"
       },
       {
@@ -289,7 +289,7 @@
         "party": "D"
       },
       {
-        "name": "[[Darline Graham]] (replacing [[Lindsey Graham]])",
+        "name": "[[Darline Graham]] (replaced [[Lindsey Graham]])",
         "party": "R"
       }
     ],

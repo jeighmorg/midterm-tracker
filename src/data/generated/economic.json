@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-09T22:13:48.900Z",
+  "fetchedAt": "2026-11-16T21:54:31.211Z",
   "cpi": {
-    "asOf": "2026-09-01",
-    "yoyPercent": 3.7
+    "asOf": "2026-10-01",
+    "yoyPercent": null
   },
   "unemployment": {
     "asOf": "2026-10-01",
